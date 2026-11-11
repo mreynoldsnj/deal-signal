@@ -1,0 +1,113 @@
+{
+  "discovery_feeds": [
+    {
+      "name": "Slickdeals Frontpage",
+      "type": "rss",
+      "url": "https://slickdeals.net/newsearch.php?mode=frontpage&searcharea=deals&searchin=first&rss=1",
+      "site": "https://slickdeals.net/",
+      "status": "discovery_only"
+    },
+    {
+      "name": "Slickdeals Popular",
+      "type": "rss",
+      "url": "https://slickdeals.net/newsearch.php?mode=popdeals&searcharea=deals&searchin=first&rss=1",
+      "site": "https://slickdeals.net/",
+      "status": "discovery_only"
+    },
+    {
+      "name": "DealNews Latest",
+      "type": "rss",
+      "url": "https://www.dealnews.com/?rss=1&sort=time",
+      "site": "https://www.dealnews.com/",
+      "status": "discovery_only"
+    },
+    {
+      "name": "DealNews Editors",
+      "type": "rss",
+      "url": "https://dealnews.a.ssl.fastly.net/dealnews/rss/todays-edition.xml",
+      "site": "https://www.dealnews.com/",
+      "status": "discovery_only"
+    },
+    {
+      "name": "TechBargains",
+      "type": "rss",
+      "url": "https://www.techbargains.com/rss.xml",
+      "site": "https://www.techbargains.com/",
+      "status": "discovery_only"
+    },
+    {
+      "name": "cDeals",
+      "type": "rss",
+      "url": "https://cdeals.co/feeds/deals.xml",
+      "site": "https://cdeals.co/",
+      "status": "discovery_only"
+    }
+  ],
+  "research_sources": [
+    {
+      "name": "Brad's Deals",
+      "url": "https://www.bradsdeals.com/",
+      "description": "Curated retail promotions"
+    },
+    {
+      "name": "TechBargains",
+      "url": "https://www.techbargains.com/",
+      "description": "Tech deal discovery"
+    },
+    {
+      "name": "Slickdeals",
+      "url": "https://slickdeals.net/",
+      "description": "Community deal tracking"
+    },
+    {
+      "name": "DealNews",
+      "url": "https://www.dealnews.com/",
+      "description": "Deals editorial and RSS"
+    },
+    {
+      "name": "BlackFriday.LTD",
+      "url": "https://blackfriday.ltd/",
+      "description": "2026 deals and ad previews"
+    },
+    {
+      "name": "Blacker Friday",
+      "url": "https://www.blackerfriday.com/",
+      "description": "Retailer ad scans and dates"
+    },
+    {
+      "name": "Early Black Friday",
+      "url": "https://www.earlyblackfriday.com/",
+      "description": "Ads and pre-sale coverage"
+    },
+    {
+      "name": "Target",
+      "url": "https://www.target.com/c/target-black-friday/-/N-5q0f2",
+      "description": "Official retailer sale"
+    },
+    {
+      "name": "The Home Depot",
+      "url": "https://www.homedepot.com/b/Black-Friday-Deals/N-5yc1vZ1z1zdoh",
+      "description": "Official retailer sale"
+    },
+    {
+      "name": "Crutchfield",
+      "url": "https://www.crutchfield.com/promo/black-friday-deals.html",
+      "description": "Official retailer sale"
+    },
+    {
+      "name": "Amazon",
+      "url": "https://www.amazon.com/blackfriday",
+      "description": "Official retailer sale"
+    },
+    {
+      "name": "Best Buy",
+      "url": "https://www.bestbuy.com/site/black-friday/black-friday-deals/pcmcat225600050002.c",
+      "description": "Official retailer sale"
+    },
+    {
+      "name": "Walmart",
+      "url": "https://www.walmart.com/shop/deals/black-friday",
+      "description": "Official retailer sale"
+    }
+  ]
+}

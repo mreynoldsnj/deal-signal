@@ -1,0 +1,448 @@
+{
+  "note": "Editorial reads based on how these brands have been discounted in prior holiday seasons. Not a forecast or guarantee. 'match' strings are compared (case-insensitive) against each deal's brand and title.",
+  "brands": [
+    {
+      "id": "target",
+      "name": "Target",
+      "category": "Retailers",
+      "visual": "toy",
+      "scope": "store",
+      "match": [
+        "Target"
+      ],
+      "odds": "often",
+      "where": "Toys, small appliances, TVs and home goods. See the calendar for its Early Black Friday window.",
+      "trap": "Target Circle member deals and Circle Card savings are conditional. Only the price everyone pays counts here."
+    },
+    {
+      "id": "nike",
+      "name": "Nike",
+      "category": "Apparel & Footwear",
+      "visual": "apparel",
+      "match": [
+        "Nike",
+        "Jordan"
+      ],
+      "odds": "sometimes",
+      "where": "Older colorways and last season's styles, on Nike.com and at sporting-goods stores.",
+      "trap": "“Extra % off sale styles” offers usually need a code or a member sign-in. That makes them conditional, so they don't count here."
+    },
+    {
+      "id": "pottery-barn",
+      "name": "Pottery Barn",
+      "parent": "Williams-Sonoma, Inc.",
+      "category": "Home",
+      "visual": "home",
+      "match": [
+        "Pottery Barn",
+        "PB Teen",
+        "Pottery Barn Kids"
+      ],
+      "odds": "sometimes",
+      "where": "Bedding, rugs, holiday décor and furniture across Pottery Barn, Pottery Barn Kids and Pottery Barn Teen.",
+      "trap": "Large furniture can add a delivery fee, and made-to-order pieces can take weeks. Compare the delivered price, not only the sale tag."
+    },
+    {
+      "id": "milwaukee",
+      "name": "Milwaukee",
+      "category": "Tools",
+      "visual": "tools",
+      "match": [
+        "Milwaukee"
+      ],
+      "odds": "often",
+      "where": "Battery + charger starter kits and combo kits, especially at The Home Depot.",
+      "trap": "“Free tool with kit” promos aren’t a percent off. They only land here if the kit price itself drops 35%."
+    },
+    {
+      "id": "kohls",
+      "name": "Kohl's",
+      "category": "Retailers",
+      "visual": "home",
+      "scope": "store",
+      "match": [
+        "Kohl's",
+        "Kohl’s",
+        "Kohls"
+      ],
+      "odds": "often",
+      "where": "Small kitchen appliances, bedding, toys and apparel, with heavy doorbuster weeks around Black Friday.",
+      "trap": "Kohl's Cash is a reward on a future purchase, not a price drop, and percent-off codes are conditional. Only the posted sale price counts."
+    },
+    {
+      "id": "gap",
+      "name": "Gap",
+      "parent": "Gap Inc.",
+      "category": "Gap Inc.",
+      "visual": "apparel",
+      "match": [
+        "Gap",
+        "GapKids",
+        "babyGap",
+        "GapBody",
+        "GapFit",
+        "GapStudio",
+        "Gap Maternity"
+      ],
+      "odds": "often",
+      "where": "Gap, GapKids, babyGap, Gap Maternity, GapBody, GapFit and GapStudio, during frequent site-wide events.",
+      "trap": "Headline percentages often need a checkout code, or apply only to full-price styles. Check the item's own sale price."
+    },
+    {
+      "id": "crate-and-barrel",
+      "name": "Crate & Barrel",
+      "parent": "Otto Group",
+      "category": "Home",
+      "visual": "home",
+      "match": [
+        "Crate & Barrel",
+        "Crate and Barrel",
+        "CB2",
+        "Crate & Kids"
+      ],
+      "odds": "sometimes",
+      "where": "Cookware, dinnerware, small appliances and holiday décor, plus its CB2 and Crate & Kids lines.",
+      "trap": "Cookware sets are often put together for the sale. Price the pieces you'd actually use."
+    },
+    {
+      "id": "lg",
+      "name": "LG",
+      "category": "TVs & Appliances",
+      "visual": "screen",
+      "match": [
+        "LG"
+      ],
+      "odds": "often",
+      "where": "OLED C-series TVs, plus refrigerators and laundry during appliance events.",
+      "trap": "Retailer-specific model codes can differ from the reviewed model. Match the full model number."
+    },
+    {
+      "id": "loft",
+      "name": "LOFT",
+      "parent": "Premium Apparel",
+      "category": "Apparel & Footwear",
+      "visual": "apparel",
+      "match": [
+        "LOFT",
+        "Lou & Grey"
+      ],
+      "odds": "often",
+      "where": "Frequent site-wide percentage events, plus “extra % off sale” promotions.",
+      "trap": "The extra % comes off an already-reduced price and usually needs a code, which makes it conditional. Only the posted item price counts here."
+    },
+    {
+      "id": "the-north-face",
+      "name": "The North Face",
+      "category": "Outdoor",
+      "visual": "apparel",
+      "match": [
+        "The North Face",
+        "North Face"
+      ],
+      "odds": "sometimes",
+      "where": "Past-season jackets and fleece at The North Face and outdoor and sporting-goods stores.",
+      "trap": "XPLR Pass member pricing is conditional. Colorway matters too: the discounted color is often not the one in the photo."
+    },
+    {
+      "id": "bass-pro",
+      "name": "Bass Pro Shops",
+      "category": "Retailers",
+      "visual": "apparel",
+      "scope": "store",
+      "match": [
+        "Bass Pro Shops",
+        "Bass Pro",
+        "Cabela's",
+        "Cabela’s"
+      ],
+      "odds": "sometimes",
+      "where": "Outdoor apparel, coolers, fishing and camping gear at Bass Pro Shops and its sister chain Cabela's.",
+      "trap": "CLUB points and “bonus” gift cards aren't a price drop. Compare house brands like RedHead with similar gear from other brands."
+    },
+    {
+      "id": "best-buy",
+      "name": "Best Buy",
+      "category": "Retailers",
+      "visual": "screen",
+      "scope": "store",
+      "match": [
+        "Best Buy"
+      ],
+      "odds": "often",
+      "where": "TVs, laptops, headphones and appliances across its early, Black Friday and Cyber Monday events (see the calendar below).",
+      "trap": "Member-only prices and open-box listings are conditional or not new, so they don't count."
+    },
+    {
+      "id": "ann-taylor",
+      "name": "Ann Taylor",
+      "parent": "Premium Apparel",
+      "category": "Apparel & Footwear",
+      "visual": "apparel",
+      "match": [
+        "Ann Taylor"
+      ],
+      "odds": "sometimes",
+      "where": "Suiting, sweaters and outerwear during seasonal events.",
+      "trap": "Promotions often exclude new arrivals and full-price suiting. Check the specific item, not the banner."
+    },
+    {
+      "id": "dicks",
+      "name": "Dick's Sporting Goods",
+      "category": "Retailers",
+      "visual": "apparel",
+      "scope": "store",
+      "match": [
+        "Dick's Sporting Goods",
+        "DICK'S Sporting Goods",
+        "Dick’s Sporting Goods"
+      ],
+      "odds": "often",
+      "where": "Past-season apparel and footwear, fitness equipment and outdoor gear, including Nike and The North Face.",
+      "trap": "ScoreCard member pricing and in-cart discounts are conditional. Only the posted shelf price counts."
+    },
+    {
+      "id": "disney-pixar",
+      "name": "Disney / Pixar",
+      "category": "Toys",
+      "visual": "toy",
+      "match": [
+        "Disney",
+        "Pixar",
+        "Toy Story"
+      ],
+      "odds": "often",
+      "where": "Toy Story 5 figures and playsets, especially at Target.",
+      "trap": "Character toys come in many near-identical sizes. Confirm the inch size and edition."
+    },
+    {
+      "id": "patagonia",
+      "name": "Patagonia",
+      "category": "Outdoor",
+      "visual": "apparel",
+      "match": [
+        "Patagonia"
+      ],
+      "odds": "rarely",
+      "where": "Patagonia doesn't run Black Friday sales on its own site. Markdowns show up at outdoor retailers, mostly on past-season colors.",
+      "trap": "Worn Wear (used gear) is cheaper, but it isn't a discount on a new item, so it never qualifies here."
+    },
+    {
+      "id": "hollister",
+      "name": "Hollister",
+      "parent": "Abercrombie & Fitch Co.",
+      "category": "Apparel & Footwear",
+      "visual": "apparel",
+      "match": [
+        "Hollister",
+        "Gilly Hicks"
+      ],
+      "odds": "often",
+      "where": "Site-wide and category events on jeans, hoodies, graphic tees and Gilly Hicks loungewear.",
+      "trap": "“Up to 50% off” covers a range. Check the individual item's own price pair, because many land well under the headline."
+    },
+    {
+      "id": "coach",
+      "name": "Coach",
+      "parent": "Tapestry",
+      "category": "Apparel & Footwear",
+      "visual": "apparel",
+      "match": [
+        "Coach"
+      ],
+      "odds": "sometimes",
+      "where": "Coach's sale section, and Coach Outlet's near-constant markdowns.",
+      "trap": "Coach Outlet carries made-for-outlet styles. An outlet “was” price isn't the boutique price of a similar bag."
+    },
+    {
+      "id": "old-navy",
+      "name": "Old Navy",
+      "parent": "Gap Inc.",
+      "category": "Gap Inc.",
+      "visual": "apparel",
+      "match": [
+        "Old Navy"
+      ],
+      "odds": "often",
+      "where": "Doorbuster-priced basics: fleece, jeans, pajamas, kids' and baby, plus outlet locations.",
+      "trap": "Big “50% off” events can be measured against prices that are rarely charged. Use the lowest-price check in Deal Check below."
+    },
+    {
+      "id": "quince",
+      "name": "Quince",
+      "category": "Apparel & Footwear",
+      "visual": "apparel",
+      "match": [
+        "Quince"
+      ],
+      "odds": "rarely",
+      "where": "Low everyday prices. Occasional markdowns on discontinued colors.",
+      "trap": "Quince's “traditional retail” figure compares its price to other brands. It isn't Quince's own former price, so it never counts as a reference price here."
+    },
+    {
+      "id": "dewalt",
+      "name": "DEWALT",
+      "category": "Tools",
+      "visual": "tools",
+      "match": [
+        "DEWALT"
+      ],
+      "odds": "often",
+      "where": "20V MAX kits, oscillating and impact tools at Home Depot, Lowe’s and Amazon.",
+      "trap": "Same tool, different kit. Check battery Ah and what’s in the box before you compare prices."
+    },
+    {
+      "id": "samsung",
+      "name": "Samsung",
+      "category": "TVs & Appliances",
+      "visual": "screen",
+      "match": [
+        "Samsung"
+      ],
+      "odds": "often",
+      "where": "TVs, monitors, storage and kitchen appliances.",
+      "trap": "Doorbuster TVs can be derivative models with different panels or fewer ports than the flagship line."
+    },
+    {
+      "id": "athleta",
+      "name": "Athleta",
+      "parent": "Gap Inc.",
+      "category": "Gap Inc.",
+      "visual": "apparel",
+      "match": [
+        "Athleta"
+      ],
+      "odds": "sometimes",
+      "where": "Leggings, outerwear and last season's colors in the sale section.",
+      "trap": "Athleta has no factory line. A deep cut here is usually a real markdown on a discontinued color or style."
+    },
+    {
+      "id": "banana-republic",
+      "name": "Banana Republic",
+      "parent": "Gap Inc.",
+      "category": "Gap Inc.",
+      "visual": "apparel",
+      "match": [
+        "Banana Republic"
+      ],
+      "odds": "sometimes",
+      "where": "Sweaters, outerwear and suiting during seasonal events.",
+      "trap": "Promotions often exclude new arrivals and cashmere. Read the fine print on the specific item."
+    },
+    {
+      "id": "gap-factory",
+      "name": "Gap Factory",
+      "parent": "Gap Inc.",
+      "category": "Gap Inc.",
+      "visual": "apparel",
+      "match": [
+        "Gap Factory",
+        "Gap Outlet"
+      ],
+      "odds": "often",
+      "where": "Gap Factory and Gap Outlet stores and site, with deep percentage events through much of the year.",
+      "trap": "Gap Inc. describes its factory lines as “exclusively designed collections.” They aren't the same items as at Gap, so don't compare across stores."
+    },
+    {
+      "id": "banana-republic-factory",
+      "name": "Banana Republic Factory",
+      "parent": "Gap Inc.",
+      "category": "Gap Inc.",
+      "visual": "apparel",
+      "match": [
+        "Banana Republic Factory",
+        "BR Factory"
+      ],
+      "odds": "often",
+      "where": "Banana Republic Factory stores and site, with frequent site-wide percentage events.",
+      "trap": "Factory merchandise is made for the factory channel. Compare it to other factory prices, not to Banana Republic mainline."
+    },
+    {
+      "id": "sony",
+      "name": "Sony",
+      "category": "Audio & TV",
+      "visual": "screen",
+      "match": [
+        "Sony"
+      ],
+      "odds": "sometimes",
+      "where": "Previous-generation headphones and TVs once newer models are out.",
+      "trap": "Current-generation flagships usually see smaller cuts than the older model sitting next to them."
+    },
+    {
+      "id": "apple",
+      "name": "Apple",
+      "category": "Tech",
+      "visual": "screen",
+      "match": [
+        "Apple",
+        "AirPods",
+        "iPad",
+        "MacBook"
+      ],
+      "odds": "rarely",
+      "where": "Older AirPods models are the usual exception.",
+      "trap": "iPhone deals tied to carrier activation, trade-ins or gift cards don’t count. There’s no clean price pair."
+    },
+    {
+      "id": "dyson",
+      "name": "Dyson",
+      "category": "Home",
+      "visual": "home",
+      "match": [
+        "Dyson"
+      ],
+      "odds": "sometimes",
+      "where": "Cordless vacuums and hair tools, often sold as bundles.",
+      "trap": "Retailer-exclusive configurations exist. Compare the included attachments, not only the model name."
+    },
+    {
+      "id": "kitchenaid",
+      "name": "KitchenAid",
+      "category": "Home",
+      "visual": "home",
+      "match": [
+        "KitchenAid"
+      ],
+      "odds": "sometimes",
+      "where": "Stand mixers and small kitchen appliances.",
+      "trap": "Holiday mixers are often a different series or bowl size than the one you priced in October."
+    },
+    {
+      "id": "sharkninja",
+      "name": "Ninja / Shark",
+      "category": "Home",
+      "visual": "home",
+      "match": [
+        "Ninja",
+        "Shark"
+      ],
+      "odds": "often",
+      "where": "Air fryers, blenders, robot and stick vacuums.",
+      "trap": "Their reference prices move a lot during the year. A “was” price may be a recent high."
+    },
+    {
+      "id": "lego",
+      "name": "LEGO",
+      "category": "Toys",
+      "visual": "toy",
+      "match": [
+        "LEGO"
+      ],
+      "odds": "rarely",
+      "where": "Older sets at third-party stores like Target, Walmart and Amazon.",
+      "trap": "Brand-store promos lean on gifts with purchase and Insider points, which aren’t a price drop."
+    },
+    {
+      "id": "husky",
+      "name": "Husky",
+      "category": "Tools",
+      "visual": "tools",
+      "match": [
+        "Husky"
+      ],
+      "odds": "sometimes",
+      "where": "Hand tools, torque wrenches and mechanics sets, sold only at The Home Depot.",
+      "trap": "A store brand’s reference price is set by the store itself. Compare against similar sets from other brands."
+    }
+  ]
+}

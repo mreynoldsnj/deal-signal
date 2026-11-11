@@ -1,0 +1,50 @@
+{
+  "retailer_checks": [
+    {
+      "id": "lg-c6-55-crutchfield",
+      "status": "offline_seed",
+      "published": true
+    },
+    {
+      "id": "milwaukee-m18-kit-hd",
+      "status": "offline_seed",
+      "published": true
+    },
+    {
+      "id": "target-toy-story-woody",
+      "status": "offline_seed",
+      "published": true
+    },
+    {
+      "id": "target-toy-story-buzz",
+      "status": "offline_seed",
+      "published": true
+    },
+    {
+      "id": "target-slinky-dog",
+      "status": "offline_seed",
+      "published": true
+    },
+    {
+      "id": "hd-milwaukee-m12-battery",
+      "status": "offline_seed",
+      "published": true
+    },
+    {
+      "id": "hd-husky-torque",
+      "status": "offline_seed",
+      "published": true
+    },
+    {
+      "id": "hd-dewalt-oscillating",
+      "status": "offline_seed",
+      "published": true
+    },
+    {
+      "id": "hd-lg-fridge",
+      "status": "offline_seed",
+      "published": true
+    }
+  ],
+  "discovery_scans": []
+}

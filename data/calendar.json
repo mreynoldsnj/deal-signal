@@ -1,0 +1,174 @@
+{
+  "year": 2026,
+  "range": [
+    "2026-11-01",
+    "2026-12-02"
+  ],
+  "source": {
+    "name": "9to5Toys — Black Friday 2026 sale schedule (Nov 4, 2026)",
+    "url": "https://9to5toys.com/2026/11/04/black-friday-2026-sale-schedule-key-dates-to-watch-out-for/"
+  },
+  "source2": {
+    "name": "9to5Toys — Black Friday 2026 deal schedule (Oct 29, 2026)",
+    "url": "https://9to5toys.com/2026/10/29/black-friday-2026-deal-schedule-retailers/"
+  },
+  "markers": [
+    {
+      "date": "2026-11-26",
+      "label": "Thanksgiving"
+    },
+    {
+      "date": "2026-11-27",
+      "label": "Black Friday"
+    },
+    {
+      "date": "2026-11-30",
+      "label": "Cyber Monday"
+    }
+  ],
+  "retailers": [
+    {
+      "name": "The Home Depot",
+      "events": [
+        {
+          "name": "Black Friday Savings Event",
+          "start": "2026-11-05",
+          "end": "2026-11-25",
+          "kind": "early"
+        },
+        {
+          "name": "Appliance deals start",
+          "start": "2026-11-26",
+          "end": "2026-11-26",
+          "kind": "day"
+        },
+        {
+          "name": "Black Friday Doorbusters",
+          "start": "2026-11-27",
+          "end": "2026-11-27",
+          "kind": "day"
+        },
+        {
+          "name": "Cyber Monday deals",
+          "start": "2026-11-30",
+          "end": "2026-11-30",
+          "kind": "cyber"
+        }
+      ]
+    },
+    {
+      "name": "Target",
+      "events": [
+        {
+          "name": "Deals of the Day → Early Black Friday",
+          "start": "2026-11-01",
+          "end": null,
+          "kind": "early",
+          "detail": "Deals of the Day from Nov 1; Early Black Friday sale from Nov 5"
+        }
+      ]
+    },
+    {
+      "name": "Best Buy",
+      "events": [
+        {
+          "name": "Early Black Friday + Doorbusters",
+          "start": "2026-11-06",
+          "end": null,
+          "kind": "early"
+        },
+        {
+          "name": "Black Friday",
+          "start": "2026-11-19",
+          "end": "2026-11-28",
+          "kind": "main"
+        },
+        {
+          "name": "Cyber Monday",
+          "start": "2026-11-29",
+          "end": "2026-11-30",
+          "kind": "cyber"
+        }
+      ]
+    },
+    {
+      "name": "Walmart",
+      "events": [
+        {
+          "name": "Early Black Friday",
+          "start": "2026-11-12",
+          "end": "2026-11-15",
+          "kind": "early"
+        },
+        {
+          "name": "Black Friday",
+          "start": "2026-11-23",
+          "end": "2026-11-29",
+          "kind": "main"
+        },
+        {
+          "name": "Cyber Monday",
+          "start": "2026-11-30",
+          "end": "2026-12-02",
+          "kind": "cyber"
+        }
+      ]
+    },
+    {
+      "name": "Costco",
+      "events": [
+        {
+          "name": "Early Black Friday",
+          "start": "2026-10-30",
+          "end": null,
+          "kind": "early"
+        },
+        {
+          "name": "Thanksgiving deals (online)",
+          "start": "2026-11-26",
+          "end": "2026-11-26",
+          "kind": "day"
+        }
+      ]
+    },
+    {
+      "name": "Sam’s Club",
+      "events": [
+        {
+          "name": "Countdown to Black Friday",
+          "start": "2026-11-15",
+          "end": "2026-11-25",
+          "kind": "early"
+        },
+        {
+          "name": "Black Friday",
+          "start": "2026-11-26",
+          "end": "2026-11-29",
+          "kind": "main"
+        }
+      ]
+    },
+    {
+      "name": "LEGO",
+      "events": [
+        {
+          "name": "Insiders Weekend",
+          "start": "2026-11-21",
+          "end": "2026-11-22",
+          "kind": "early"
+        },
+        {
+          "name": "Black Friday sale",
+          "start": "2026-11-27",
+          "end": "2026-11-30",
+          "kind": "main"
+        }
+      ]
+    },
+    {
+      "name": "Amazon",
+      "events": [],
+      "note": "Not officially announced as of Nov 4."
+    }
+  ]
+}

@@ -3,54 +3,54 @@
     {
       "id": "lg-c6-55-crutchfield",
       "status": "check_failed:HTTPError",
-      "published": true
+      "published": false
     },
     {
       "id": "milwaukee-m18-kit-hd",
       "status": "check_failed:HTTPError",
-      "published": true
+      "published": false
     },
     {
       "id": "target-toy-story-woody",
       "status": "price_not_confirmed",
-      "published": true
+      "published": false
     },
     {
       "id": "target-toy-story-buzz",
       "status": "price_not_confirmed",
-      "published": true
+      "published": false
     },
     {
       "id": "target-slinky-dog",
       "status": "price_not_confirmed",
-      "published": true
+      "published": false
     },
     {
       "id": "hd-milwaukee-m12-battery",
       "status": "check_failed:HTTPError",
-      "published": true
+      "published": false
     },
     {
       "id": "hd-husky-torque",
       "status": "check_failed:HTTPError",
-      "published": true
+      "published": false
     },
     {
       "id": "hd-dewalt-oscillating",
       "status": "check_failed:HTTPError",
-      "published": true
+      "published": false
     },
     {
       "id": "hd-lg-fridge",
       "status": "check_failed:HTTPError",
-      "published": true
+      "published": false
     }
   ],
   "discovery_scans": [
     {
       "source": "Slickdeals Frontpage",
       "status": "ok",
-      "items": 3
+      "items": 6
     },
     {
       "source": "Slickdeals Popular",

@@ -2,49 +2,80 @@
   "retailer_checks": [
     {
       "id": "lg-c6-55-crutchfield",
-      "status": "offline_seed",
+      "status": "check_failed:HTTPError",
       "published": true
     },
     {
       "id": "milwaukee-m18-kit-hd",
-      "status": "offline_seed",
+      "status": "check_failed:HTTPError",
       "published": true
     },
     {
       "id": "target-toy-story-woody",
-      "status": "offline_seed",
+      "status": "price_not_confirmed",
       "published": true
     },
     {
       "id": "target-toy-story-buzz",
-      "status": "offline_seed",
+      "status": "price_not_confirmed",
       "published": true
     },
     {
       "id": "target-slinky-dog",
-      "status": "offline_seed",
+      "status": "price_not_confirmed",
       "published": true
     },
     {
       "id": "hd-milwaukee-m12-battery",
-      "status": "offline_seed",
+      "status": "check_failed:HTTPError",
       "published": true
     },
     {
       "id": "hd-husky-torque",
-      "status": "offline_seed",
+      "status": "check_failed:HTTPError",
       "published": true
     },
     {
       "id": "hd-dewalt-oscillating",
-      "status": "offline_seed",
+      "status": "check_failed:HTTPError",
       "published": true
     },
     {
       "id": "hd-lg-fridge",
-      "status": "offline_seed",
+      "status": "check_failed:HTTPError",
       "published": true
     }
   ],
-  "discovery_scans": []
+  "discovery_scans": [
+    {
+      "source": "Slickdeals Frontpage",
+      "status": "ok",
+      "items": 11
+    },
+    {
+      "source": "Slickdeals Popular",
+      "status": "ok",
+      "items": 25
+    },
+    {
+      "source": "DealNews Latest",
+      "status": "ok",
+      "items": 48
+    },
+    {
+      "source": "DealNews Editors",
+      "status": "ok",
+      "items": 48
+    },
+    {
+      "source": "TechBargains",
+      "status": "ok",
+      "items": 150
+    },
+    {
+      "source": "cDeals",
+      "status": "ok",
+      "items": 50
+    }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T01:42:12.862138Z",
+  "generated_at": "2026-11-12T02:19:22.354120Z",
   "minimum_discount_percent": 35,
   "evidence_policy": "official_retailer_price_pair_only",
   "deals": [],
@@ -180,7 +180,7 @@
     {
       "source": "Slickdeals Frontpage",
       "status": "ok",
-      "items": 7
+      "items": 5
     },
     {
       "source": "Slickdeals Popular",
@@ -190,12 +190,12 @@
     {
       "source": "DealNews Latest",
       "status": "ok",
-      "items": 49
+      "items": 50
     },
     {
       "source": "DealNews Editors",
       "status": "ok",
-      "items": 49
+      "items": 50
     },
     {
       "source": "TechBargains",

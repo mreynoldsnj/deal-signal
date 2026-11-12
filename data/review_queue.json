@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T02:19:22.354120Z",
-  "count": 283,
+  "generated_at": "2026-11-12T02:40:08.364562Z",
+  "count": 282,
   "candidates": [
     {
       "id": "650647eab84ab20f",
@@ -31,15 +31,71 @@
       "title": "Select Buffalo Wild Wings: 20-Pc Pickle Wings + Large Fries Combo from $18",
       "source": "Slickdeals Frontpage",
       "url": "https://slickdeals.net/f/20279346-buffalo-wild-wings-starting-11-10-18-for-20-wings-large-fries-4-dipping-sauces-6-pickle-margarita-new-pickle-sauce-and-fried-pickle-chips?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "details": "Buffalo Wild Wings (Store Locator) is offering a *20-Piece Pickle Wings + Large Fries Combo* on sale *from $17.99* at participating locations. Select free pickup where available, otherwise delivery...",
+      "details": "I love pickles and will be giving these a try. Starting 11/10. Buffalo Wild Wings: Starting 11/10: $18 for 20 wings, large fries & 4 Dipping Sauces, $6 Pickle Margarita, New Pickle Sauce and New...",
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "f40720f2ef7c4988",
-      "title": "Costco In-Warehouse Offer: 180-Ct Kirkland Signature Fast Acting Dairy Lactase $13 (Pricing/Availability May Vary)",
-      "source": "Slickdeals Frontpage",
-      "url": "https://slickdeals.net/f/20286945-costco-in-warehouse-only-ends-11-22-180-ct-kirkland-fast-acting-dairy-digestive-lactase-caplets-for-12-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "details": "Costco [costco.com] has *Kirkland Signature Fast Acting Lactase, 180 Caplets* for *$3 off* until *November 22, 2026*. The online price is $19.99 - $3 = $16.99. But the in-warehouse price is $15.99...",
+      "id": "aec0c3770e50b847",
+      "title": "78-in-1 Strebito Mini Cordless Electric Screwdriver Set w/ Digital Display (Includes 72 S2 Bits) $19.99 + Free Shipping w/ Prime or on $35+",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20294151-78-in-1-strebito-mini-cordless-electric-screwdriver-set-w-digital-display-includes-72-s2-bits-19-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Strebito shop via Amazon [amazon.com] has *78-in-1 Strebito Mini Cordless Electric Screwdriver Set w/ Digital Display (Includes 72 S2 Bits)* on sale for $39.99 - $20 off when you apply promo code...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "d4b00561c70a64a3",
+      "title": "$54.99: The Legend of Zelda: Ocarina of Time - Nintendo Switch 2 [Digital Code] at Newegg",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20293932-54-99-the-legend-of-zelda-ocarina-of-time-nintendo-switch-2-digital-code-at-newegg?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Newegg has The Legend of Zelda: Ocarina of Time - Nintendo Switch 2 [Digital Code] for $54.99 w/ promo code EMCF3483 https://www.newegg.com/the-legend...6832026120",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "b21433c49d1ff867",
+      "title": "13\" Apple MacBook Air w/ M5 10-Core, 16GB RAM & 1TB SSD (Silver) $1399",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20292624-13-apple-macbook-air-w-m5-10-core-16gb-ram-1tb-ssd-silver-1399?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "B&H Photo Video [bhphotovideo.com] has *13\" Apple MacBook Air w/ M5 10-Core, 16GB RAM & 1TB SSD (Silver)* on sale for *$1399*. Add any eligible item priced under $1 from B&H's Deals & Promotions to...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "433b59bcfd963980",
+      "title": "Open Box: Best Buy essentials™ - 7-Port USB 2.0 Powered Hub from $11.99 + Free Shipping",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20279316-open-box-best-buy-essentials-7-port-usb-2-0-powered-hub-from-11-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Best Buy has *Open Box: Best Buy essentials™ - 7-Port USB 2.0 Powered Hub from $11.99 + Free Shipping for My Best Buy Members (Free)* Excellent: $13.99 Good: $12.99 Fair: $11.99 ...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "35d44cd10f5775d1",
+      "title": "Play-Doh Wok & Wonton Playset $4.49 + Free Shipping w/ Prime or on $35+",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20294055-play-doh-wok-wonton-playset-4-49-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Amazon [amazon.com] has *Play-Doh Wok & Wonton Playset* on sale for $5.99 - $1.50 off when you 'clip' the coupon on product page [amazon.com] = *$4.49*. Shipping is free w/ Prime or on orders $35+. ...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "a2a3bec7ff7c6e35",
+      "title": "WASOTO Heated Jackets for Men with 18400mAh Battery Pack Included $74.99 AC",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20286975-wasoto-heated-jackets-for-men-with-18400mah-battery-pack-included-74-99-ac?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "WASOTO *Heated Jackets for Men with 18400mAh Battery Pack Included* $74.99 AC Windproof Waterproof with Foldable Hood for Snowboarding (Black, XL) Sold by *Rena-US* and Ships from Amazon. ...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "e08aad80d9464c9e",
+      "title": "Amazon Basics 240W USB-C to USB-C Fast Charging Cable, 6ft, Black, 2-Pack $8.89",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20294019-amazon-basics-240w-usb-c-to-usb-c-fast-charging-cable-6ft-black-2-pack-8-89?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Amazon Basics 240W USB-C to USB-C Fast Charging Cable, 6ft, Black, 2-Pack USB-IF Certified Braided https://www.amazon.com/dp/B0GR8L82YP",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "39500390ebbe0ce6",
+      "title": "18.8-Oz Campbell's Chunky x Pabst Blue Ribbon Beer Cheese w/ Potato & Chorizo Soup $1.58 w/ S&S + Free Shipping w/ Prime or on $35+",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20294010-18-8-oz-campbell-s-chunky-x-pabst-blue-ribbon-beer-cheese-w-potato-chorizo-soup-1-58-w-s-s-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Amazon [amazon.com] has *18.8-Oz Campbell's Chunky x Pabst Blue Ribbon Beer Cheese w/ Potato & Chorizo Soup* for $1.98 - 15% off when you 'clip' the coupon on product page [amazon.com] - 5% off when...",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -83,27 +139,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "b7e2c7d6795512d9",
-      "title": "adidas men Workout Essentials Feelready 3 Stripes T-Shirt (2 Colors) from $7.2",
+      "id": "b54aaaa7cf2fa6de",
+      "title": "Amazon Basics 240W USB-C to USB-C Fast Charging Cable, 6ft, Black, 2-Pack $8.89 @Amazon",
       "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20288640-adidas-men-workout-essentials-feelready-3-stripes-t-shirt-2-colors-from-7-2?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "adidas men Workout Essentials Feelready 3 Stripes T-Shirt (2 Colors) from *$7.20* Apply code *SHOPBRANDS20* at checkout. Free shipping. _Available_ * Black / White [ebay.com] *$7.20* *...",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "77a5bd365145e5b4",
-      "title": "Amazon Basics 240W USB-C to USB-C Fast Charging Cable, 6ft, Black, 2-Pack",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20294025-amazon-basics-240w-usb-c-to-usb-c-fast-charging-cable-6ft-black-2-pack?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/20294025-amazon-basics-240w-usb-c-to-usb-c-fast-charging-cable-6ft-black-2-pack-8-89-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
       "details": "Amazon Basics 240W USB-C to USB-C Fast Charging Cable, 6ft, Black, 2-Pack USB-IF Certified Braided https://www.amazon.com/dp/B0GR8L82YP",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "340e289a239c3198",
-      "title": "2 Pack Magnetic Electric Hand Warmer, 3 Heat Levels up to 140°F, Ideal Gift for Family or Friend $7.99",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20293884-2-pack-magnetic-electric-hand-warmer-3-heat-levels-up-to-140-f-ideal-gift-for-family-or-friend-7-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "High-Capacity, Magnetic, 3 Heat Levels up to 140°F, Ideal Gift for Family or Friend, for Camping Golf Skiing Outdoor Fishing Features: * 2-in-1 Rechargeable Hand Warmers * Built-in Temperature...",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -195,54 +235,6 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "38cbc1cfcdfff9c8",
-      "title": "6-Pack Amazon Essentials Men's Slim-Fit Cotton Crew Tees from $14.34",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20292873-6-pack-amazon-essentials-men-s-slim-fit-cotton-crew-tees-from-14-34?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Price drop on the 6-pack bundle of Amazon Essentials slim-fit crewneck undershirts. These are cut closer through the chest and waist than the standard regular fit, so they layer smoothly under dress...",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "7dfb88c5a641c5e3",
-      "title": "AOVOPRO 350W 8.5-Inch 36V 7.8Ah Electric Scooter with Seat 19MPH 22-Mile Range $103 + Free Shipping",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20290002-aovopro-350w-8-5-inch-36v-7-8ah-electric-scooter-with-seat-19mph-22-mile-range-103-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "AOVOPRO *350W 8.5-Inch 36V 7.8Ah Electric Scooter with Seat 19MPH 22-Mile Range* $103 + Free Shipping *AOVOPRO via AliExpress *has 350W 8.5-Inch Electric Scooter with Seat 19MPH 22-Mile Range on...",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "3b8e93fdb4d84c28",
-      "title": "3-Pack 19-Oz Progresso Mediterranean-Style Lentil Protein Canned Soup 3 for $4.58 ($1.53 each) w/ S&S + Free Shipping w/ Prime or on $35+",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20293869-3-pack-19-oz-progresso-mediterranean-style-lentil-protein-canned-soup-3-for-4-58-1-53-each-w-s-s-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Amazon [amazon.com] has *3-Pack 19-Oz Progresso Mediterranean-Style Lentil Protein Canned Soup* on sale for 3 for $8.58 - $3.57 multibuy discount - 5% off when you checkout via Subscribe & Save = *3...",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "3d62e21e380e78ca",
-      "title": "$12.50 | 10-Oz Stanley Everyday Can Cooler Cup at Amazon",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20293599-12-50-10-oz-stanley-everyday-can-cooler-cup-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Amazon [amazon.com] has *10-Oz Stanley Everyday Can Cooler Cup* for *$12.50*. *Shipping is free* with Prime or on $35+ orders. amazon.com/dp/B0GC7XBJHR [amazon.com] Please report the deal if...",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "8226f646bb9349a2",
-      "title": "Sony Alpha a7 III 24.2MP Full-Frame Mirrorless Camera Kit w/ FE 28-70mm f/3.5-5.6 OSS Lens $1598 + Free Shipping",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20293329-sony-alpha-a7-iii-24-2mp-full-frame-mirrorless-camera-kit-w-fe-28-70mm-f-3-5-5-6-oss-lens-1598-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Amazon [amazon.com] has *Sony Alpha a7 III 24.2MP Full-Frame Mirrorless Camera Kit w/ FE 28-70mm f/3.5-5.6 OSS Lens* on sale for *$1598*. *Shipping is free*. Amazon [amazon.com] also has *Sony...",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "cd45ea57edfd42d8",
-      "title": "[Prime] 70mai A900 4K+4K Dual-Channel Front & Rear Dash Cam w/ 4G LTE, GPS & Wi-Fi 6 $130.19 + Free Shipping",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20293203-prime-70mai-a900-4k-4k-dual-channel-front-rear-dash-cam-w-4g-lte-gps-wi-fi-6-130-19-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "70mai via Amazon [amazon.com] has for *Prime Members*: *70mai A900 4K+4K Dual-Channel Front & Rear Dash Cam w/ 4G LTE, GPS & Wi-Fi 6* on sale for $139.99 - 7% off when you 'clip' the coupon on...",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
       "id": "faeb050fb6125dee",
       "title": "Cabela's Holiday Gift Cards: 10% off",
       "source": "DealNews Latest",
@@ -291,11 +283,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "147be2cf1dd1d7cf",
-      "title": "Woot November Tech Best Sellers: Up to 93% off + free shipping w/ Prime",
+      "id": "cdfba72bf0d601ab",
+      "title": "Home Depot Black Friday Microwave Sale: Up to 47% off + bundle offers + free shipping w/ $398",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Woot-November-Tech-Best-Sellers-Up-to-93-off-free-shipping-w-Prime/22379815.html?iref=rss",
-      "details": "Woot’s November Tech Best Sellers sale features deals on electronics, computers, chargers, headphones, speakers, smart home devices, batteries, phone accessories, laptops, and more, with discounts of up to 93% off. Some standout deals include the pictured Amaz",
+      "url": "https://www.dealnews.com/Home-Depot-Black-Friday-Microwave-Sale-Up-to-47-off-bundle-offers-free-shipping-w-398/22375490.html?iref=rss",
+      "details": "As part of Home Depot's Black Friday Sale, you can save up to 47% off microwaves from Frigidaire, GE, KitchenAid, LG, Samsung, and Whirlpool. Plus, there's also a Spend More, Save More promotion on appliances, which means you can save up to an extra $300 off a",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -347,11 +339,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "8ba7a18c96d560cc",
-      "title": "Fanatics Veterans Day Promo Code: Up to an extra 50% off + shipping varies",
+      "id": "cb4cebac63ed669e",
+      "title": "Men's Wearhouse Veterans Day Sale: Up to 30% off + Buy One, Get One 50% off + free shipping",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Fanatics-Veterans-Day-Promo-Code-Up-to-an-extra-50-off-shipping-varies/22379839.html?iref=rss",
-      "details": "Today only, Fanatics is taking up to an extra 50% off across the store as part of its Veterans Day Sale. You'll just need to apply the promo code \"HONOR\" in cart to see the discounts. The code applies to most items sitewide, including jerseys, hats, jackets, s",
+      "url": "https://www.dealnews.com/Mens-Wearhouse-Veterans-Day-Sale-Up-to-30-off-Buy-One-Get-One-50-off-free-shipping/22375465.html?iref=rss",
+      "details": "The Men's Wearhouse Veterans Day Sale takes up to 30% off and then 50% off when you buy a second pair of eligible pants, a dress shirt, or casual wear piece. Sweaters and blazers both count as casual wear. Plus, Perfect Fit Rewards members get free shipping on",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -403,11 +395,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "ff09ba535f060e55",
-      "title": "adidas Early Holiday Sale: Up to 60% off + extra 30% off, ends today + free shipping",
+      "id": "3c141f8348b4a680",
+      "title": "vSeeBox V6 Plus 8K HDR Android 14 TV Box for $319 + free shipping",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/adidas-Early-Holiday-Sale-Up-to-60-off-extra-30-off-ends-today-free-shipping/22379823.html?iref=rss",
-      "details": "For one last day, adidas has just dropped a new promo code, \"COZY\", that takes an extra 30% off full-price and sale items, which are already discounted by up to 60%. It yields some of the best prices we've seen on running shoes, Terrex hiking gear, jerseys, an",
+      "url": "https://www.dealnews.com/vSee-Box-V6-Plus-8-K-HDR-Android-14-TV-Box-for-319-free-shipping/22351010.html?iref=rss",
+      "details": "The vSeeBox V6 Plus streaming box is $319, down from its regular price of $389 when using coupon code \"VSEEBOX18\", when purchased at the official authorized reseller of vSeeBox. It ships free within 24 hours, comes with a 1-year manufacturer warranty and 30-da",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -459,11 +451,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "1a48f082e8784da5",
-      "title": "Ultra Mobile Ultra-Early Access Savings for 50% off plans, from $6.50/mo.",
+      "id": "ff09ba535f060e55",
+      "title": "adidas Early Holiday Sale: Up to 60% off + extra 30% off, ends today + free shipping",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Ultra-Mobile-Ultra-Early-Access-Savings-for-50-off-plans-from-6-50-mo/22379900.html?iref=rss",
-      "details": "Ultra Mobile's best deal ever is back with 50% off all its plans with prices starting at $6.50 per month for the 4GB 12-Month Plan ($78 billed upfront). This is the best deal they've offered since last year around this time. These deals are for new customers o",
+      "url": "https://www.dealnews.com/adidas-Early-Holiday-Sale-Up-to-60-off-extra-30-off-ends-today-free-shipping/22379823.html?iref=rss",
+      "details": "For one last day, adidas has just dropped a new promo code, \"COZY\", that takes an extra 30% off full-price and sale items, which are already discounted by up to 60%. It yields some of the best prices we've seen on running shoes, Terrex hiking gear, jerseys, an",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -571,11 +563,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "c9573779eafdb85e",
-      "title": "Coins & Bullions Deals on eBay Live for Deals from $1 + free shipping",
+      "id": "62b0ebf136798f13",
+      "title": "RVshare RV Rental Deals for 15% off RV rentals of $700+ + free shipping",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Coins-Bullions-Deals-on-eBay-Live-for-Deals-from-1-free-shipping/22379859.html?iref=rss",
-      "details": "eBay Live hosts a rolling schedule of livestreamed auctions focused on coins, currency, and bullion, with many sessions offering $1 starting bids. Sellers like Rock River Coins and Jewelry, PCB Hobby, and Profile Coins and Collectibles run themed events coveri",
+      "url": "https://www.dealnews.com/RVshare-RV-Rental-Deals-for-15-off-RV-rentals-of-700-free-shipping/22375459.html?iref=rss",
+      "details": "Save 15% on RV bookings of $700 or more with code \"DNNOV15\". Deal ends November 30. Buy Now at RVshare Features RVshare is a peer to peer RV Marketplace. Promo codes apply to the rental price only – this does not include taxes, fees, upgrades, delivery, or ins",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -627,11 +619,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "62b0ebf136798f13",
-      "title": "RVshare RV Rental Deals for 15% off RV rentals of $700+ + free shipping",
+      "id": "8b15438be754dc63",
+      "title": "AliExpress Singles Day Sale: Up to 77% off + extra $3 to $155 off + free shipping",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/RVshare-RV-Rental-Deals-for-15-off-RV-rentals-of-700-free-shipping/22375459.html?iref=rss",
-      "details": "Save 15% on RV bookings of $700 or more with code \"DNNOV15\". Deal ends November 30. Buy Now at RVshare Features RVshare is a peer to peer RV Marketplace. Promo codes apply to the rental price only – this does not include taxes, fees, upgrades, delivery, or ins",
+      "url": "https://www.dealnews.com/Ali-Express-Singles-Day-Sale-Up-to-77-off-extra-3-to-155-off-free-shipping/22379861.html?iref=rss",
+      "details": "AliExpress has one of its biggest sales of the year on Singles Day, and this year is not exception. It's knocking of up to 77% off across the sale, but you can also make use of some of the best coupons we've seen in months, cutting an extra $3 to $155 your ord",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -643,27 +635,27 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "cdfba72bf0d601ab",
-      "title": "Home Depot Black Friday Microwave Sale: Up to 47% off + bundle offers + free shipping w/ $398",
+      "id": "147be2cf1dd1d7cf",
+      "title": "Woot November Tech Best Sellers: Up to 93% off + free shipping w/ Prime",
       "source": "DealNews Editors",
-      "url": "https://www.dealnews.com/Home-Depot-Black-Friday-Microwave-Sale-Up-to-47-off-bundle-offers-free-shipping-w-398/22375490.html?iref=rss",
-      "details": "As part of Home Depot's Black Friday Sale, you can save up to 47% off microwaves from Frigidaire, GE, KitchenAid, LG, Samsung, and Whirlpool. Plus, there's also a Spend More, Save More promotion on appliances, which means you can save up to an extra $300 off a",
+      "url": "https://www.dealnews.com/Woot-November-Tech-Best-Sellers-Up-to-93-off-free-shipping-w-Prime/22379815.html?iref=rss",
+      "details": "Woot’s November Tech Best Sellers sale features deals on electronics, computers, chargers, headphones, speakers, smart home devices, batteries, phone accessories, laptops, and more, with discounts of up to 93% off. Some standout deals include the pictured Amaz",
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "cb4cebac63ed669e",
-      "title": "Men's Wearhouse Veterans Day Sale: Up to 30% off + Buy One, Get One 50% off + free shipping",
+      "id": "1a48f082e8784da5",
+      "title": "Ultra Mobile Ultra-Early Access Savings for 50% off plans, from $6.50/mo.",
       "source": "DealNews Editors",
-      "url": "https://www.dealnews.com/Mens-Wearhouse-Veterans-Day-Sale-Up-to-30-off-Buy-One-Get-One-50-off-free-shipping/22375465.html?iref=rss",
-      "details": "The Men's Wearhouse Veterans Day Sale takes up to 30% off and then 50% off when you buy a second pair of eligible pants, a dress shirt, or casual wear piece. Sweaters and blazers both count as casual wear. Plus, Perfect Fit Rewards members get free shipping on",
+      "url": "https://www.dealnews.com/Ultra-Mobile-Ultra-Early-Access-Savings-for-50-off-plans-from-6-50-mo/22379900.html?iref=rss",
+      "details": "Ultra Mobile's best deal ever is back with 50% off all its plans with prices starting at $6.50 per month for the 4GB 12-Month Plan ($78 billed upfront). This is the best deal they've offered since last year around this time. These deals are for new customers o",
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "3c141f8348b4a680",
-      "title": "vSeeBox V6 Plus 8K HDR Android 14 TV Box for $319 + free shipping",
+      "id": "8ba7a18c96d560cc",
+      "title": "Fanatics Veterans Day Promo Code: Up to an extra 50% off + shipping varies",
       "source": "DealNews Editors",
-      "url": "https://www.dealnews.com/vSee-Box-V6-Plus-8-K-HDR-Android-14-TV-Box-for-319-free-shipping/22351010.html?iref=rss",
-      "details": "The vSeeBox V6 Plus streaming box is $319, down from its regular price of $389 when using coupon code \"VSEEBOX18\", when purchased at the official authorized reseller of vSeeBox. It ships free within 24 hours, comes with a 1-year manufacturer warranty and 30-da",
+      "url": "https://www.dealnews.com/Fanatics-Veterans-Day-Promo-Code-Up-to-an-extra-50-off-shipping-varies/22379839.html?iref=rss",
+      "details": "Today only, Fanatics is taking up to an extra 50% off across the store as part of its Veterans Day Sale. You'll just need to apply the promo code \"HONOR\" in cart to see the discounts. The code applies to most items sitewide, including jerseys, hats, jackets, s",
       "status": "needs_official_retailer_price_pair"
     },
     {

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-14T12:17:47.004792Z",
-  "count": 284,
+  "generated_at": "2026-11-14T12:40:05.857797Z",
+  "count": 286,
   "candidates": [
     {
       "id": "da5a28fc0f27d37f",
@@ -23,7 +23,7 @@
       "title": "8.5-Oz. JIFFY Corn Muffin Mix $0.50 + Free Pickup",
       "source": "Slickdeals Frontpage",
       "url": "https://slickdeals.net/f/20307528-jiffy-corn-muffin-mix-8-5-oz-box-0-50-walmart-free-pickup-or-delivery-with-walmart-35-orders?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "details": "Walmart has *8.5-Oz. JIFFY Corn Muffin Mix* on sale for *$0.50*. Select Free Store Pickup where stock permits. *Shipping is free* w/ Walmart+ (30-day trial for $1) or on orders of $35+.",
+      "details": "https://www.walmart.com/ip/seort/10448133 My other deals",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -55,7 +55,7 @@
       "title": "Hyper Tough 3-in-1 Laser Line Torpedo Level w/ LED Lighted Vials $12",
       "source": "Slickdeals Frontpage",
       "url": "https://slickdeals.net/f/20306559-12-wm-hyper-tough-3-in-1-laser-line-torpedo-level-with-led-lighted-vials?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "details": "Walmart has Hyper Tough 3-in-1 Laser Line Torpedo Level with LED Lighted Vials, for $12. Shipping is free for WM+ members or on orders $35+ or choose store pickup if available. [LIST][*]Projects...",
+      "details": "Walmart has *Hyper Tough 3-in-1 Laser Line Torpedo Level with LED Lighted Vials* (43661) for *$12*. *Shipping is free* w/ Walmart+ (30-day trial for $1) or on orders of $35+.",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -88,6 +88,78 @@
       "source": "Slickdeals Frontpage",
       "url": "https://slickdeals.net/f/20307240-micro-center-raspberry-pi-400-4gb-all-in-one-keyboard-computer-34-99-free-store-pickup?utm_source=rss&utm_content=fp&utm_medium=RSS2",
       "details": "Select Micro Center Locations [microcenter.com] have *Raspberry Pi 400 4GB All-in-One Keyboard Computer* for *$34.99*. Choose Free Store Pickup where available. Specs:[list][*]Broadcom BCM2711...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "efc167a04bd4426b",
+      "title": "Kobalt 3-in-1 10-in Cross-cutting Multi-Saw | 60151 $9.98",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20299050-kobalt-3-in-1-10-in-cross-cutting-multi-saw-60151-9-98?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "available for pickup and shipping https://www.lowes.com/pd/Kobalt-1...coEALw_wcB",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "41c9d6bc3786d6e6",
+      "title": "LG - 75” Class NU700B Series LED Nano AI 4K UHD Smart webOS TV (2026) @ Best Buy $399.99",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20304051-lg-75-class-nu700b-series-led-nano-ai-4k-uhd-smart-webos-tv-2026-best-buy-399-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Available for pickup and delivery https://www.bestbuy.com/product/l...JJ8VPZKFYQ",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "f8b394ad9abea363",
+      "title": "Saros - PlayStation 5 $41.99 + FS @ walmart",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20307108-saros-playstation-5-41-99-fs-walmart?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "https://www.walmart.com/ip/188932...8d0b2a00a9",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "cd34cae953f89626",
+      "title": "Alienware Aurora Gaming Desktop w/ Intel Core Ultra 9 285, RTX 5080 16GB, 32GB DDR5 RAM & 1TB SSD $2799.99 + Free Shipping",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20307807-alienware-aurora-gaming-desktop-w-intel-core-ultra-9-285-rtx-5080-16gb-32gb-ddr5-ram-1tb-ssd-2799-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Amazon [amazon.com] has *Alienware Aurora ACT250 Gaming Desktop* on sale for *$2799.99*. *Shipping is free*. Specs:[LIST][*]Intel Core Ultra 9 285 24-Core Processor (up to 5.6GHz)[*]NVIDIA GeForce...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "ba97b97a71366bab",
+      "title": "LG - UltraGear 34\" Curved WQHD 240Hz FreeSync Premium Gaming Monitor with DisplayHDR400 (HDMI, DP, USB-C, USB-A) - Black $379.99 Bestbuy.com",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20308191-lg-ultragear-34-curved-wqhd-240hz-freesync-premium-gaming-monitor-with-displayhdr400-hdmi-dp-usb-c-usb-a-black-379-99-bestbuy-com?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "https://www.bestbuy.com/product/l...JJ8VPZZPLP",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "08d3074d7b703d63",
+      "title": "LG - 36-in Counter-Depth MAX 25.5 Cu. Ft. French Door Smart Refrigerator with Ice Plus - PrintProof Stainless Steel Look $1599.99 Bestbuy.com",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20308197-lg-36-in-counter-depth-max-25-5-cu-ft-french-door-smart-refrigerator-with-ice-plus-printproof-stainless-steel-look-1599-99-bestbuy-com?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "https://www.bestbuy.com/product/l...JJ8VPZKRJ8",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "3840860c015ba1bd",
+      "title": "Garmin Alpha 200 Plus Dog Tracking & Training Handheld GPS $449.99 + Free Shipping",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20307792-garmin-alpha-200-plus-dog-tracking-training-handheld-gps-449-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Amazon [amazon.com] has *Garmin Alpha 200 Plus Dog Tracking & Training Handheld GPS* on sale for *$449.99*. *Shipping is free*.",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "7c04ba657d371dcb",
+      "title": "AIRFIRE HEPA Air Purifier for Home up to 1950 Sq.ft / 2 Hours, Air Purifiers Model AP201, Black, 2026 New $29.99",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20306055-airfire-hepa-air-purifier-for-home-up-to-1950-sq-ft-2-hours-air-purifiers-model-ap201-black-2026-new-29-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Airfire Group via Amazon hasAIRFIRE HEPA Air Purifier for Home up to 1950 Sq.ft / 2 Hours, Air Purifiers for Allergies and Asthma Model AP201, Black, 2026 New for $29.99 ...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "4b87aef77f52f522",
+      "title": "3-Pack Philips Hue BR30 E26 Smart LED 85W Light Bulbs $89.97 + Free Shipping",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20300520-3-pack-philips-hue-br30-e26-smart-led-85w-light-bulbs-89-97-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Phillips Hue [philips-hue.com] has *3-Pack Philips Hue BR30 E26 Smart LED 85W Light Bulbs* on sale for *$89.97*. *Shipping is free*. About; * Suitable for standard downlights, these bulbs also...",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -219,67 +291,43 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "b2f5323f75f71f1c",
-      "title": "$45: Nintendo eShop $50 Gift Card (Email Delivery) at Newegg",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20308308-45-nintendo-eshop-50-gift-card-email-delivery-at-newegg?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Newegg has Nintendo eShop $50 Gift Card (Email Delivery) for $45 w/ promo code BNWF2675 https://www.newegg.com/nintendo-5...6888026013",
+      "id": "96fa93553a7840db",
+      "title": "The North Face Fleece & Jacket Deals at eBay: Up to 63% off + buy 3, get 1 at 50% off + free shipping",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/The-North-Face-Fleece-Jacket-Deals-at-eBay-Up-to-63-off-buy-3-get-1-at-50-off-free-shipping/22393914.html?iref=rss",
+      "details": "At eBay, you can save up to 63% off on a selection of The North Face fleece jackets and coats for men and women. Plus, if you're stocking up, you can add three items to cart and get 50% off the cheapest one with the promo code \"FASHUPNOV26\". Prices start at ar",
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "b6d8ba5cabf8adff",
-      "title": "[NEW] $71.99 | Klein Tools 80067 Electrical Test Kit, 4-Piece at Amazon",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20308095-new-71-99-klein-tools-80067-electrical-test-kit-4-piece-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Amazon [amazon.com] has *Klein Tools 80067 Electrical Test Kit, 4-Piece* for *$71.99*. *Shipping is free*. amazon.com/dp/B0B11NG8XM [amazon.com] Please report the deal if expired (click report...",
+      "id": "e25cbe48b21fb693",
+      "title": "Yozma IN10 2,600W Electric Dirt Bike for $999 + free shipping",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/Yozma-IN10-2-600-W-Electric-Dirt-Bike-for-999-free-shipping/22375929.html?iref=rss",
+      "details": "Built for riders who want an electric dirt bike without jumping straight into high-end off-road pricing, the 2,600W motor gives you enough power for trail riding and moderate hills. It's $50 off the $1,049 list price at Amazon. Deal ends November 22. Buy Now a",
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "34ff88742fb0c867",
-      "title": "Solar-Powered Succulent Turtle Garden Statue w/ 7 LED Lights (Various) $12.49 + Free Shipping w/ Prime or on $35+",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20307504-solar-powered-succulent-turtle-garden-statue-w-7-led-lights-various-12-49-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Snclriao 3D via Amazon [amazon.com] has *Solar-Powered Succulent Turtle Garden Statue w/ 7 LED Lights* on sale for $24.99 - 50% off when you apply promo code XCYG63AO at checkout = *$12.49*. Shipping...",
+      "id": "8eb29ee4ebf06bb9",
+      "title": "adidas Minecraft Backpack for $16 + free shipping",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/adidas-Minecraft-Backpack-for-16-free-shipping/22393898.html?iref=rss",
+      "details": "Sign up for a free adiClub membership and you'll get access to the Black Friday price on this Minecraft backpack. It's $19, but you can use our promo code \"DN15\" to bring it down to $16 in cart. That's less than half its original price and within a buck of its",
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "1ecf479682573bf2",
-      "title": "$32.99 BJs Whol: Starts 11/16 Mobil 6 quart Full Syth in 0w-20, 5w-30, 5W-20 weights + Mobil1 Deals $35 and up for 6 quarts",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20306307-32-99-bjs-whol-starts-11-16-mobil-6-quart-full-syth-in-0w-20-5w-30-5w-20-weights-mobil1-deals-35-and-up-for-6-quarts?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "$32.99 starts Mon 11/16 with BJs membership MOBIL FULL SYTH (these are not Mobil1, Mobil1 below) 0w-20 https://www.bjs.com/product/mobil...002518263/ 5w-30",
+      "id": "f01d9c7f1c686097",
+      "title": "Certified Refurb EcoFlow DELTA 3 Classic 1024Wh Portable Power Station for $359 + free shipping",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/Certified-Refurb-Eco-Flow-DELTA-3-Classic-1024-Wh-Portable-Power-Station-for-359-free-shipping/22393897.html?iref=rss",
+      "details": "With promo code \"SHOPBRANDS20\" at eBay, this certified refurbished EcoFlow DELTA 3 Classic drops to $359. That's $10 less than we saw last week and $103 cheaper than a brand-new one. The refurbished model is sold directly by EcoFlow's official store and includ",
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "2aeb59a71910dd0e",
-      "title": "[SnS, AC] $22.97 or $20.27 | 5-Pack 38.27-Oz Swiss Miss Milk Chocolate Flavored Hot Cocoa Mix at Amazon ($4.59 each)",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20308101-sns-ac-22-97-or-20-27-5-pack-38-27-oz-swiss-miss-milk-chocolate-flavored-hot-cocoa-mix-at-amazon-4-59-each?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Amazon [amazon.com] has *5-Pack 38.27-Oz Swiss Miss Milk Chocolate Flavored Hot Cocoa Mix* for $27.02 - 10% at checkout - 5% when you check out via Subscribe & Save = *$22.97*. *Shipping is free*...",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "0a6751d4e0b02473",
-      "title": "Milwaukee M18 FUEL 18V 3/8\" Cordless Impact Wrench w/ (2) 5.0Ah Batteries, Charger & 43-Piece Impact Socket Set $298 + Free Shipping",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20308038-milwaukee-m18-fuel-18v-3-8-cordless-impact-wrench-w-2-5-0ah-batteries-charger-43-piece-impact-socket-set-298-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Home Depot [homedepot.com] has *Milwaukee M18 FUEL 18V 3/8\" Cordless Impact Wrench w/ (2) 5.0Ah Batteries, Charger & 43-Piece Impact Socket Set* on sale for *$298*. *Shipping is free.* *Compiled...",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "a3ecc0d28dd33ffd",
-      "title": "Lepunuo Women's Sleeveless Flowy Wide Leg Pants 2-Piece Matching Set (Variou) from $14.99 + Free Shipping w/ Prime or on $35+",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20307540-lepunuo-women-s-sleeveless-flowy-wide-leg-pants-2-piece-matching-set-variou-from-14-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Lepunuo via Amazon [amazon.com] has *Lepunuo Women's Sleeveless Flowy Wide Leg Pants 2-Piece Matching Set (Various)* on sale for $29.99 - 50% off when you apply promo code UWSM1O16 at checkout = from...",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "eb0023b76a86fb54",
-      "title": "COCOMARTS Jelly Bras for Women No Underwire Push Up Mesh, Wireless Convertible T-Shirt Everyday Bra, Full Coverage Deep V Support Lift Design $9.99",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20303892-cocomarts-jelly-bras-for-women-no-underwire-push-up-mesh-wireless-convertible-t-shirt-everyday-bra-full-coverage-deep-v-support-lift-design-9-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "",
+      "id": "17f977b4da950909",
+      "title": "Crocs Adults' Baya Clogs for $20 + free shipping",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/Crocs-Adults-Baya-Clogs-for-20-free-shipping/22393879.html?iref=rss",
+      "details": "You can get an adults' pair of the Crocs Baya Clogs for just $20 right now at eBay with the promo code \"SHOPBRANDS20\". That's another drop since last week and the best deal we've seen on the adults' sizes. The shoes are sold directly by the official Crocs eBay",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -288,6 +336,14 @@
       "source": "DealNews Latest",
       "url": "https://www.dealnews.com/products/Roborock/Roborock-Q7-M5-Robot-Vacuum-and-Mop/538524.html?iref=rss",
       "details": "Robot vacuum and mop combos that empty themselves for weeks at a time suit anyone who wants to skip daily maintenance, and the 10,000Pa suction on this one tackles pet hair and ground-in dirt without much effort on your part. At $199.99, that's $160 (44%) off ",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "0e4c33cb020cb7c7",
+      "title": "Free Country Early Black Friday Sale: 50% off + free shipping w/ $99",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/Free-Country-Early-Black-Friday-Sale-50-off-free-shipping-w-99/22389663.html?iref=rss",
+      "details": "Get 50% off sale items via code \"EARLY50\" during Free Country's Early Black Friday Sale. Shipping adds $9.99 but orders of $99 or more get free shipping. Deal ends November 15. Shop Now at Free Country Features Women's and men's fleece, sherpa, and Butter Pile",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -331,19 +387,19 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "59b6b7a4e14e4671",
-      "title": "Sleep Number Mattresses: free doorstep delivery",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Sleep-Number-Mattresses-free-doorstep-delivery/22389644.html?iref=rss",
-      "details": "Sleep Number is offering free doorstep delivery with the purchase of select mattresses. Eligible models include the ComfortMode, ComfortMode Luxe, ComfortNext, ComfortNext Lux, and ComfortNext Ultra mattresses. Shop Now at Sleep Number",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
       "id": "fc2a04b9849b9888",
       "title": "Certified Refurb Acer Aspire 16 AI Core Ultra 5 16\" Laptop w/ 16GB RAM for $427 + free shipping",
       "source": "DealNews Latest",
       "url": "https://www.dealnews.com/Certified-Refurb-Acer-Aspire-16-AI-Core-Ultra-5-16-Laptop-w-16-GB-RAM-for-427-free-shipping/22393858.html?iref=rss",
       "details": "At eBay, use promo code \"SHOPBRANDS20\", to get this refurb Acer Aspire 16 AI Core Ultra 5 226V 16\" Laptop for $427. It's dropped by another few bucks since last week and costs around $223 less than the best price we could find for a new one with just a 512GB S",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "b3fa645d48b419ef",
+      "title": "adidas Terrex Black Friday Sale: Up to 60% off + extra 15% off + free shipping",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/adidas-Terrex-Black-Friday-Sale-Up-to-60-off-extra-15-off-free-shipping/22393718.html?iref=rss",
+      "details": "The adidas Black Friday Sale just went live for adiClub members and we're seeing some good deals in the adidas Terrex section. (If you're not a member yet, it's free to join.) Our promo code \"DN15\" cuts an extra 15% off, too, stacking with discounts of up to 6",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -387,19 +443,19 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "0e4c33cb020cb7c7",
-      "title": "Free Country Early Black Friday Sale: 50% off + free shipping w/ $99",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Free-Country-Early-Black-Friday-Sale-50-off-free-shipping-w-99/22389663.html?iref=rss",
-      "details": "Get 50% off sale items via code \"EARLY50\" during Free Country's Early Black Friday Sale. Shipping adds $9.99 but orders of $99 or more get free shipping. Deal ends November 15. Shop Now at Free Country Features Women's and men's fleece, sherpa, and Butter Pile",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
       "id": "b6ca133593bfb7b0",
       "title": "Topps 2026 Holiday Football Factory Sealed Mega Box for $30 + free shipping w/ $99",
       "source": "DealNews Latest",
       "url": "https://www.dealnews.com/Topps-2026-Holiday-Football-Factory-Sealed-Mega-Box-for-30-free-shipping-w-99/22393837.html?iref=rss",
       "details": "Fanatics is selling this factory sealed 2026 Topps Holiday Football Mega Box at $29.99. You can also use the promo code \"FRIEND\" to get the box shipped for free with orders over $99. Some eBay resellers are already charging at least $40 for this box. The set p",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "59b6b7a4e14e4671",
+      "title": "Sleep Number Mattresses: free doorstep delivery",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/Sleep-Number-Mattresses-free-doorstep-delivery/22389644.html?iref=rss",
+      "details": "Sleep Number is offering free doorstep delivery with the purchase of select mattresses. Eligible models include the ComfortMode, ComfortMode Luxe, ComfortNext, ComfortNext Lux, and ComfortNext Ultra mattresses. Shop Now at Sleep Number",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -443,19 +499,19 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "05afd0598294de7b",
-      "title": "Costco 1-Year Gold Star Membership for $65 w/ $45 Costco Shop Card + free shipping",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Costco-1-Year-Gold-Star-Membership-for-65-w-45-Costco-Shop-Card-free-shipping/22370289.html?iref=rss",
-      "details": "Join Costco as a new Gold Star member for $65, then be sure to enroll in auto renewal of your annual membership, and you'll receive a $45 Digital Costco Shop Card for free via the promo code \"NEWMBR26\". Note that this offer is only valid for new members or tho",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
       "id": "96d9a35bc7937eae",
       "title": "Fanatics Friends & Family Sale: Up to an extra 50% off + free shipping w/ $99",
       "source": "DealNews Latest",
       "url": "https://www.dealnews.com/Fanatics-Friends-Family-Sale-Up-to-an-extra-50-off-free-shipping-w-99/22393802.html?iref=rss",
       "details": "At Fanatics, you can get up to an extra 50% off nearly everything across the store with the promo code \"FRIEND\" as part of its Friends and Family Sale. The coupon applies to new and in-season team gear sitewide, including jerseys, hats, sweatshirts, T-shirts, ",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "05afd0598294de7b",
+      "title": "Costco 1-Year Gold Star Membership for $65 w/ $45 Costco Shop Card + free shipping",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/Costco-1-Year-Gold-Star-Membership-for-65-w-45-Costco-Shop-Card-free-shipping/22370289.html?iref=rss",
+      "details": "Join Costco as a new Gold Star member for $65, then be sure to enroll in auto renewal of your annual membership, and you'll receive a $45 Digital Costco Shop Card for free via the promo code \"NEWMBR26\". Note that this offer is only valid for new members or tho",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -499,19 +555,19 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "b3fa645d48b419ef",
-      "title": "adidas Terrex Black Friday Sale: Up to 60% off + extra 15% off + free shipping",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/adidas-Terrex-Black-Friday-Sale-Up-to-60-off-extra-15-off-free-shipping/22393718.html?iref=rss",
-      "details": "The adidas Black Friday Sale just went live for adiClub members and we're seeing some good deals in the adidas Terrex section. (If you're not a member yet, it's free to join.) Our promo code \"DN15\" cuts an extra 15% off, too, stacking with discounts of up to 6",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
       "id": "089a5b0cf4c13166",
       "title": "adidas Women's Helionic Duck Down Puffer Coat for $68 + free shipping",
       "source": "DealNews Latest",
       "url": "https://www.dealnews.com/adidas-Womens-Helionic-Duck-Down-Puffer-Coat-for-68-free-shipping/22393733.html?iref=rss",
       "details": "Sign up for a free adiClub membership and you'll get access to the Black Friday price on this adidas Helionic Duck Down Jacket. It's just $80, but you can use our promo code \"DN15\" to take another 15% off and bring it to $68. It's one of the best deals we've s",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "a62b245e2020bd6e",
+      "title": "Dyson Outlet Deals at eBay: Up to 75% off + extra 20% off + free shipping",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/Dyson-Outlet-Deals-at-eBay-Up-to-75-off-extra-20-off-free-shipping/22393857.html?iref=rss",
+      "details": "Using promo code \"SHOPBRANDS20\" at eBay, certified refurbished Dyson vacuums, hair tools, and air purifiers drop in price, with the discount capped at $500 across up to two orders. The coupon code works on refurbished vacuums, fans, and hair appliances. The co",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -555,19 +611,19 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "9383167149b3d6f9",
-      "title": "Capital One Venture Rewards Credit Card: Earn 75,000 bonus miles",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Capital-One-Venture-Rewards-Credit-Card-Earn-75-000-bonus-miles/22162773.html?iref=rss",
-      "details": "LIMITED-TIME OFFER: Earn more than $1000 in Travel Bonuses with a limited-time $300 Capital One Travel stays credit, plus earn 75,000 bonus miles once you spend $4,000 on purchases within the first 3 months of account opening—that's more than $1,000 in travel ",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
       "id": "31f436af02b1f7a1",
       "title": "Woot Ceiling Fans & Indoor Lighting Deals: Up to 80% off + free shipping w/ Prime",
       "source": "DealNews Latest",
       "url": "https://www.dealnews.com/Woot-Ceiling-Fans-Indoor-Lighting-Deals-Up-to-80-off-free-shipping-w-Prime/22393699.html?iref=rss",
       "details": "Woot has just dropped a new sale on ceiling fans and indoor lighting, with discounts as high as 80%. It includes chandeliers, night lights, and LED bulbs, too, with prices starting at $13 for a 12-pack of Hakol plug-in night lights. Refurbished Hunter 52\" fans",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "a9312d069b0d6dbb",
+      "title": "CIT Bank Platinum Savings Account APY Promotional Boost: Save More, Earn More",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/CIT-Bank-Platinum-Savings-Account-APY-Promotional-Boost-Save-More-Earn-More/22337093.html?iref=rss",
+      "details": "Receive 4.35%* APY on balances over $5,000 Receive a 0.85%* APY with balances less than $5,000 Earn 11x** the national average Tiered account $100 minimum account opening Member FDIC No Monthly Service fees No account opening fees *Platinum Savings is a tiered",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -611,19 +667,19 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "eafbf15ef50476ab",
-      "title": "Chase Secure Banking℠ (Value) for Enjoy a $175 account bonus",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Chase-Secure-Banking-Value-for-Enjoy-a-175-account-bonus/22308076.html?iref=rss",
-      "details": "Enjoy a $175 checking account bonus as a new Chase banking customer when you open a Chase Secure Banking℠ account with qualifying transactions. Open online or at any Chase branch. Bank with confidence — no minimum deposit to open an account and no overdraft fe",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
       "id": "c9eabda6649cdbce",
       "title": "Woot Promo Codes & Bundle Deals: Up to 80% off + free shipping w/ Prime",
       "source": "DealNews Latest",
       "url": "https://www.dealnews.com/Woot-Promo-Codes-Bundle-Deals-Up-to-80-off-free-shipping-w-Prime/22393663.html?iref=rss",
       "details": "Woot's Discount Hub collects the store's best coupon codes and bundle offers in one spot here. It includes coupons for $15 off a tire inflator, 10% off Logitech gaming gear, and 80% off charging cables. There are also some good bundle deals like an extra 50% o",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "b6484b120141e39a",
+      "title": "Chase High School Checking℠ for $125 bonus w/ new account",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/Chase-High-School-Checking-for-125-bonus-w-new-account/22124162.html?iref=rss",
+      "details": "Your teen gets $125 when you open a new Chase High School Checking℠ account together with qualifying activities within 60 days of coupon enrollment As a co-owner of the account, you must be present at account opening. $0 Monthly Service Fee Help your teen buil",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -635,43 +691,35 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "f9e1de0465c720c3",
-      "title": "Woot Home & Kitchen Haul for Up to 78% off + extra $10 off $50 + free shipping w/ Prime",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Woot-Home-Kitchen-Haul-for-Up-to-78-off-extra-10-off-50-free-shipping-w-Prime/22393650.html?iref=rss",
-      "details": "Woot's Home & Kitchen Haul includes discounts as high as 78% off on a wide selection of home items, including luggage, small appliances, cookware, pet items, and some other random stuff. Plus, you can get an extra $10 off orders of $50 or more with the promo c",
+      "id": "9fd467957f47cf5e",
+      "title": "Saker 42-in-1 Magnetic Ratchet Screwdriver Set $19.49",
+      "source": "TechBargains",
+      "url": "https://www.amazon.com/gp/product/B0DK8WSQPF/ref=ox_sc_act_title_1?smid=A3DS862NSUH7IG&th=1",
+      "details": "Saker 42-in-1 Magnetic Ratchet Screwdriver Set $19.49",
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "49a4e2c63ec7048f",
-      "title": "Lavazza 8-oz. Gran Riserva Filtro Dark Roast Ground Coffee for 2 for $6.49 + free shipping w/ Prime",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Lavazza-8-oz-Gran-Riserva-Filtro-Dark-Roast-Ground-Coffee-for-2-for-6-49-free-shipping-w-Prime/22393649.html?iref=rss",
-      "details": "New customers (or those willing to set up a new account), can add two bags of this Lavazza Gran Riserva coffee to cart and see the price drop to just $6.49 at checkout. That's $3.25 per bag, which is $6 cheaper than what you'd pay at most local stores. Prime m",
+      "id": "67d8fe911f65ad15",
+      "title": "Uineer Tri-Mode USB-A Bluetooth Wireless Mouse $10.99",
+      "source": "TechBargains",
+      "url": "https://www.amazon.com/gp/product/B0GFN8Z5T8/ref=ox_sc_act_title_1?smid=AMLOE6L03KCGW&psc=1",
+      "details": "Uineer Tri-Mode USB-A Bluetooth Wireless Mouse $10.99",
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "09c87e8ea93b2f2b",
-      "title": "Woot November Grocery & Household Clearance: Up to 89% off + extra 25% to 35% off + free shipping w/ Prime",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Woot-November-Grocery-Household-Clearance-Up-to-89-off-extra-25-to-35-off-free-shipping-w-Prime/22393648.html?iref=rss",
-      "details": "Woot has just dropped its November Grocery and Household Bonanza Sale, giving you discount on coffee, deodorant, candy, makeup, and lots more. If you're a new customer (or willing to set up a new account), you'll get the best savings, getting an extra 25% off ",
+      "id": "ad063c7c0471e480",
+      "title": "Focemta Circuit Breaker Finder Kit with GFCI Outlet Tester for 90-135V AC Circuits $35.39",
+      "source": "TechBargains",
+      "url": "https://www.amazon.com/gp/product/B0F7XQCYD4/ref=ox_sc_act_title_1?smid=A21WEZ57XN00KC&th=1",
+      "details": "Focemta Circuit Breaker Finder Kit with GFCI Outlet Tester for 90-135V AC Circuits $35.39",
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "a9312d069b0d6dbb",
-      "title": "CIT Bank Platinum Savings Account APY Promotional Boost: Save More, Earn More",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/CIT-Bank-Platinum-Savings-Account-APY-Promotional-Boost-Save-More-Earn-More/22337093.html?iref=rss",
-      "details": "Receive 4.35%* APY on balances over $5,000 Receive a 0.85%* APY with balances less than $5,000 Earn 11x** the national average Tiered account $100 minimum account opening Member FDIC No Monthly Service fees No account opening fees *Platinum Savings is a tiered",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "84feddb077a876f9",
-      "title": "Belk Black Friday Sale: Up to 80% off + free shipping w/ $99",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Belk-Black-Friday-Sale-Up-to-80-off-free-shipping-w-99/22390483.html?iref=rss",
-      "details": "Belk's Black Friday Sale covers apparel, bedding, bath, holiday decor, kitchen, luggage, jewelry, and more. Shop women's outerwear and boots from $19.99 and men's shirts from $12.99. Take 60% off candy and food, up to 50% off jewelry, handbags, and accessories",
+      "id": "941570067782edbd",
+      "title": "Burngogo 3-Heating Levels 6-Heating Zones Heated Vest $26.99",
+      "source": "TechBargains",
+      "url": "https://www.amazon.com/gp/product/B0H9KLLHRT/ref=ox_sc_act_title_1?smid=A3PYB14DF23HLP&th=1&psc=1",
+      "details": "Burngogo 3-Heating Levels 6-Heating Zones Heated Vest $26.99",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -1840,38 +1888,6 @@
       "source": "TechBargains",
       "url": "https://www.amazon.com/gp/product/B0GSS72GZJ/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
       "details": "Apple AirPods Max 2 Active Noise Cancelling Wireless Headphones $449",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "a17f5b1972320ec2",
-      "title": "DearAll Shiatsu Roller Air Compression Heated Foot Massager $49.99",
-      "source": "TechBargains",
-      "url": "https://www.amazon.com/gp/product/B0H5KHHJ6K/ref=ox_sc_act_title_1?smid=A3GT0FSWVA2B6B&th=1",
-      "details": "DearAll Shiatsu Roller Air Compression Heated Foot Massager $49.99",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "ccd73807a94c2074",
-      "title": "Lisen 84W 4-in-1 Retractable USB-C and Car Charger $10.99",
-      "source": "TechBargains",
-      "url": "https://www.amazon.com/gp/product/B0D4215HCX/ref=ox_sc_act_title_1?smid=A2DGEJFAWVOIP0&th=1",
-      "details": "Lisen 84W 4-in-1 Retractable USB-C and Car Charger $10.99",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "4c80f0447105b436",
-      "title": "Etikez PM290C Bluetooth Thermal Bluetooth Sticker Printer with 3x Rolls $8.99",
-      "source": "TechBargains",
-      "url": "https://www.amazon.com/gp/product/B0FJ76RSN5/ref=ox_sc_act_title_1?smid=A1Q0F8C05IWXVM&psc=1",
-      "details": "Etikez PM290C Bluetooth Thermal Bluetooth Sticker Printer with 3x Rolls $8.99",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "294fb9f4758d2f69",
-      "title": "Vosoco All-in-One 15W Rechargeable Bluetooth Karaoke Machine with 2 Wireless Microphones $37.49",
-      "source": "TechBargains",
-      "url": "https://www.amazon.com/gp/product/B0CCJDG68C/ref=ox_sc_act_title_1?smid=A26X0QERM79OWU&psc=1",
-      "details": "Vosoco All-in-One 15W Rechargeable Bluetooth Karaoke Machine with 2 Wireless Microphones $37.49",
       "status": "needs_official_retailer_price_pair"
     },
     {

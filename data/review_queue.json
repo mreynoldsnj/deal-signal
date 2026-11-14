@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-11-14T07:40:32.488012Z",
+  "generated_at": "2026-11-14T08:16:11.428442Z",
   "count": 288,
   "candidates": [
+    {
+      "id": "52aaeefafd449fab",
+      "title": "3-Pk PUMA Men's Volume Boxer Brief (various colors) from $7",
+      "source": "Slickdeals Frontpage",
+      "url": "https://slickdeals.net/f/20302770-6-02-or-5-72-puma-men-s-3-pack-volume-boxer-brief-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "details": "Amazon [amazon.com] has *PUMA Men's 3-Pack Volume Boxer Brief* for *$6.02*. *Shipping is free* with Prime or on $35+ orders.[list][*]*Small*[list][*]Castlerock [amazon.com] - *$6.02*[*]Puma Black...",
+      "status": "needs_official_retailer_price_pair"
+    },
     {
       "id": "f5915f8859e10952",
       "title": "Asmodee Paleo Board Game (2-4 Players) $31.50",
       "source": "Slickdeals Frontpage",
       "url": "https://slickdeals.net/f/20306709-asmodee-paleo-cooperative-strategy-board-game-2-4-players-ages-10-31-49-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "details": "Amazon [amazon.com] has *Asmodee Paleo Cooperative Strategy Board Game* on sale for *$31.49*. Shipping is free w/ Prime or on orders $35+. Walmart [walmart.com] also has *Asmodee Paleo Board Game*...",
+      "details": "Amazon has *Asmodee Paleo Board Game* (2-4 Players) on sale for *$31.49*. *Shipping is free* with Prime or on $35+ orders. Walmart also has *Asmodee Paleo Board Game* (2-4 Players) on sale for...",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -55,7 +63,7 @@
       "title": "Select Prime Members via Uber Eats: Five Guys Cheeseburger 4 for ~$9 + Free Pickup",
       "source": "Slickdeals Frontpage",
       "url": "https://slickdeals.net/f/20304924-amazon-prime-uber-eats-offering-4-five-guys-cheeseburgers-burgers-for-9-00?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "details": "Go on the Amazon App on your phone. At the Bottom, click the 3 lines and chose \"prime\" which will open various tabs. Click the one that shows \"Uber Eats with Prime\" In the search bar, type \"Five...",
+      "details": "Amazon via Uber Eats has for *Select Prime Members* (visit this page and click-through the offer to activate): *Savings on Five Guys Cheeseburgers* when you stack a *Buy One, Get One Free* discount +...",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -79,7 +87,7 @@
       "title": "V for Vendetta (4K Ultra HD + Blu-ray + Digital) $13",
       "source": "Slickdeals Frontpage",
       "url": "https://slickdeals.net/f/20306217-v-for-vendetta-4k-ultra-hd-blu-ray-digital-12-99-amazon-com?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "details": "",
+      "details": "Amazon has *V for Vendetta* (4K Ultra HD + Blu-ray + Digital) for *$12.99*. *Shipping is free* with Prime or on $35+ orders. Alternatively, Walmart has *V for Vendetta* (4K Ultra HD + Blu-ray) for...",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -91,11 +99,43 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "22ae98bfdd2e24a3",
-      "title": "45-Pc DEWALT Screwdriver Bit Set w/ Tough Case (Non Impact Rated) $11.45",
-      "source": "Slickdeals Frontpage",
-      "url": "https://slickdeals.net/f/20296230-dewalt-screwdriver-bit-set-with-tough-case-45-piece-dw2166-grey-silver-screwdriving-set-with-tough-case-11-47?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "details": "Amazon has *45-Piece DEWALT Screwdriver Bit Set w/ Tough Case* (DW2166, Non Impact Rated) for *$11.47*. *Shipping is free* with Prime or on $35+ orders. Home Depot also has *45-Piece DEWALT...",
+      "id": "8533463ad4e69385",
+      "title": "ECO-WORTHY 400A Busbar with 6×M8 Studs (1 Set of 2 for Parallel Batteries) $34.80 + Free Shipping",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20303085-eco-worthy-400a-busbar-with-6-m8-studs-1-set-of-2-for-parallel-batteries-34-80-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "ECO-WORTHY Official Store via Ebay [ebay.com] has *ECO-WORTHY 400A Busbar with 6×M8 Studs* (1 Set of 2 for Parallel Batteries) on sale for $43.49 - 20% off w/ code SHOPBRANDS20 at checkout = *$34.79....",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "89c7f143bc058613",
+      "title": "Craftsman High-Visibility Folding Utility Knife $7.98 + Free Shipping w/ Prime or on $35+",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20308053-craftsman-high-visibility-folding-utility-knife-7-98-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Amazon [amazon.com] has *Craftsman High-Visibility Folding Utility Knife (CMHT10352)* on sale for *$7.98*. Shipping is free w/ Prime or on orders $35+. *Compiled From Merchant's Product...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "3828e573a639e070",
+      "title": "Craftsman 52\" 7-Drawer Rolling Workbench w/ Butcher Block Top & Power Strip $299 + Free Store Pickup at Lowe's",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20307810-craftsman-52-7-drawer-rolling-workbench-w-butcher-block-top-power-strip-299-free-store-pickup-at-lowe-s?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Lowe's [lowes.com] has *Craftsman 52\" 7-Drawer Rolling Workbench w/ Butcher Block Top & Power Strip *on sale for *$299*. Select *free store pickup* where available. *Compiled From Merchant's...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "fccadcd1b570991e",
+      "title": "THINKCAR THINKSCAN 662 CAN FD OBD2 Diagnostic Scanner w/ 12 Resets & Lifetime Free Updates $124.09 + Free Shipping",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20292897-thinkcar-thinkscan-662-can-fd-obd2-diagnostic-scanner-w-12-resets-lifetime-free-updates-124-09-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "MUCAR Scanner Store via AliExpress [aliexpress.us] has *THINKCAR THINKSCAN 662 CAN FD OBD2 Diagnostic Scanner w/ 12 Resets & Lifetime Free Updates* on sale for $149.09 - $25 off when you apply promo...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "c50d6947a353d351",
+      "title": "$13-$18: Nautica Men's Big & Tall Crew Neck Pocket T-Shirt (Various Colors/Sizes XS-5XL) $16.37",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20300961-13-18-nautica-men-s-big-tall-crew-neck-pocket-t-shirt-various-colors-sizes-xs-5xl-16-37?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Amazon.com [amazon.com] has *Nautica Men's Big & Tall Solid Crew Neck Short-Sleeve Pocket T-Shirt, True Black, 2X Big* on sale for *$16.37*. *Available:*[list][*]Bright Aqua * 1X [amazon.com] -...",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -211,14 +251,6 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "cd34cae953f89626",
-      "title": "Alienware Aurora Gaming Desktop w/ Intel Core Ultra 9 285, RTX 5080 16GB, 32GB DDR5 RAM & 1TB SSD $2799.99 + Free Shipping",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20307807-alienware-aurora-gaming-desktop-w-intel-core-ultra-9-285-rtx-5080-16gb-32gb-ddr5-ram-1tb-ssd-2799-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Amazon [amazon.com] has *Alienware Aurora ACT250 Gaming Desktop* on sale for *$2799.99*. *Shipping is free*. Specs:[LIST][*]Intel Core Ultra 9 285 24-Core Processor (up to 5.6GHz)[*]NVIDIA GeForce...",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
       "id": "7c0a7ae079243baa",
       "title": "GOOLOO G7 3000A Jump Starter with Built-in 45W USB C Cable - $29.99 after coupon",
       "source": "Slickdeals Popular",
@@ -267,46 +299,6 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "f81d96612cd7f12c",
-      "title": "Craftsman S2000 37\" 5-Drawer Steel Rolling Tool Cabinet (Black) $299 + Free Store Pickup at Lowe's",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20307843-craftsman-s2000-37-5-drawer-steel-rolling-tool-cabinet-black-299-free-store-pickup-at-lowe-s?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Lowe's [lowes.com] has *Craftsman S2000 37\" 5-Drawer Steel Rolling Tool Cabinet (Black)* on sale for *$299*. Select *free store pickup* where available. Lowe's also has another version [lowes.com]...",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "e1cef6297555f2fd",
-      "title": "60-Card Magic: The Gathering Secrets of Strixhaven Eerie Theme Deck $13.29 + Free Shipping w/ Prime or on $35+",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20307234-60-card-magic-the-gathering-secrets-of-strixhaven-eerie-theme-deck-13-29-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Amazon [amazon.com] has *60-Card Magic: The Gathering Secrets of Strixhaven Eerie Theme Deck* on sale for $17.13 - $3.84 off when you 'clip' the coupon on product page = *$13.29*. Shipping is free w/...",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "383225996dbb3dd8",
-      "title": "Steelrising (Xbox Series X) - $14.99 @ Best Buy",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20307168-steelrising-xbox-series-x-14-99-best-buy?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Seller: Video Game Plus - Free shipping https://www.bestbuy.com/product/s...J3LPLGS2VL",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "fabc8d0c347db3c8",
-      "title": "$14.40 adidas Mens ADIDAS Z.N.E. T-SHIRT with UPF 50",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20302782-14-40-adidas-mens-adidas-z-n-e-t-shirt-with-upf-50?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Seller is adidas via ebay. Shipping is free. Use 20% off code SHOPBRANDS20 https://www.ebay.com/itm/96012706...9497606854 Soft, cool-to-the-touch interlock fabric offers refreshing comfort...",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "70800e397eb58a01",
-      "title": "Reolink Altas PT Ultra 4K 360-Degree Solar Security Camera 2-Pack for $344 + free shipping",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/products/Reolink/Reolink-Altas-PT-Ultra-4-K-360-Degree-Outdoor-Security-Camera/542009.html?iref=rss",
-      "details": "Pan-and-tilt coverage with full 360-degree rotation makes this a solid fit for anyone monitoring a wide driveway or yard where a fixed camera would leave blind spots, and the solar panel means you can skip running power cables to it. At $344, that's $86 (20%) ",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
       "id": "a135a5a2ea21200e",
       "title": "Thinkcar Thinkscan 689BT Pro AI Bidirectional Scan Tool for $720 + free shipping",
       "source": "DealNews Latest",
@@ -320,6 +312,14 @@
       "source": "DealNews Latest",
       "url": "https://www.dealnews.com/products/Reolink/Reolink-Argus-4-Pro-4-K-Security-Camera/542007.html?iref=rss",
       "details": "Anyone wanting whole-property coverage without running wires benefits from getting two Argus 4 Pro cameras plus the SP2 solar panel pack in one go, since solar keeps the batteries topped off year-round. That's $126 (30%) off the $420 list price. Apply coupon c",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "70800e397eb58a01",
+      "title": "Reolink Altas PT Ultra 4K 360-Degree Solar Security Camera 2-Pack for $344 + free shipping",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/products/Reolink/Reolink-Altas-PT-Ultra-4-K-360-Degree-Outdoor-Security-Camera/542009.html?iref=rss",
+      "details": "Pan-and-tilt coverage with full 360-degree rotation makes this a solid fit for anyone monitoring a wide driveway or yard where a fixed camera would leave blind spots, and the solar panel means you can skip running power cables to it. At $344, that's $86 (20%) ",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -355,43 +355,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "f52658ac1e68cd76",
-      "title": "Beeprincess 4K Dual Camera Drone with 2 Batteries for $20 + free shipping w/ $35",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/products/Beeprincess/Beeprincess-4-K-Dual-Camera-Drone-with-2-Batteries/557894.html?iref=rss",
-      "details": "Two batteries mean you get roughly double the flight time without waiting on a charger, which matters most for beginners still learning to fly before the first battery dies. At $20, that's $28 (58%) off the $48 list price. Buy Now at Walmart Features 30 minute",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
       "id": "6a2a16a6b18046c1",
       "title": "Reolink TrackFlex 4K Dual-Lens PTZ Floodlight Security Camera 2-Pack for $359 + free shipping",
       "source": "DealNews Latest",
       "url": "https://www.dealnews.com/products/Reolink/Reolink-Track-Flex-4-K-Dual-Lens-PTZ-Floodlight-Security-Camera/557885.html?iref=rss",
       "details": "Anyone needing wide coverage of a driveway or backyard without a blind spot benefits from the dual-lens setup, since one lens tracks motion while the other holds a fixed wide view. At $358.71, that's $249.28 (41%) off the $607.99 list price. Free shipping appl",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "a30af8a1da17deab",
-      "title": "BeePrincess Kids Digital Target Shooting Game with 2 Foam Dart Blasters for $27 + free shipping w/ $35",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/products/Beeprincess/Beeprincess-Kids-Digital-Target-Shooting-Game-with-2-Foam-Dart-Blasters/557889.html?iref=rss",
-      "details": "Keeps kids active indoors with real-time scoring targets, making it a solid pick for families wanting an alternative to screen time, and at $27 it's $33 off the $60 list price. Buy Now at Walmart Features Two lightweight foam dart blasters included 3-in-1 vers",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "ce551d94e616de56",
-      "title": "Bevigor 16-Bay AA and AAA NiMH Battery Charger for $15 + free shipping w/ Prime",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/products/Bevigor/Bevigor-16-Bay-AA-and-AAA-Ni-MH-Battery-Charger/544960.html?iref=rss",
-      "details": "Handy if you go through a lot of rechargeable batteries around the house, since it handles 16 AA or AAA cells at once instead of the usual 4 or 8. It's $15 off the $30 list price at Amazon right now. Apply coupon code \"FEOD10BX\" for a savings of $15. Shipping ",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "08bbbb995edfe2cc",
-      "title": "GKU D600 Pro Max 4K Dual Dash Cam for $55 + free shipping",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/products/GKU/GKU-4-K-Dual-Front-and-Rear-Dash-Cam/508993.html?iref=rss",
-      "details": "Dash cams with dual front-and-rear 4K recording give you solid evidence if you're ever in an accident or dispute, which makes this a reasonable pick for daily commuters, and it's currently $85 (61%) off the $140 list price. Apply coupon code \"NWKDV89U\" for a s",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -403,6 +371,38 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
+      "id": "0d7d9c4d48ada59e",
+      "title": "BeePrincess 6-Foot Animated Rotating Gingerbread Man Christmas Inflatable for $36 + free shipping",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/Bee-Princess-6-Foot-Animated-Rotating-Gingerbread-Man-Christmas-Inflatable-for-36-free-shipping/22390129.html?iref=rss",
+      "details": "This 6-foot rotating gingerbread man makes a good fit for anyone wanting a sizable, animated yard display without setting up multiple smaller pieces, and at $35.99 it's $34 off the $69.99 list price. It ships for free. Buy Now at Walmart Features Animated rota",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "ce551d94e616de56",
+      "title": "Bevigor 16-Bay AA and AAA NiMH Battery Charger for $15 + free shipping w/ Prime",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/products/Bevigor/Bevigor-16-Bay-AA-and-AAA-Ni-MH-Battery-Charger/544960.html?iref=rss",
+      "details": "Handy if you go through a lot of rechargeable batteries around the house, since it handles 16 AA or AAA cells at once instead of the usual 4 or 8. It's $15 off the $30 list price at Amazon right now. Apply coupon code \"FEOD10BX\" for a savings of $15. Shipping ",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "a30af8a1da17deab",
+      "title": "BeePrincess Kids Digital Target Shooting Game with 2 Foam Dart Blasters for $27 + free shipping w/ $35",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/products/Beeprincess/Beeprincess-Kids-Digital-Target-Shooting-Game-with-2-Foam-Dart-Blasters/557889.html?iref=rss",
+      "details": "Keeps kids active indoors with real-time scoring targets, making it a solid pick for families wanting an alternative to screen time, and at $27 it's $33 off the $60 list price. Buy Now at Walmart Features Two lightweight foam dart blasters included 3-in-1 vers",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "08bbbb995edfe2cc",
+      "title": "GKU D600 Pro Max 4K Dual Dash Cam for $55 + free shipping",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/products/GKU/GKU-4-K-Dual-Front-and-Rear-Dash-Cam/508993.html?iref=rss",
+      "details": "Dash cams with dual front-and-rear 4K recording give you solid evidence if you're ever in an accident or dispute, which makes this a reasonable pick for daily commuters, and it's currently $85 (61%) off the $140 list price. Apply coupon code \"NWKDV89U\" for a s",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
       "id": "ee71527e5ba9211f",
       "title": "eBay Holiday Promo Code: Extra 20% off + free shipping",
       "source": "DealNews Latest",
@@ -411,11 +411,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "0d7d9c4d48ada59e",
-      "title": "BeePrincess 6-Foot Animated Rotating Gingerbread Man Christmas Inflatable for $36 + free shipping",
+      "id": "f52658ac1e68cd76",
+      "title": "Beeprincess 4K Dual Camera Drone with 2 Batteries for $20 + free shipping w/ $35",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Bee-Princess-6-Foot-Animated-Rotating-Gingerbread-Man-Christmas-Inflatable-for-36-free-shipping/22390129.html?iref=rss",
-      "details": "This 6-foot rotating gingerbread man makes a good fit for anyone wanting a sizable, animated yard display without setting up multiple smaller pieces, and at $35.99 it's $34 off the $69.99 list price. It ships for free. Buy Now at Walmart Features Animated rota",
+      "url": "https://www.dealnews.com/products/Beeprincess/Beeprincess-4-K-Dual-Camera-Drone-with-2-Batteries/557894.html?iref=rss",
+      "details": "Two batteries mean you get roughly double the flight time without waiting on a charger, which matters most for beginners still learning to fly before the first battery dies. At $20, that's $28 (58%) off the $48 list price. Buy Now at Walmart Features 30 minute",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -459,11 +459,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "525b297a6f8597e2",
-      "title": "lululemon We Made Too Much Event: Up to 79% off + free shipping",
+      "id": "0e4c33cb020cb7c7",
+      "title": "Free Country Early Black Friday Sale: 50% off + free shipping w/ $99",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/lululemon-We-Made-Too-Much-Event-Up-to-79-off-free-shipping/22389765.html?iref=rss",
-      "details": "lululemon's We Made Too Much event is the brand's overstock section, covering women's and men's apparel, shoes, bags, and accessories from $14. The Fast and Free High-Rise Thermal Tight 28\" is $89, down from $148, and lululemon Align High-Rise Pant 28\" tights ",
+      "url": "https://www.dealnews.com/Free-Country-Early-Black-Friday-Sale-50-off-free-shipping-w-99/22389663.html?iref=rss",
+      "details": "Get 50% off sale items via code \"EARLY50\" during Free Country's Early Black Friday Sale. Shipping adds $9.99 but orders of $99 or more get free shipping. Deal ends November 15. Shop Now at Free Country Features Women's and men's fleece, sherpa, and Butter Pile",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -515,11 +515,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "48a748b6028d1aa1",
-      "title": "adidas Black Friday Sale 2026: Up to 60% off + extra 15% off + free shipping",
+      "id": "05afd0598294de7b",
+      "title": "Costco 1-Year Gold Star Membership for $65 w/ $45 Costco Shop Card + free shipping",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/adidas-Black-Friday-Sale-2026-Up-to-60-off-extra-15-off-free-shipping/22389699.html?iref=rss",
-      "details": "The adidas Black Friday sale has gone live for its adiClub members (if you're not a member yet, it's free to sign up). You can even stack our promo code \"DN15\" with the discounts of up to 60% in this sale. Members also get free shipping on all orders. The sale",
+      "url": "https://www.dealnews.com/Costco-1-Year-Gold-Star-Membership-for-65-w-45-Costco-Shop-Card-free-shipping/22370289.html?iref=rss",
+      "details": "Join Costco as a new Gold Star member for $65, then be sure to enroll in auto renewal of your annual membership, and you'll receive a $45 Digital Costco Shop Card for free via the promo code \"NEWMBR26\". Note that this offer is only valid for new members or tho",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -571,11 +571,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "05afd0598294de7b",
-      "title": "Costco 1-Year Gold Star Membership for $65 w/ $45 Costco Shop Card + free shipping",
+      "id": "a9312d069b0d6dbb",
+      "title": "CIT Bank Platinum Savings Account APY Promotional Boost: Save More, Earn More",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Costco-1-Year-Gold-Star-Membership-for-65-w-45-Costco-Shop-Card-free-shipping/22370289.html?iref=rss",
-      "details": "Join Costco as a new Gold Star member for $65, then be sure to enroll in auto renewal of your annual membership, and you'll receive a $45 Digital Costco Shop Card for free via the promo code \"NEWMBR26\". Note that this offer is only valid for new members or tho",
+      "url": "https://www.dealnews.com/CIT-Bank-Platinum-Savings-Account-APY-Promotional-Boost-Save-More-Earn-More/22337093.html?iref=rss",
+      "details": "Receive 4.35%* APY on balances over $5,000 Receive a 0.85%* APY with balances less than $5,000 Earn 11x** the national average Tiered account $100 minimum account opening Member FDIC No Monthly Service fees No account opening fees *Platinum Savings is a tiered",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -627,11 +627,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "5329e3cadaad5fd8",
-      "title": "Capital One VentureOne Rewards Credit Card - Balance Transfer: Earn 20,000 bonus miles",
+      "id": "b6484b120141e39a",
+      "title": "Chase High School Checking℠ for $125 bonus w/ new account",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Capital-One-Venture-One-Rewards-Credit-Card-Balance-Transfer-Earn-20-000-bonus-miles/22390215.html?iref=rss",
-      "details": "The Capital One VentureOne Rewards Credit Card – Balance Transfer offers an extended 18-month introductory period for eligible balance transfers, giving cardholders more time to manage transferred balances under promotional terms. Earn 20,000 bonus miles once ",
+      "url": "https://www.dealnews.com/Chase-High-School-Checking-for-125-bonus-w-new-account/22124162.html?iref=rss",
+      "details": "Your teen gets $125 when you open a new Chase High School Checking℠ account together with qualifying activities within 60 days of coupon enrollment As a co-owner of the account, you must be present at account opening. $0 Monthly Service Fee Help your teen buil",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -675,11 +675,19 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "a9312d069b0d6dbb",
-      "title": "CIT Bank Platinum Savings Account APY Promotional Boost: Save More, Earn More",
+      "id": "eafbf15ef50476ab",
+      "title": "Chase Secure Banking℠ (Value) for Enjoy a $175 account bonus",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/CIT-Bank-Platinum-Savings-Account-APY-Promotional-Boost-Save-More-Earn-More/22337093.html?iref=rss",
-      "details": "Receive 4.35%* APY on balances over $5,000 Receive a 0.85%* APY with balances less than $5,000 Earn 11x** the national average Tiered account $100 minimum account opening Member FDIC No Monthly Service fees No account opening fees *Platinum Savings is a tiered",
+      "url": "https://www.dealnews.com/Chase-Secure-Banking-Value-for-Enjoy-a-175-account-bonus/22308076.html?iref=rss",
+      "details": "Enjoy a $175 checking account bonus as a new Chase banking customer when you open a Chase Secure Banking℠ account with qualifying transactions. Open online or at any Chase branch. Bank with confidence — no minimum deposit to open an account and no overdraft fe",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "525b297a6f8597e2",
+      "title": "lululemon We Made Too Much Event: Up to 79% off + free shipping",
+      "source": "DealNews Editors",
+      "url": "https://www.dealnews.com/lululemon-We-Made-Too-Much-Event-Up-to-79-off-free-shipping/22389765.html?iref=rss",
+      "details": "lululemon's We Made Too Much event is the brand's overstock section, covering women's and men's apparel, shoes, bags, and accessories from $14. The Fast and Free High-Rise Thermal Tight 28\" is $89, down from $148, and lululemon Align High-Rise Pant 28\" tights ",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -688,14 +696,6 @@
       "source": "DealNews Editors",
       "url": "https://www.dealnews.com/Sleep-Number-Mattresses-free-doorstep-delivery/22389644.html?iref=rss",
       "details": "Sleep Number is offering free doorstep delivery with the purchase of select mattresses. Eligible models include the ComfortMode, ComfortMode Luxe, ComfortNext, ComfortNext Lux, and ComfortNext Ultra mattresses. Shop Now at Sleep Number",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "0e4c33cb020cb7c7",
-      "title": "Free Country Early Black Friday Sale: 50% off + free shipping w/ $99",
-      "source": "DealNews Editors",
-      "url": "https://www.dealnews.com/Free-Country-Early-Black-Friday-Sale-50-off-free-shipping-w-99/22389663.html?iref=rss",
-      "details": "Get 50% off sale items via code \"EARLY50\" during Free Country's Early Black Friday Sale. Shipping adds $9.99 but orders of $99 or more get free shipping. Deal ends November 15. Shop Now at Free Country Features Women's and men's fleece, sherpa, and Butter Pile",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -1291,14 +1291,6 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "f71a7f92bb96a123",
-      "title": "Woot! Daily Deals: Up to 70% Off Home & Kitchen, Streaming Devices, Apple Pencil Pro, Philips Smart Locks & More",
-      "source": "TechBargains",
-      "url": "https://www.woot.com/",
-      "details": "Woot! Daily Deals: Up to 70% Off Home & Kitchen, Streaming Devices, Apple Pencil Pro, Philips Smart Locks & More",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
       "id": "e3c0ce666701e983",
       "title": "The Wall Street Journal Sale: $2/Week for 12-Months Digital Subscription",
       "source": "TechBargains",
@@ -1883,14 +1875,6 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "dc5e1121fac55191",
-      "title": "Gihen 10ml Bottle Aromatic Essential Oils Set (12-Scents) $7.99",
-      "source": "TechBargains",
-      "url": "https://www.amazon.com/gp/product/B0H15MCVV8/ref=ox_sc_act_title_1?smid=A1AUZQ5T3Q8DYS&th=1",
-      "details": "Gihen 10ml Bottle Aromatic Essential Oils Set (12-Scents) $7.99",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
       "id": "d3b55f5cabd3dd85",
       "title": "Paris Rhone 1.7L 1500W Electric Kettle w/ Digital Temperature Display $39.99",
       "source": "TechBargains",
@@ -1904,6 +1888,22 @@
       "source": "TechBargains",
       "url": "https://www.amazon.com/gp/product/B0H83LDPGL/ref=ox_sc_act_title_1?smid=AL561HYGAAA1K&th=1",
       "details": "Anyking M5 15.6\" 1080p IPS USB-C Portable Monitor Laptop Screen Extender with Stand $64.99",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "29f1df175cde76e1",
+      "title": "Shadowhawk S1979 365nm Rechargeable UV Flashlight with Filter Lens & LCD Display $14.99",
+      "source": "TechBargains",
+      "url": "https://www.amazon.com/gp/product/B0FPCFP1YG/ref=ox_sc_act_title_1?smid=A1U080RTK5EIZM&psc=1",
+      "details": "Shadowhawk S1979 365nm Rechargeable UV Flashlight with Filter Lens & LCD Display $14.99",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "1e17aa32ceb52b77",
+      "title": "Seesii 18:1 Thrust Ratio Caulking Gun Set with Putty Knife $14.99",
+      "source": "TechBargains",
+      "url": "https://www.amazon.com/gp/product/B0HGFMMR6W/ref=ox_sc_act_title_1?smid=A1678NGPH4OQTW&th=1",
+      "details": "Seesii 18:1 Thrust Ratio Caulking Gun Set with Putty Knife $14.99",
       "status": "needs_official_retailer_price_pair"
     },
     {

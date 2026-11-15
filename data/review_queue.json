@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-11-15T14:13:09.629777Z",
-  "count": 283,
+  "generated_at": "2026-11-15T14:39:47.412043Z",
+  "count": 282,
   "candidates": [
+    {
+      "id": "ecfeac084bff70fe",
+      "title": "Select Walmart Accounts: Pokémon Legends: Z-A (Switch) $30.10 + Free Pickup",
+      "source": "Slickdeals Frontpage",
+      "url": "https://slickdeals.net/f/20312202-select-walmart-accounts-pok-mon-legends-z-a-switch-30-10-free-pickup?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "details": "Walmart has for *Select Accounts*: *Pokémon Legends: Z-A* (Nintendo Switch) *+ Filler Item* on sale for *~$30.08* when following the instructions below. Select free store pick up where stock permits....",
+      "status": "needs_official_retailer_price_pair"
+    },
     {
       "id": "e823338550c39b6f",
       "title": "Rayman: 30th Anniversary Edition (PS5 or Switch) $20",
       "source": "Slickdeals Frontpage",
       "url": "https://slickdeals.net/f/20312790-rayman-30th-anniversary-edition-nintendo-switch-or-ps5-20-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "details": "Amazon [amazon.com] has *Rayman: 30th Anniversary Edition* (Nintendo Switch or PS5) for *$19.99*. *Shipping is free* with Prime or on $35+ Available options:[LIST][*] Nintendo Switch...",
+      "details": "Amazon has *Rayman: 30th Anniversary Edition* (PS5 or Switch) on sale for *$19.99*. *Shipping is free* with Prime or on $35+ orders. Thanks to Deal Hunter *BBQchicken* for finding this deal. ...",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -31,7 +39,7 @@
       "title": "Shake Shack: Chicken Shack, ShackBurger, or Chicken Bites Free w/ $10+ Order (Valid Every Sunday Thru 12/27)",
       "source": "Slickdeals Frontpage",
       "url": "https://slickdeals.net/f/20276457-shake-shack-free-chicken-shack-shackburger-or-chicken-bites-w-purchase-every-sunday-thru-12-27-8?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "details": "Shake Shack [restaurant locator] is offering its *Chicken Shack, ShackBurger, or Chicken Bites* for *Free w/ $10 Minimum Purchase*, valid *every Sunday* through December 27, 2026 at participating...",
+      "details": "Shake Shack [shakeshack.com] is running a weekend special where you can score a FREE Chicken Shack, Single ShackBurger, or 6-Piece Chicken Bites with any qualifying order of $10 or more. To redeem...",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -75,11 +83,67 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "8555d5c46a9fd7f3",
-      "title": "2-Pk 3/8\" Drive 10mm Cr-V Steel Deep Socket w/ Detachable Key Ring $5",
-      "source": "Slickdeals Frontpage",
-      "url": "https://slickdeals.net/f/20309013-2-pack-3-8-inch-drive-10mm-deep-socket-6-point-cr-v-steel-with-detachable-key-ring-4-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "details": "ZHAX 2-Pack 3/8-Inch Drive 10mm Deep Socket Set, 6-Point, CR-V Steel with Detachable Key Ring, for DIY & Automotive Loose one and you will still have a backup. Also available in 1/4\" & 3/8\"...",
+      "id": "bbff19d277e222b7",
+      "title": "[SnS, AC] $3.65 or $3.16* | 4-Pk Energizer 3V Lithium Coin 2025 Batteries w/ 3-in-1 Child Shield at Amazon",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20313849-sns-ac-3-65-or-3-16-4-pk-energizer-3v-lithium-coin-2025-batteries-w-3-in-1-child-shield-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Amazon [amazon.com] has *4-Pk Energizer 3V Lithium Coin 2025 Batteries w/ 3-in-1 Child Shield* for $4.89 - $1 when you 'clip' the coupon on product page - 5% when you check out via Subscribe & Save =...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "4fa20aee79a64fbb",
+      "title": "MRSZIRUI Adjustable Height Candle Warmer Lamp w/ Timer & Dimmer (Black) $12.59 + Free Shipping w/ Prime or on $35+",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20311875-mrszirui-adjustable-height-candle-warmer-lamp-w-timer-dimmer-black-12-59-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "TianmingHL via Amazon [amazon.com] has *MRSZIRUI Adjustable Height Candle Warmer Lamp w/ Timer & Dimmer (Black)* on sale for $17.99 - $5.40 off with custom coupon [amazon.com] = *$12.59*. Shipping is...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "6bb7dfe0fee9faf3",
+      "title": "Ninja PossibleCooker PRO 8.5-Qt 14-in-1 Multi-Cooker (Stone Purple) $99.99 + Free Shipping",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20313939-ninja-possiblecooker-pro-8-5-qt-14-in-1-multi-cooker-stone-purple-99-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "*Best Buy* [bestbuy.com] has *Ninja PossibleCooker PRO 8.5-Qt 14-in-1 Multi-Cooker (Stone Purple)* on sale for *$99.99*. *Shipping is free.*",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "020e371d16eeb7b3",
+      "title": "[NEW] $119.95 | JBL EasySing Mic Mini - Real-Time Vocal Removal - Black at Amazon",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20312814-new-119-95-jbl-easysing-mic-mini-real-time-vocal-removal-black-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Amazon [amazon.com] has *JBL EasySing Mic Mini - Real-Time Vocal Removal - Black* for *$119.95*. *Shipping is free*. amazon.com/dp/B0GP2W4CS2 [amazon.com] Please report the deal if expired...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "598ba710244881ad",
+      "title": "Apple iPad mini (A17 Pro): Apple Intelligence, 8.3-inch Liquid Retina Display, various capacities & colors, from $499",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20313810-apple-ipad-mini-a17-pro-apple-intelligence-8-3-inch-liquid-retina-display-various-capacities-colors-from-499?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Apple iPad mini (A17 Pro): Apple Intelligence, 8.3-inch Liquid Retina Display, various capacities & colors, from $499.00 128GB WiFi [amazon.com] - $499.00 128GB WiFi + Cellular [amazon.com] -...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "6fe0c77333c97d81",
+      "title": "[NEW] $199.99 | Acer ProDesigner PE160W smiuux 16\" OLED 1920 x 1200 16:10 Portable Monitor at Amazon",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20312661-new-199-99-acer-prodesigner-pe160w-smiuux-16-oled-1920-x-1200-16-10-portable-monitor-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Amazon [amazon.com] has *Acer ProDesigner PE160W smiuux 16\" OLED 1920 x 1200 16:10 Portable Monitor* for *$199.99*. *Shipping is free*. amazon.com/dp/B0HD1DVBF6 [amazon.com] Please report the...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "8bfb2de4ee4e6e6c",
+      "title": "Mouse: P.I. For Hire (PlayStation 5) - $19.99 | (Nintendo Switch 2) - $34.99 @ Best Buy",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20312334-mouse-p-i-for-hire-playstation-5-19-99-nintendo-switch-2-34-99-best-buy?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Free store pick up - Free shipping PlayStation 5 - *$19.99* https://www.bestbuy.com/product/m...ku/6675018 Nintendo Switch 2 - *$34.99* https://www.bestbuy.com/product/m...ku/6675017 ...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "c06e0ae7b38f9df3",
+      "title": "$19.99 | Star Wars: Dark Forces Remaster at Amazon",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20312796-19-99-star-wars-dark-forces-remaster-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Amazon [amazon.com] has *Star Wars: Dark Forces Remaster* for *$19.99*. *Shipping is free* with Prime or on $35+ orders. * PlayStation 5 [amazon.com] * Nintendo Switch [amazon.com] Please...",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -211,75 +275,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "8f827df8f212031d",
-      "title": "Golden Star Rice, Ready to Heat Microwaveable Cups, 4.4 oz 2-Pack free after Walmart cash",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20313741-golden-star-rice-ready-to-heat-microwaveable-cups-4-4-oz-2-pack-free-after-walmart-cash?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Apply the Walmart cash offer to get $2.27 in Walmart cash on various flavors that are priced at $2.27. Alternatively you could use Ibotta for the same amount back if you're trying to get their free...",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "cb3bb9cb83937b3e",
-      "title": "$200 LOWES Silvel 8-Drawer Rolling Tool Chest with Wheels 3-in-1 Modular Steel Tool Box and Cabinet Combo with Removable Top",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20312754-200-lowes-silvel-8-drawer-rolling-tool-chest-with-wheels-3-in-1-modular-steel-tool-box-and-cabinet-combo-with-removable-top?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "https://www.lowes.com/pd/Silvel-8...ck/7509004",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "688abd23b0752d84",
-      "title": "7.5-Oz Vaseline Pro VitaB3 Serum Burst Body Lotion (Supple & Soft) $3.21 w/ S&S + Free Shipping w/ Prime or on $35+",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20313567-7-5-oz-vaseline-pro-vitab3-serum-burst-body-lotion-supple-soft-3-21-w-s-s-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Amazon [amazon.com] has *7.5-Oz Vaseline Pro VitaB3 Serum Burst Body Lotion (Supple & Soft)* on sale for $5.79 - $2 off when you 'clip' the coupon on product page [amazon.com] - 10% off when you...",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "c66102407c79b012",
-      "title": "$399.99 | Shark PowerDetect NeverTouch Robot Vacuum & Mop, Black, AV2810YS at Amazon",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20312838-399-99-shark-powerdetect-nevertouch-robot-vacuum-mop-black-av2810ys-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Amazon [amazon.com] has *Shark PowerDetect NeverTouch Robot Vacuum & Mop, Black, AV2810YS* for *$399.99*. *Shipping is free*. amazon.com/dp/B0DGRZHXZN [amazon.com] Please report the deal if...",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "aba05ec5388de2ab",
-      "title": "Velvelhall 4 Pack Men's Thermal Shirts, 4-Color, Medium Cotton, Raglan, Sweater, Crew Neck, long sleeve, Ribbed, Knit, Pullover, Slim, Base, Undershirt $24.99",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20311668-velvelhall-4-pack-men-s-thermal-shirts-4-color-medium-cotton-raglan-sweater-crew-neck-long-sleeve-ribbed-knit-pullover-slim-base-undershirt-24-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "ZeeBien via Amazon has 4 Pack Men's Thermal Shirts for $24.99 *Fabric type* 90% Cotton, 10% Spandex https://www.amazon.com/dp/B0FLDM94QN?",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "b339861b196fc940",
-      "title": "$19 Levi Strauss Signature Men's Carpenter Jeans",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20313513-19-levi-strauss-signature-men-s-carpenter-jeans?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Available in Black, Midnight Stonewash and Light Indigo. Shipping is free with Walmart+ ($1 trial available) or on orders of $35+ https://www.walmart.com/ip/Levi-S...hbdg=L1800 ...",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "b9773bcb87321200",
-      "title": "Apple Watch Series 12 (GPS) 42mm Aluminum Case with Sand Sport Band - S/M - Light Gold - (2026) $329 at BestBuy",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20312757-apple-watch-series-12-gps-42mm-aluminum-case-with-sand-sport-band-s-m-light-gold-2026-329-at-bestbuy?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "BestBuy has Apple Watch Series 12 (GPS) 42mm Aluminum Case with Sand Sport Band - S/M - Light Gold - (2026) for $329. Shipping is free. Color:[list][*]Black [bestbuy.com][*]Dark Bronze...",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "df269f663b36a73f",
-      "title": "3-Pack 12.5-Oz Mrs. Meyer's Clean Day Hand Soap (Oat Blossom) $8.76 w/ S&S + Free Shipping w/ Prime or on $35+",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20313687-3-pack-12-5-oz-mrs-meyer-s-clean-day-hand-soap-oat-blossom-8-76-w-s-s-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Amazon [amazon.com] has *3-Pack 12.5-Oz Mrs. Meyer's Clean Day Hand Soap (Oat Blossom)* for $13.47 - 30% off when you 'clip' the coupon on product page [amazon.com] - 5% off when you checkout via...",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "a9b9580bcf149b5a",
-      "title": "[Prime] Bedsure Self-Warming Orthopedic Dog Bed w/ Removable Washable Cover (Various Sizes/Colors) from $18.99 + Free Shipping",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20305845-prime-bedsure-self-warming-orthopedic-dog-bed-w-removable-washable-cover-various-sizes-colors-from-18-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Bedsure Comfy Pet via Amazon [amazon.com] has for *Prime Members*: *Bedsure 30\" Self-Warming Orthopedic Dog Bed w/ Removable Washable Cover (Medium, Ashen Grey)* on sale from $37.99 - 50% with promo...",
+      "id": "3a9d3f5ad5bb882c",
+      "title": "Aerivan W1 Wireless Indoor/Outdoor Weather Station for $75 + free shipping",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/Aerivan-W1-Wireless-Indoor-Outdoor-Weather-Station-for-75-free-shipping/22370461.html?iref=rss",
+      "details": "Tracking temperature, humidity, and wind conditions both inside and outside makes this a solid pick if you split time between house and yard projects, and Amazon has it at $35 off the usual price. Deal ends November 17. Buy Now at Amazon Features Track indoor ",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -323,19 +323,19 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "57b5e6bed66ed3f2",
-      "title": "Macy's Black Friday Furniture Deals: Up to 80% off + free shipping w/ $39",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Macys-Black-Friday-Furniture-Deals-Up-to-80-off-free-shipping-w-39/22346518.html?iref=rss",
-      "details": "Macy's has just knocked as much as 80% off living room and bedroom furniture, and mattresses, ahead of Black Friday. (The banner says up to 60% off, but we're seeing higher discounts within.) It includes deep discounts on sofas (including the pictured Macy's G",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
       "id": "932bdbc76b9a5d34",
       "title": "Black Friday Sale at The Jacket Maker: Up to 25% off + extra 12% off + free shipping",
       "source": "DealNews Latest",
       "url": "https://www.dealnews.com/Black-Friday-Sale-at-The-Jacket-Maker-Up-to-25-off-extra-12-off-free-shipping/22389666.html?iref=rss",
       "details": "Get 20% off all outerwear and 25% off leather bags and shoes, plus an extra 12% off with coupon code \"DN12TJM\" during The Jacket Maker's Black Friday Sale. Shop Now at The Jacket Maker Features Widest range with 450+ designs of men's and women's leather jacket",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "57b5e6bed66ed3f2",
+      "title": "Macy's Black Friday Furniture Deals: Up to 80% off + free shipping w/ $39",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/Macys-Black-Friday-Furniture-Deals-Up-to-80-off-free-shipping-w-39/22346518.html?iref=rss",
+      "details": "Macy's has just knocked as much as 80% off living room and bedroom furniture, and mattresses, ahead of Black Friday. (The banner says up to 60% off, but we're seeing higher discounts within.) It includes deep discounts on sofas (including the pictured Macy's G",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -379,19 +379,19 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "60bcc442b3c90fe9",
-      "title": "Amazon Fire HD 8 8\" 4GB/64GB Tablet for $80 + free shipping",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Amazon-Fire-HD-8-8-4-GB-64-GB-Tablet-for-80-free-shipping/22398567.html?iref=rss",
-      "details": "At $80, this Amazon Fire HD 8 tablet matches its Amazon all-time low and sits below its 90-day average of $104. It has 4GB of RAM, double the 2022 release, and 64GB of storage that can be expanded with a microSD card sold separately. The tablet runs Amazon's A",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
       "id": "181719287900830f",
       "title": "Walmart Black Friday Toy Deals: Up to 75% off + free shipping w/ $35",
       "source": "DealNews Latest",
       "url": "https://www.dealnews.com/Walmart-Black-Friday-Toy-Deals-Up-to-75-off-free-shipping-w-35/22384103.html?iref=rss",
       "details": "Walmart's Black Friday Sale just went live and you can find some particularly great deals in the toy section. There are best-ever prices on LEGO sets, including the LEGO Gingerbread AT-AT, while classic board games like Sorry!, Trouble, and Connect 4 reach sup",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "60bcc442b3c90fe9",
+      "title": "Amazon Fire HD 8 8\" 4GB/64GB Tablet for $80 + free shipping",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/Amazon-Fire-HD-8-8-4-GB-64-GB-Tablet-for-80-free-shipping/22398567.html?iref=rss",
+      "details": "At $80, this Amazon Fire HD 8 tablet matches its Amazon all-time low and sits below its 90-day average of $104. It has 4GB of RAM, double the 2022 release, and 64GB of storage that can be expanded with a microSD card sold separately. The tablet runs Amazon's A",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -435,19 +435,19 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
+      "id": "b5582a9f8a588f4d",
+      "title": "35L Waterproof Travel Backpack for $13 + free shipping",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/35-L-Waterproof-Travel-Backpack-for-13-free-shipping/22384161.html?iref=rss",
+      "details": "At AliExpress, use Singles’ Day promo code “DBDEAL3” to get this foldable waterproof backpack for just $13 in Light Grey (pictured). Other colors cost slightly more. Weighing around 0.9 lb., it folds down for convenient storage and features adjustable shoulder",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
       "id": "aa82926e14d9345a",
       "title": "Homall Ergonomic High-Back Faux Leather Gaming Chair for $80 + free shipping",
       "source": "DealNews Latest",
       "url": "https://www.dealnews.com/products/Homall/Homall-Ergonomic-High-Back-Faux-Leather-Gaming-Chair/557415.html?iref=rss",
       "details": "Suits long gaming or work-from-home sessions thanks to the adjustable backrest and armrests, and at $80, it's $50 off the $130 list price. Deal ends November 20. Buy Now at Amazon Features High-density shaping foam prevents cushion flattening Durable 1.8mm ste",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "a62b245e2020bd6e",
-      "title": "Dyson Outlet Deals at eBay: Up to 75% off + extra 20% off + free shipping",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Dyson-Outlet-Deals-at-eBay-Up-to-75-off-extra-20-off-free-shipping/22393857.html?iref=rss",
-      "details": "Using promo code \"SHOPBRANDS20\" at eBay, certified refurbished Dyson vacuums, hair tools, and air purifiers drop in price, with the discount capped at $500 across up to two orders. The coupon code works on refurbished vacuums, fans, and hair appliances. The co",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -491,19 +491,19 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
+      "id": "a62b245e2020bd6e",
+      "title": "Dyson Outlet Deals at eBay: Up to 75% off + extra 20% off + free shipping",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/Dyson-Outlet-Deals-at-eBay-Up-to-75-off-extra-20-off-free-shipping/22393857.html?iref=rss",
+      "details": "Using promo code \"SHOPBRANDS20\" at eBay, certified refurbished Dyson vacuums, hair tools, and air purifiers drop in price, with the discount capped at $500 across up to two orders. The coupon code works on refurbished vacuums, fans, and hair appliances. The co",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
       "id": "90a0d4d2dc1a976f",
       "title": "Looyor Women's Lace-Up Walking Sneakers for $10 + free shipping w/ Prime",
       "source": "DealNews Latest",
       "url": "https://www.dealnews.com/Looyor-Womens-Lace-Up-Walking-Sneakers-for-10-free-shipping-w-Prime/22375361.html?iref=rss",
       "details": "These work well if you want a lightweight, breathable sneaker for everyday walking without spending much. Apply coupon code \"OX9JD0XJ\" for a savings of $20. Deal ends November 30. Buy Now at Amazon Features Breathable mesh upper for airflow Cushioned EVA insol",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "b47c3faaea3cc250",
-      "title": "Thermal Winter Curtains w/ Zipper for From $12 + free shipping",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Thermal-Winter-Curtains-w-Zipper-for-From-12-free-shipping/22393935.html?iref=rss",
-      "details": "At AliExpress, these windproof zipper curtains start at just $12 right now, instead of the normal starting price of from $31. If the size you choose costs over $15, you can use the promo code \"DBDEAL3\" to cut an extra $3 off. Standard shipping is free, too. Th",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -547,19 +547,19 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
+      "id": "b3fa645d48b419ef",
+      "title": "adidas Terrex Black Friday Sale: Up to 60% off + extra 15% off + free shipping",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/adidas-Terrex-Black-Friday-Sale-Up-to-60-off-extra-15-off-free-shipping/22393718.html?iref=rss",
+      "details": "The adidas Black Friday Sale just went live for adiClub members and we're seeing some good deals in the adidas Terrex section. (If you're not a member yet, it's free to join.) Our promo code \"DN15\" cuts an extra 15% off, too, stacking with discounts of up to 6",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
       "id": "893700a8bcba50c2",
       "title": "Woot Software Clearance: Up to 50% off + free shipping w/ Prime",
       "source": "DealNews Latest",
       "url": "https://www.dealnews.com/Woot-Software-Clearance-Up-to-50-off-free-shipping-w-Prime/22355404.html?iref=rss",
       "details": "A selection of licensed software has hit the Woot clearance section today, including Microsoft, security, and creative software discounted by up to 50%. The sale includes Microsoft Office Home 2024 at $115, down from $150, Visual Studio Professional 2026 at $5",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "0ab902b8e98d722d",
-      "title": "70L Waterproof Collapsible Car Trunk Organizer for $28 + free shipping",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/70-L-Waterproof-Collapsible-Car-Trunk-Organizer-for-28-free-shipping/22389642.html?iref=rss",
-      "details": "At AliExpress, use Singles’ Day promo code “USAFF5” to get this 70L collapsible car trunk organizer for $28, down from $77. It features waterproof, cut-resistant 1680D Oxford fabric and multiple pockets for keeping smaller items organized. Shipping is free fro",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -595,19 +595,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "cb44cac5739efb88",
-      "title": "Philips Multiport Extension Bar for $15 + free shipping w/ Prime",
+      "id": "3630ea493364b2dc",
+      "title": "Mint Mobile Black Friday Premium Wireless Deal for $15/mo. for up to 1 year",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Philips-Multiport-Extension-Bar-for-15-free-shipping-w-Prime/22365591.html?iref=rss",
-      "details": "At Woot, this Philips USB slim charger is $14.99 at Woot. That's a $10 low. Prime members get free shipping. Deal ends November 29th. Buy Now at Woot! An Amazon Company Features Two USB-A ports and one USB-C port charge three devices at once",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "48a748b6028d1aa1",
-      "title": "adidas Black Friday Sale 2026: Up to 60% off + extra 15% off + free shipping",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/adidas-Black-Friday-Sale-2026-Up-to-60-off-extra-15-off-free-shipping/22389699.html?iref=rss",
-      "details": "The adidas Black Friday sale has gone live for its adiClub members (if you're not a member yet, it's free to sign up). You can even stack our promo code \"DN15\" with the discounts of up to 60% in this sale. Members also get free shipping on all orders. The sale",
+      "url": "https://www.dealnews.com/Mint-Mobile-Black-Friday-Premium-Wireless-Deal-for-15-mo-for-up-to-1-year/22384180.html?iref=rss",
+      "details": "For Black Friday, Mint Mobile is offering new customers any plan, including Unlimited, for $15 a month when paid upfront for 3, 6, or 12 months. It's $45 for 3 months, $90 for 6 months, or $180 for 12 months. Buy Now at Mint Mobile Features Unlimited plan at $",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -651,6 +643,14 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
+      "id": "48a748b6028d1aa1",
+      "title": "adidas Black Friday Sale 2026: Up to 60% off + extra 15% off + free shipping",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/adidas-Black-Friday-Sale-2026-Up-to-60-off-extra-15-off-free-shipping/22389699.html?iref=rss",
+      "details": "The adidas Black Friday sale has gone live for its adiClub members (if you're not a member yet, it's free to sign up). You can even stack our promo code \"DN15\" with the discounts of up to 60% in this sale. Members also get free shipping on all orders. The sale",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
       "id": "14a90a509a120063",
       "title": "Beeprincess 6-Foot Animated Rotating Gingerbread Man Christmas Inflatable for $36 + free shipping",
       "source": "DealNews Latest",
@@ -659,11 +659,19 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "8f039774273b7d97",
-      "title": "Sleep Number Black Friday Mattress Deals: Up to 25% off + free shipping",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Sleep-Number-Black-Friday-Mattress-Deals-Up-to-25-off-free-shipping/22383943.html?iref=rss",
-      "details": "Sleep Number is taking up to 25% off select adjustable mattresses during its Black Friday Sale. Save 25% on ClimateCool and Climate360 mattresses, 20% on ComfortNext, ComfortNext Lux, and ComfortNext Ultra mattresses, and 10% on ComfortMode and ComfortMode Lux",
+      "id": "1a7320efa444a991",
+      "title": "Zhax 3/8\" Drive 10mm Deep Socket Set (2-Pack) with Detachable Key Ring $4.99",
+      "source": "TechBargains",
+      "url": "https://www.amazon.com/gp/product/B0GYN6S2X9/ref=ox_sc_act_title_1?smid=A35CD83MYJRFPI&th=1",
+      "details": "Zhax 3/8\" Drive 10mm Deep Socket Set (2-Pack) with Detachable Key Ring $4.99",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "537f20a82e94c2c1",
+      "title": "Diet Coke 16.9oz Caffeine Free Soda Soft Drink Bottles (6-Pack) $2.83",
+      "source": "TechBargains",
+      "url": "https://www.amazon.com/gp/product/B01J1KWY44/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
+      "details": "Diet Coke 16.9oz Caffeine Free Soda Soft Drink Bottles (6-Pack) $2.83",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -683,11 +691,27 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
+      "id": "8105d2e74b5c02da",
+      "title": "Rubbermaid Brilliance Airtight Food Storage Container (16-Cup) $13.99",
+      "source": "TechBargains",
+      "url": "https://www.amazon.com/gp/product/B0752ZJ5LF/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
+      "details": "Rubbermaid Brilliance Airtight Food Storage Container (16-Cup) $13.99",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
       "id": "05abe19a4acdc2bb",
       "title": "Mucinex 6oz Fast-Max Cold & Flu Medicine (2-Pack) $8.78",
       "source": "TechBargains",
       "url": "https://www.amazon.com/gp/product/B08836KTVQ/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
       "details": "Mucinex 6oz Fast-Max Cold & Flu Medicine (2-Pack) $8.78",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "48b81f4e2516bd12",
+      "title": "L LOHAS 3000K LED 3D Cute Puppy Night Light $5.49",
+      "source": "TechBargains",
+      "url": "https://www.amazon.com/gp/product/B0CN34Q58Y/ref=ox_sc_act_title_1?smid=A2X4NE86JUW3T&psc=1",
+      "details": "L LOHAS 3000K LED 3D Cute Puppy Night Light $5.49",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -700,10 +724,10 @@
     },
     {
       "id": "340caf353b976819",
-      "title": "Rubbermaid Brilliance Plastic Airtight Durable Food Storage Container $10.99",
+      "title": "Rubbermaid Brilliance Plastic Airtight Durable Food Storage Container (12-Cup) $10.99",
       "source": "TechBargains",
       "url": "https://www.amazon.com/gp/product/B07531HM8Q/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
-      "details": "Rubbermaid Brilliance Plastic Airtight Durable Food Storage Container $10.99",
+      "details": "Rubbermaid Brilliance Plastic Airtight Durable Food Storage Container (12-Cup) $10.99",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -1835,35 +1859,131 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "8ca5cf678cbbb1e8",
-      "title": "MSI Optix G32C4W 32\" Curved 1920x1080 165Hz 1ms Gaming Monitor $119.99",
-      "source": "TechBargains",
-      "url": "https://www.walmart.com/ip/seort/975393584",
-      "details": "MSI Optix G32C4W 32\" Curved 1920x1080 165Hz 1ms Gaming Monitor $119.99",
+      "id": "c7637cf205f751c1",
+      "title": "AMD Ryzen 7 9850X3D 8-Core 4.7 GHz 140W Desktop Processor",
+      "source": "cDeals",
+      "url": "https://cdeals.co/item/amd-ryzen-7-9850x3d-8-core-4-7-ghz-140w-desktop-processor/",
+      "details": "The AMD Ryzen 7 9850X3D 8-Core 4.7 GHz 140W Desktop Processor is an 8-core, 4.7 GHz desktop processor rated at 140W.",
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "4df9098f929efdc3",
-      "title": "LEGO Creator 3-in-1 Iconic Ferris Wheel Building Set (31389, 916-Piece) $79.95",
-      "source": "TechBargains",
-      "url": "https://www.amazon.com/gp/product/B0G2T13NTV/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
-      "details": "LEGO Creator 3-in-1 Iconic Ferris Wheel Building Set (31389, 916-Piece) $79.95",
+      "id": "31244ab87e45e928",
+      "title": "AMD Ryzen 9 9900X - Ryzen 9 9000 Series Granite Ridge (Zen 5) 12-Core 4.4",
+      "source": "cDeals",
+      "url": "https://cdeals.co/item/amd-ryzen-9-9900x-ryzen-9-9000-series-granite-ridge-zen-5-12/",
+      "details": "The AMD Ryzen 9 9900X is a 12-core processor.",
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "b3e463af4b03e698",
-      "title": "Razor RipRider 360 Mini Lightshow Spinning Caster Trike $48.00",
-      "source": "TechBargains",
-      "url": "https://www.walmart.com/ip/seort/19631109878",
-      "details": "Razor RipRider 360 Mini Lightshow Spinning Caster Trike $48.00",
+      "id": "d839f01dde7827bb",
+      "title": "Bose SoundLink Flex (2nd Gen) Portable Bluetooth Speaker",
+      "source": "cDeals",
+      "url": "https://cdeals.co/item/bose-soundlink-flex-2nd-gen-portable-bluetooth-speaker/",
+      "details": "The Bose SoundLink Flex (2nd Gen) Portable Bluetooth Speaker is a Bluetooth speaker.",
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "2090427a1b4aa74c",
-      "title": "Hyper Tough 3-in-1 Laser Line Torpedo Level with LED Lighted Vials $12",
-      "source": "TechBargains",
-      "url": "https://www.walmart.com/ip/seort/20113569420",
-      "details": "Hyper Tough 3-in-1 Laser Line Torpedo Level with LED Lighted Vials $12",
+      "id": "98f3565b18914c04",
+      "title": "Carltec Solar 2K PTZ Wireless Outdoor Security Camera (4-Pack) with Home",
+      "source": "cDeals",
+      "url": "https://cdeals.co/item/carltec-solar-2k-ptz-wireless-outdoor-security-camera-4-pack/",
+      "details": "The Carltec Solar 2K PTZ Wireless Outdoor Security Camera (4-Pack) with Home is a camera.",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "c7772d8ea182982e",
+      "title": "Coway Airmega Mighty Air Quality Monitor HEPA Filter Air Purifier",
+      "source": "cDeals",
+      "url": "https://cdeals.co/item/coway-airmega-mighty-air-quality-monitor-hepa-filter-air/",
+      "details": "The Coway Airmega Mighty Air Quality Monitor HEPA Filter Air Purifier is a monitor.",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "2359fb099af203b3",
+      "title": "Grand Theft Auto: The Trilogy Definitive Edition (Nintendo Switch)",
+      "source": "cDeals",
+      "url": "https://cdeals.co/item/grand-theft-auto-the-trilogy-definitive-edition-nintendo/",
+      "details": "This deal is on the Grand Theft Auto: The Trilogy Definitive Edition (Nintendo Switch).",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "ba857bf7626906b4",
+      "title": "HP 14\" HD Laptop, Intel N150, 4GB RAM, 128GB eMMC, Wi-Fi 6, Windows 11",
+      "source": "cDeals",
+      "url": "https://cdeals.co/item/hp-14-hd-laptop-intel-n150-4gb-ram-128gb-emmc-wi-fi-6/",
+      "details": "I've been looking at the HP 14\" HD Laptop, Intel N150, 4GB RAM, 128GB eMMC, Wi-Fi 6, Windows 11. Choose from Same Day Delivery, Drive Up or Order Pickup.",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "f1ea77b313e58dde",
+      "title": "JUOVI 25W 10000mAh Portable Power Bank with Built-in Cable",
+      "source": "cDeals",
+      "url": "https://cdeals.co/item/juovi-25w-10000mah-portable-power-bank-with-built-in-cable/",
+      "details": "The JUOVI 25W 10000mAh Portable Power Bank with Built-in Cable is a power bank.",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "e04f4a5299a68094",
+      "title": "MinZhi Portable Thermal Printer",
+      "source": "cDeals",
+      "url": "https://cdeals.co/item/minzhi-portable-thermal-printer-2/",
+      "details": "This deal is on the MinZhi Portable Thermal Printer.",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "fbd001019ed09cc3",
+      "title": "MSI MAG 272QP QD-OLED X24 Gaming Monitor",
+      "source": "cDeals",
+      "url": "https://cdeals.co/item/msi-mag-272qp-qd-oled-x24-gaming-monitor/",
+      "details": "I've been looking at the MSI MAG 272QP QD-OLED X24 Gaming Monitor. Warranty: 180-Day MSI Limited Warranty Optional Asurion Protection Plan: To further",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "3188f448795cff0e",
+      "title": "Philips USB Slim Charger",
+      "source": "cDeals",
+      "url": "https://cdeals.co/item/philips-usb-slim-charger-2/",
+      "details": "I've been looking at the Philips USB Slim Charger. Explore Philips Hue smart lighting. The best smart LED lights for daily routines and special moments.",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "9804a6432d20faba",
+      "title": "PRAGMATA (PS5, Switch 2 or XSX)",
+      "source": "cDeals",
+      "url": "https://cdeals.co/item/pragmata-ps5-switch-2-or-xsx/",
+      "details": "This deal is on the PRAGMATA (PS5, Switch 2 or XSX).",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "4550082ef594dac9",
+      "title": "Rayman: 30th Anniversary Edition (PS5 or Switch)",
+      "source": "cDeals",
+      "url": "https://cdeals.co/item/rayman-30th-anniversary-edition-ps5-or-switch/",
+      "details": "This deal is on the Rayman: 30th Anniversary Edition (PS5 or Switch).",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "e3e0a5169c690ead",
+      "title": "Snaptain S5C Elite 2MP Camera Drone with Remote Control: Wi-Fi Video",
+      "source": "cDeals",
+      "url": "https://cdeals.co/item/snaptain-s5c-elite-2mp-camera-drone-with-remote-control-wi/",
+      "details": "I've been looking at the Snaptain S5C Elite 2MP Camera Drone with Remote Control: Wi-Fi Video. Choose from Same Day Delivery, Drive Up or Order Pickup.",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "45ca46e847adf607",
+      "title": "Soundcore Anker Q31i Bluetooth 6.0 Adaptive Noise Cancelling Over-Ear",
+      "source": "cDeals",
+      "url": "https://cdeals.co/item/soundcore-anker-q31i-bluetooth-6-0-adaptive-noise-cancelling/",
+      "details": "This deal is on the Soundcore Anker Q31i Bluetooth 6.0 Adaptive Noise Cancelling Over-Ear.",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "dfb9a5ebd01be425",
+      "title": "Voyee Pro Wireless Controller (Red-Blue) for Switch",
+      "source": "cDeals",
+      "url": "https://cdeals.co/item/voyee-pro-wireless-controller-red-blue-for-switch/",
+      "details": "This deal is on the Voyee Pro Wireless Controller (Red-Blue) for Switch.",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -2136,134 +2256,6 @@
       "source": "cDeals",
       "url": "https://cdeals.co/item/rk-royal-kludge-s98-wireless-keyboard-2/",
       "details": "The RK ROYAL KLUDGE S98 Wireless Keyboard is a keyboard.",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "b103d3ea48a24ce4",
-      "title": "RK Wireless Hot-Swappable 65% Mechanical Keyboard",
-      "source": "cDeals",
-      "url": "https://cdeals.co/item/rk-wireless-hot-swappable-65-mechanical-keyboard-2/",
-      "details": "I've been looking at the RK Wireless Hot-Swappable 65% Mechanical Keyboard. Warranty: 1 Year Manufacturer Warranty Optional Asurion Protection Plan: To",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "325279c8cace48e1",
-      "title": "Roborock Qrevo 2 Pro 20000Pa Robot Vacuum and Mop",
-      "source": "cDeals",
-      "url": "https://cdeals.co/item/roborock-qrevo-2-pro-20000pa-robot-vacuum-and-mop/",
-      "details": "The Roborock Qrevo 2 Pro 20000Pa Robot Vacuum and Mop is a robot vacuum with 20000Pa suction.",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "4c2ac86ea1c2529d",
-      "title": "Shokz OpenFit 2+ Open-Ear Earbuds",
-      "source": "cDeals",
-      "url": "https://cdeals.co/item/shokz-openfit-2-open-ear-earbuds/",
-      "details": "The Shokz OpenFit 2+ Open-Ear Earbuds is a pair of earbuds.",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "ba0576ab4d7f55dd",
-      "title": "Soundcore Boom 2 by Anker IPX7 80W Speaker with RGB Lights",
-      "source": "cDeals",
-      "url": "https://cdeals.co/item/soundcore-boom-2-by-anker-ipx7-80w-speaker-with-rgb-lights/",
-      "details": "The Soundcore Boom 2 by Anker IPX7 80W Speaker with RGB Lights is a speaker.",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "fc7e01e99a79169d",
-      "title": "Uineer Tri-Mode USB-A Bluetooth Wireless Mouse",
-      "source": "cDeals",
-      "url": "https://cdeals.co/item/uineer-tri-mode-usb-a-bluetooth-wireless-mouse/",
-      "details": "The Uineer Tri-Mode USB-A Bluetooth Wireless Mouse is a mouse.",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "1e7df829bcd5c5b4",
-      "title": "Vamvo Magnetic Selfie Monitor Screen w/ Bluetooth Remote",
-      "source": "cDeals",
-      "url": "https://cdeals.co/item/vamvo-magnetic-selfie-monitor-screen-w-bluetooth-remote/",
-      "details": "The Vamvo Magnetic Selfie Monitor Screen w/ Bluetooth Remote is a monitor.",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "5a0513c69b5914d7",
-      "title": "Veektomx 10000mAh Slim Portable Charger with 4 Built-in Cables",
-      "source": "cDeals",
-      "url": "https://cdeals.co/item/veektomx-10000mah-slim-portable-charger-with-4-built-in/",
-      "details": "The Veektomx 10000mAh Slim Portable Charger with 4 Built-in Cables is a charger.",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "561bb7c27c2e697b",
-      "title": "Acer Nitro MG275U 27\" 2560 x 1440 210Hz Gaming Monitor",
-      "source": "cDeals",
-      "url": "https://cdeals.co/item/acer-nitro-mg275u-27-2560-x-1440-210hz-gaming-monitor/",
-      "details": "The Acer Nitro MG275U 27\" 2560 x 1440 210Hz Gaming Monitor is a monitor with a 27\" display and a 210 Hz refresh rate.",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "68c656100dcd7a04",
-      "title": "Amazon eero Max 7 Tri-Band Mesh WiFi 7 BE20800 Router System (2-Pack)",
-      "source": "cDeals",
-      "url": "https://cdeals.co/item/amazon-eero-max-7-tri-band-mesh-wifi-7-be20800-router-system/",
-      "details": "The Amazon eero Max 7 Tri-Band Mesh WiFi 7 BE20800 Router System (2-Pack) is a router.",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "88884e42f46ecba3",
-      "title": "AMD Ryzen 7 8-Core Unlocked Desktop Processor (16-Thread)",
-      "source": "cDeals",
-      "url": "https://cdeals.co/item/amd-ryzen-7-8-core-unlocked-desktop-processor-16-thread/",
-      "details": "The AMD Ryzen 7 8-Core Unlocked Desktop Processor (16-Thread) is an 8-core desktop processor.",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "a2812bb8e5108429",
-      "title": "Blink Gen-4 2K+ Sync Module Core Doorbell with 5 Cameras",
-      "source": "cDeals",
-      "url": "https://cdeals.co/item/blink-gen-4-2k-sync-module-core-doorbell-with-5-cameras/",
-      "details": "I've been looking at the Blink Gen-4 2K+ Sync Module Core Doorbell with 5 Cameras. Affordable wireless and plug-in smart home security cameras and systems",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "daf10555e3cedf1b",
-      "title": "Blink Mini 2K Plus Plug-in Night Vision Indoor Security Camera (2 cameras)",
-      "source": "cDeals",
-      "url": "https://cdeals.co/item/blink-mini-2k-plus-plug-in-night-vision-indoor-security/",
-      "details": "I've been looking at the Blink Mini 2K Plus Plug-in Night Vision Indoor Security Camera (2 cameras). Affordable wireless and plug-in smart home security",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "9f8c52df15acd2e2",
-      "title": "Dell Latitude 5420 (2021) i5 2.4GHz 8GB RAM 256GB SSD WIN11P",
-      "source": "cDeals",
-      "url": "https://cdeals.co/item/dell-latitude-5420-2021-i5-2-4ghz-8gb-ram-256gb-ssd-win11p/",
-      "details": "I've been looking at the Dell Latitude 5420 (2021) i5 2.4GHz 8GB RAM 256GB SSD WIN11P. Get a refurbished Dell Latitude 5420 with an Intel Core i5-1135G7,",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "05dd7a544281c33e",
-      "title": "Dell Latitude 5420 (2021) i7 2.8GHz 8GB RAM 256GB SSD WIN11PRO",
-      "source": "cDeals",
-      "url": "https://cdeals.co/item/dell-latitude-5420-2021-i7-2-8ghz-8gb-ram-256gb-ssd-win11pro/",
-      "details": "I've been looking at the Dell Latitude 5420 (2021) i7 2.8GHz 8GB RAM 256GB SSD WIN11PRO. Get a refurbished Dell Latitude 5420 with 11th Gen Intel Core i7,",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "d40777929688be8a",
-      "title": "eero Pro 6E 2.5 Gbps Dual-Band Mesh WiFi 5 System",
-      "source": "cDeals",
-      "url": "https://cdeals.co/item/eero-pro-6e-2-5-gbps-dual-band-mesh-wifi-5-system/",
-      "details": "This deal is on the eero Pro 6E 2.5 Gbps Dual-Band Mesh WiFi 5 System.",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "e48c6aa97e5106fc",
-      "title": "Hisense 32\" QD4 Series Hi-QLED HD Smart AI Roku TV",
-      "source": "cDeals",
-      "url": "https://cdeals.co/item/hisense-32-qd4-series-hi-qled-hd-smart-ai-roku-tv/",
-      "details": "The Hisense 32\" QD4 Series Hi-QLED HD Smart AI Roku TV comes with a 32\" display.",
       "status": "needs_official_retailer_price_pair"
     }
   ]

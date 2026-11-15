@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T09:40:35.528069Z",
-  "count": 285,
+  "generated_at": "2026-11-15T10:13:34.719232Z",
+  "count": 287,
   "candidates": [
     {
       "id": "7ccbb4f6a9f50d13",
@@ -23,7 +23,7 @@
       "title": "Loaded Steam Sale (PCDD): Cronos: The New Dawn Deluxe $20, 007 First Light $37.80 & More",
       "source": "Slickdeals Frontpage",
       "url": "https://slickdeals.net/f/20304417-loaded-steam-sale-007-first-light-35-days-gone-11-silent-hill-2-19-more-pc-games?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "details": "Loaded has select *Digital PC Games* on sale for the prices below. Thanks to Deal Hunter *Eragorn* for finding this deal. Note: Steam account/application required to redeem code/play game (free...",
+      "details": "Loaded [loaded.com] has select *Digital PC Games* on sale for the prices below. Note: Steam account/application required to redeem code/play game (free to join [steampowered.com]). Available...",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -55,7 +55,7 @@
       "title": "8-Ct RUSEMLE Aromatherapy Shower Steamers w/ Essential Oils & Flower Petals $3",
       "source": "Slickdeals Frontpage",
       "url": "https://slickdeals.net/f/20309472-8-count-rusemle-aromatherapy-shower-steamers-w-essential-oils-flower-petals-2-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "details": "Rusemle US via Amazon has **8-Count RUSEMLE Aromatherapy Shower Steamers w/ Essential Oils & Flower Petals** on sale for $8.99 - $6 off when you apply promo code KYRZMQ2Z at checkout = *$2.99*....",
+      "details": "Rusemle US via Amazon [amazon.com] has **8-Count RUSEMLE Aromatherapy Shower Steamers w/ Essential Oils & Flower Petals** on sale for $8.99 - $6 off when you apply promo code KYRZMQ2Z or TZ75ZVPW at...",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -75,11 +75,35 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "a95670337ecdcd3e",
-      "title": "Big Chill Women's Packable Puffer Jacket (Various) $15",
-      "source": "Slickdeals Frontpage",
-      "url": "https://slickdeals.net/f/20305788-big-chill-women-s-packable-puffer-jacket-midweight-sizes-s-3x-14-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "details": "Walmart has Big Chill Women's Packable Puffer Jacket, Midweight, Sizes S-3X for $14.99 https://www.walmart.com/ip/Big-Ch...402274976?",
+      "id": "dc57ad7db73721f7",
+      "title": "Monoprice 3' 24AWG Cat6 500MHz Crossover Ethernet Network Cable (Gray) $2.90 + Free Shipping w/ Prime or on $35+",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20311461-monoprice-3-24awg-cat6-500mhz-crossover-ethernet-network-cable-gray-2-90-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Amazon [amazon.com] has *Monoprice 3' 24AWG Cat6 500MHz Crossover Ethernet Network Cable (Gray)* on sale for *$2.90*. Shipping is free w/ Prime or on orders $35+.",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "ce637501c1117305",
+      "title": "SHiLiPAi Rechargeable Pen Light 600 Lumens with Dual Light Source (Spot + COB) Emergency Light $10.99 AC",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20305587-shilipai-rechargeable-pen-light-600-lumens-with-dual-light-source-spot-cob-emergency-light-10-99-ac?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "SHiLiPAi *Rechargeable Pen Light 600 Lumens with Dual Light Source (Spot + COB) Emergency Light* $10.99 AC Magnetic Pocket Flashlight COB Flood & Spot, USB-C, Dual Magnet for Inspection, Repair,...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "59c2b20f49769179",
+      "title": "$10 | 45-Piece LEGO Duplo - Creative Garden & Flowers (10444, 2025) at Amazon",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20295549-10-45-piece-lego-duplo-creative-garden-flowers-10444-2025-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Amazon [amazon.com] has *45-Piece LEGO Duplo - Creative Garden & Flowers *(10444, 2025) for *$10*. *Shipping is free* with Prime or on $35+ orders.[list][*]BrickEconomy...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "51740d11b960bc5a",
+      "title": "$149.95 | Breville BSV600PSS Joule Turbo Sous Vide Machine, Polished Stainless Steel at Amazon",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20312628-149-95-breville-bsv600pss-joule-turbo-sous-vide-machine-polished-stainless-steel-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Amazon [amazon.com] has *Breville BSV600PSS Joule Turbo Sous Vide Machine, Polished Stainless Steel* for *$149.95*. *Shipping is free*. amazon.com/dp/B0C384T4P2 [amazon.com] Please report the...",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -251,38 +275,6 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "1281cefd33e76665",
-      "title": "2 Person Hammock with Spreader Bar, 500lbs Capacity, Blue | Flat patio tree hammock with detachable pillow & chains. No stand. $39.99",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20309562-2-person-hammock-with-spreader-bar-500lbs-capacity-blue-flat-patio-tree-hammock-with-detachable-pillow-chains-no-stand-39-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Use coupon code YJ6W30A6 for discount. About this item SPACIOUS 2-PERSON BED, 500 LBS CAPACITY — Stretch out on a roomy 78\" x 55.1\" quilted bed built for two adults or the whole family, with a...",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "8f25e3fa5c509930",
-      "title": "$1 WALMART Bluey Christmas Holiday Jumbo Coloring Book, 64 Pages",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20311863-1-walmart-bluey-christmas-holiday-jumbo-coloring-book-64-pages?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "https://www.walmart.com/ip/Bluey-...12171?clas",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "2592de3b17524423",
-      "title": "Tempx 8-Second Digital Basal Thermometer (A40-1) $2.99 + Free Shipping w/ Prime or on $35+",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20311611-tempx-8-second-digital-basal-thermometer-a40-1-2-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "iHome Care via Amazon [amazon.com] has *Tempx 8-Second Digital Basal Thermometer (A40-1)* on sale for $5.99 - $3 off when you apply promo code *TJJBW9PG* at checkout = *$2.99*. Shipping is free w/...",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "b5304477d8ff4825",
-      "title": "(NEW) Amazon Echo (4th Gen), Alexa speaker (Non-US Power Adapter) $39.99",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20312304-new-amazon-echo-4th-gen-alexa-speaker-non-us-power-adapter-39-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "(NEW) Amazon Echo (4th Gen), Alexa speaker (Non-US Power Adapter) https://electronics.woot.com/offe...ll_dly_img",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
       "id": "de7a5ce559fdc180",
       "title": "Walmart Top 100 Black Friday Tech Deals: Up to 83% off + free shipping w/ $35",
       "source": "DealNews Latest",
@@ -331,11 +323,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "932bdbc76b9a5d34",
-      "title": "Black Friday Sale at The Jacket Maker: Up to 25% off + extra 12% off + free shipping",
+      "id": "b47c3faaea3cc250",
+      "title": "Thermal Winter Curtains w/ Zipper for From $12 + free shipping",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Black-Friday-Sale-at-The-Jacket-Maker-Up-to-25-off-extra-12-off-free-shipping/22389666.html?iref=rss",
-      "details": "Get 20% off all outerwear and 25% off leather bags and shoes, plus an extra 12% off with coupon code \"DN12TJM\" during The Jacket Maker's Black Friday Sale. Shop Now at The Jacket Maker Features Widest range with 450+ designs of men's and women's leather jacket",
+      "url": "https://www.dealnews.com/Thermal-Winter-Curtains-w-Zipper-for-From-12-free-shipping/22393935.html?iref=rss",
+      "details": "At AliExpress, these windproof zipper curtains start at just $12 right now, instead of the normal starting price of from $31. If the size you choose costs over $15, you can use the promo code \"DBDEAL3\" to cut an extra $3 off. Standard shipping is free, too. Th",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -387,11 +379,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "a62b245e2020bd6e",
-      "title": "Dyson Outlet Deals at eBay: Up to 75% off + extra 20% off + free shipping",
+      "id": "932bdbc76b9a5d34",
+      "title": "Black Friday Sale at The Jacket Maker: Up to 25% off + extra 12% off + free shipping",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Dyson-Outlet-Deals-at-eBay-Up-to-75-off-extra-20-off-free-shipping/22393857.html?iref=rss",
-      "details": "Using promo code \"SHOPBRANDS20\" at eBay, certified refurbished Dyson vacuums, hair tools, and air purifiers drop in price, with the discount capped at $500 across up to two orders. The coupon code works on refurbished vacuums, fans, and hair appliances. The co",
+      "url": "https://www.dealnews.com/Black-Friday-Sale-at-The-Jacket-Maker-Up-to-25-off-extra-12-off-free-shipping/22389666.html?iref=rss",
+      "details": "Get 20% off all outerwear and 25% off leather bags and shoes, plus an extra 12% off with coupon code \"DN12TJM\" during The Jacket Maker's Black Friday Sale. Shop Now at The Jacket Maker Features Widest range with 450+ designs of men's and women's leather jacket",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -443,11 +435,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "b3fa645d48b419ef",
-      "title": "adidas Terrex Black Friday Sale: Up to 60% off + extra 15% off + free shipping",
+      "id": "a62b245e2020bd6e",
+      "title": "Dyson Outlet Deals at eBay: Up to 75% off + extra 20% off + free shipping",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/adidas-Terrex-Black-Friday-Sale-Up-to-60-off-extra-15-off-free-shipping/22393718.html?iref=rss",
-      "details": "The adidas Black Friday Sale just went live for adiClub members and we're seeing some good deals in the adidas Terrex section. (If you're not a member yet, it's free to join.) Our promo code \"DN15\" cuts an extra 15% off, too, stacking with discounts of up to 6",
+      "url": "https://www.dealnews.com/Dyson-Outlet-Deals-at-eBay-Up-to-75-off-extra-20-off-free-shipping/22393857.html?iref=rss",
+      "details": "Using promo code \"SHOPBRANDS20\" at eBay, certified refurbished Dyson vacuums, hair tools, and air purifiers drop in price, with the discount capped at $500 across up to two orders. The coupon code works on refurbished vacuums, fans, and hair appliances. The co",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -499,11 +491,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "b47c3faaea3cc250",
-      "title": "Thermal Winter Curtains w/ Zipper for From $12 + free shipping",
+      "id": "ee71527e5ba9211f",
+      "title": "eBay Holiday Promo Code: Extra 20% off + free shipping",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Thermal-Winter-Curtains-w-Zipper-for-From-12-free-shipping/22393935.html?iref=rss",
-      "details": "At AliExpress, these windproof zipper curtains start at just $12 right now, instead of the normal starting price of from $31. If the size you choose costs over $15, you can use the promo code \"DBDEAL3\" to cut an extra $3 off. Standard shipping is free, too. Th",
+      "url": "https://www.dealnews.com/eBay-Holiday-Promo-Code-Extra-20-off-free-shipping/22389640.html?iref=rss",
+      "details": "At eBay, use promo code “SHOPBRANDS20” to save 20% on eligible items in The Brand Outlet, with a maximum discount of $500. The selection includes certified refurbished Dyson vacuums alongside new adidas shoes, slides, apparel, and more. The coupon only applies",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -555,11 +547,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "181719287900830f",
-      "title": "Walmart Black Friday Toy Deals: Up to 75% off + free shipping w/ $35",
+      "id": "525b297a6f8597e2",
+      "title": "lululemon We Made Too Much Event: Up to 79% off + free shipping",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Walmart-Black-Friday-Toy-Deals-Up-to-75-off-free-shipping-w-35/22384103.html?iref=rss",
-      "details": "Walmart's Black Friday Sale just went live and you can find some particularly great deals in the toy section. There are best-ever prices on LEGO sets, including the LEGO Gingerbread AT-AT, while classic board games like Sorry!, Trouble, and Connect 4 reach sup",
+      "url": "https://www.dealnews.com/lululemon-We-Made-Too-Much-Event-Up-to-79-off-free-shipping/22389765.html?iref=rss",
+      "details": "lululemon's We Made Too Much event is the brand's overstock section, covering women's and men's apparel, shoes, bags, and accessories from $14. The Fast and Free High-Rise Thermal Tight 28\" is $89, down from $148, and lululemon Align High-Rise Pant 28\" tights ",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -579,19 +571,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "7b84f9ae8e643b51",
-      "title": "Baleine Reusable Grocery Bags 3-Pack for $17 + free shipping w/ Prime",
+      "id": "4256534083aa059a",
+      "title": "Baleine Patio Furniture Waterproof Covers for $21 + free shipping w/ Prime",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/products/Baleine/Baleine-Reusable-Grocery-Bags-3-Pack/551682.html?iref=rss",
-      "details": "These fold flat for easy storage but hold their shape when loaded, which suits anyone tired of flimsy bags ripping under groceries. At $17.46, that's $7.49 (30%) off the $24.95 list price. Apply coupon code \"RQOU7G8B\" for a savings of $7.49. Prime members get ",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "92ab33f89407cb1a",
-      "title": "Beeprincess 2-Pack Foam Ball Air Toy Guns and Target Set for $24 + free shipping w/ $35",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/products/Beeprincess/Beeprincess-2-Pack-Foam-Ball-Air-Toy-Guns-and-Target-Set/557893.html?iref=rss",
-      "details": "Kids who like a bit of target practice competition will get the most mileage out of this set, with two foam-ball blasters and a target included for head-to-head play. At $24, that's $26 (52%) off the $50 list price. Buy Now at Walmart Features Two pack air-pow",
+      "url": "https://www.dealnews.com/products/Baleine/Baleine-Waterproof-Patio-Table-Cover/530607.html?iref=rss",
+      "details": "Patio furniture takes a beating from rain and sun when left uncovered, and this waterproof cover keeps your cushions and frames protected between uses without needing storage space. It's $9 off the $30 list price right now. Apply coupon code \"U1FYT5HA\" for a s",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -603,19 +587,27 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "4256534083aa059a",
-      "title": "Baleine Patio Furniture Waterproof Covers for $21 + free shipping w/ Prime",
+      "id": "630d11477fcba2e9",
+      "title": "12\" 5,000K LED Flush Mount Ceiling Light 4-Pack for $29.80 + free shipping w/ Prime",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/products/Baleine/Baleine-Waterproof-Patio-Table-Cover/530607.html?iref=rss",
-      "details": "Patio furniture takes a beating from rain and sun when left uncovered, and this waterproof cover keeps your cushions and frames protected between uses without needing storage space. It's $9 off the $30 list price right now. Apply coupon code \"U1FYT5HA\" for a s",
+      "url": "https://www.dealnews.com/12-5-000-K-LED-Flush-Mount-Ceiling-Light-4-Pack-for-29-80-free-shipping-w-Prime/22390171.html?iref=rss",
+      "details": "This 4-pack of flush mounted lights suits anyone outfitting multiple rooms at once, like closets, hallways, or a basement, with bright 3,200-lumen daylight output in a low-profile fixture that skips the need for a separate shade or bulbs. At $29.80, that's $12",
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "b5582a9f8a588f4d",
-      "title": "35L Waterproof Travel Backpack for $13 + free shipping",
+      "id": "92ab33f89407cb1a",
+      "title": "Beeprincess 2-Pack Foam Ball Air Toy Guns and Target Set for $24 + free shipping w/ $35",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/35-L-Waterproof-Travel-Backpack-for-13-free-shipping/22384161.html?iref=rss",
-      "details": "At AliExpress, use Singles’ Day promo code “DBDEAL3” to get this foldable waterproof backpack for just $13 in Light Grey (pictured). Other colors cost slightly more. Weighing around 0.9 lb., it folds down for convenient storage and features adjustable shoulder",
+      "url": "https://www.dealnews.com/products/Beeprincess/Beeprincess-2-Pack-Foam-Ball-Air-Toy-Guns-and-Target-Set/557893.html?iref=rss",
+      "details": "Kids who like a bit of target practice competition will get the most mileage out of this set, with two foam-ball blasters and a target included for head-to-head play. At $24, that's $26 (52%) off the $50 list price. Buy Now at Walmart Features Two pack air-pow",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "8b13f3a254d45f67",
+      "title": "Faraday Future FX Aegis Classic Pro Quadruped Robot Dog for $2,990 + free shipping",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/Faraday-Future-FX-Aegis-Classic-Pro-Quadruped-Robot-Dog-for-2-990-free-shipping/22380124.html?iref=rss",
+      "details": "Explore robotics with this four-legged robot dog, featuring a 4K camera, remote control, 10+ preloaded movements, and applications in STEM education, entertainment, and demonstrations. It's currently $1,500 off the normal $2,990 list price. Shipping is free. B",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -627,11 +619,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "630d11477fcba2e9",
-      "title": "12\" 5,000K LED Flush Mount Ceiling Light 4-Pack for $29.80 + free shipping w/ Prime",
+      "id": "7b84f9ae8e643b51",
+      "title": "Baleine Reusable Grocery Bags 3-Pack for $17 + free shipping w/ Prime",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/12-5-000-K-LED-Flush-Mount-Ceiling-Light-4-Pack-for-29-80-free-shipping-w-Prime/22390171.html?iref=rss",
-      "details": "This 4-pack of flush mounted lights suits anyone outfitting multiple rooms at once, like closets, hallways, or a basement, with bright 3,200-lumen daylight output in a low-profile fixture that skips the need for a separate shade or bulbs. At $29.80, that's $12",
+      "url": "https://www.dealnews.com/products/Baleine/Baleine-Reusable-Grocery-Bags-3-Pack/551682.html?iref=rss",
+      "details": "These fold flat for easy storage but hold their shape when loaded, which suits anyone tired of flimsy bags ripping under groceries. At $17.46, that's $7.49 (30%) off the $24.95 list price. Apply coupon code \"RQOU7G8B\" for a savings of $7.49. Prime members get ",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -643,6 +635,14 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
+      "id": "388f79269b16ecb5",
+      "title": "Open-Box Osmo 360 Standard Action Camera Combo for $329 + free shipping",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/products/DJI/Osmo-360-Standard-Action-Camera-Combo/557809.html?iref=rss",
+      "details": "Built for 360-degree capture without needing to worry about framing shots in the moment, which suits vloggers, cyclists, or anyone who wants to decide on the angle after filming. RenewDrone has the Standard Combo for $329, a $220 drop from the $549 list price.",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
       "id": "24a54eee7506b3e5",
       "title": "Romech Mini Cordless Hot Glue Gun w/ 20-Pack of Glue for $13 + free shipping w/ Prime",
       "source": "DealNews Latest",
@@ -651,11 +651,19 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "388f79269b16ecb5",
-      "title": "Open-Box Osmo 360 Standard Action Camera Combo for $329 + free shipping",
+      "id": "c1d160d920848105",
+      "title": "Beeprincess Candle Warmer Lamp with 2 Bulbs for $17 + free shipping w/ $35",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/products/DJI/Osmo-360-Standard-Action-Camera-Combo/557809.html?iref=rss",
-      "details": "Built for 360-degree capture without needing to worry about framing shots in the moment, which suits vloggers, cyclists, or anyone who wants to decide on the angle after filming. RenewDrone has the Standard Combo for $329, a $220 drop from the $549 list price.",
+      "url": "https://www.dealnews.com/products/Beeprincess/Beeprincess-Candle-Warmer-Lamp-with-2-Bulbs/557895.html?iref=rss",
+      "details": "This wax warmer lamp heats candles from above instead of burning the wick, which makes scented wax last longer and skips the soot and open flame, a practical option for anyone who likes ambient scent without actual fire. At $17, that's $23 off the $40 list pri",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "3c141f8348b4a680",
+      "title": "vSeeBox V6 Plus 8K HDR Android 14 TV Box for $319 + free shipping",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/vSee-Box-V6-Plus-8-K-HDR-Android-14-TV-Box-for-319-free-shipping/22351010.html?iref=rss",
+      "details": "The vSeeBox V6 Plus streaming box is $319, down from its regular price of $389 when using coupon code \"VSEEBOX18\", when purchased at the official authorized reseller of vSeeBox. It ships free within 24 hours, comes with a 1-year manufacturer warranty and 30-da",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -667,19 +675,27 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "59b6b7a4e14e4671",
-      "title": "Sleep Number Mattresses: free doorstep delivery",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Sleep-Number-Mattresses-free-doorstep-delivery/22389644.html?iref=rss",
-      "details": "Sleep Number is offering free doorstep delivery with the purchase of select mattresses. Eligible models include the ComfortMode, ComfortMode Luxe, ComfortNext, ComfortNext Lux, and ComfortNext Ultra mattresses. Shop Now at Sleep Number",
+      "id": "f7954812bd38212a",
+      "title": "Refurb Herman Miller Office Chair Deals at eBay for From $249 + free shipping",
+      "source": "DealNews Editors",
+      "url": "https://www.dealnews.com/Refurb-Herman-Miller-Office-Chair-Deals-at-eBay-for-From-249-free-shipping/22384157.html?iref=rss",
+      "details": "Madison Seating on eBay is offering up to 48% off select refurbished Herman Miller office chairs. Deals include the Herman Miller Aeron Fully Loaded Chair for $574.11 (down from $979), the Herman Miller Aeron Size B Chair for $599.11 (down from $1,159.44), and",
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "2304b57e0953349d",
-      "title": "Baleine Non Slip Rug Gripper for Hardwood Floors for $10 + free shipping w/ Prime",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Baleine-Non-Slip-Rug-Gripper-for-Hardwood-Floors-for-10-free-shipping-w-Prime/22390130.html?iref=rss",
-      "details": "Keeps area rugs from sliding or bunching on hardwood or tile, a small fix worth having if anyone in your house walks fast around corners, and it's currently $9.98 off the $19.95 list price. Apply coupon code \"N0RCATNE\" for a savings of $9.98. Buy Now at Amazon",
+      "id": "181719287900830f",
+      "title": "Walmart Black Friday Toy Deals: Up to 75% off + free shipping w/ $35",
+      "source": "DealNews Editors",
+      "url": "https://www.dealnews.com/Walmart-Black-Friday-Toy-Deals-Up-to-75-off-free-shipping-w-35/22384103.html?iref=rss",
+      "details": "Walmart's Black Friday Sale just went live and you can find some particularly great deals in the toy section. There are best-ever prices on LEGO sets, including the LEGO Gingerbread AT-AT, while classic board games like Sorry!, Trouble, and Connect 4 reach sup",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "b3b70b756095648d",
+      "title": "Free Country Early Black Friday Sale: 45% off + free shipping w/ $99",
+      "source": "DealNews Editors",
+      "url": "https://www.dealnews.com/Free-Country-Early-Black-Friday-Sale-45-off-free-shipping-w-99/22380117.html?iref=rss",
+      "details": "Get 45% off sale items via code \"EARLY45\" during Free Country's Early Black Friday Sale. Plus, Rewards members get $10 off FW26 to use by 11/15 and if you use it by then, you'll get another $10 off FW26 to use by 11/30. Save on fleece, sherpa, and flannel laye",
       "status": "needs_official_retailer_price_pair"
     },
     {

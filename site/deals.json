@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T22:13:50.753057Z",
+  "generated_at": "2026-11-16T22:40:19.387428Z",
   "minimum_discount_percent": 35,
   "evidence_policy": "official_retailer_price_pair_only",
   "deals": [],
@@ -185,7 +185,7 @@
     {
       "source": "Slickdeals Popular",
       "status": "ok",
-      "items": 25
+      "items": 24
     },
     {
       "source": "DealNews Latest",

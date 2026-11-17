@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-11-17T01:16:24.444767Z",
-  "count": 288,
+  "generated_at": "2026-11-17T01:42:27.412992Z",
+  "count": 291,
   "candidates": [
+    {
+      "id": "8aa8835df27cf3ab",
+      "title": "LEGO Speed Champions Lightning McQueen Building Set (77255) $22.40",
+      "source": "Slickdeals Frontpage",
+      "url": "https://slickdeals.net/f/20321136-amazon-us-lego-speed-champions-lightning-mcqueen-77255-22-39-20?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "details": "https://www.amazon.com/dp/B0FMS95QCV?psc=1",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "605a67abb3d39958",
+      "title": "5-Pk PUMA Men's Performance Boxer Briefs (Small) from $14.23",
+      "source": "Slickdeals Frontpage",
+      "url": "https://slickdeals.net/f/20316978-puma-men-s-5-pack-performance-boxer-briefs-olive-blue-black-14-54?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "details": "Amazon has PUMA Men's 5 Pack Performance Boxer Briefs for as low as $14.54 https://www.amazon.com/dp/B0D7CXBNM4?",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "5ebbb2ca53b15546",
+      "title": "SUNNYFEEL Lightweight Portable Folding Wagon Cart $25 + Free S&H w/ Prime",
+      "source": "Slickdeals Frontpage",
+      "url": "https://slickdeals.net/f/20312316-24-99-sunnyfeel-lightweight-folding-wagon-cart-350lbs-at-woot?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "details": "Woot! has SUNNYFEEL Lightweight Folding Wagon Cart, 350LBS Portable Wagon Carts Foldable for Shopping Camping Garden Beach,Black for $24.99. Shipping is free for Amazon Prime Members , or is...",
+      "status": "needs_official_retailer_price_pair"
+    },
     {
       "id": "b3524ea576bcf113",
       "title": "Horizon Forbidden West Complete Edition (PS5) $30",
@@ -23,7 +47,7 @@
       "title": "2-Pk AUIIAH Rechargeable Hand Warmers w/ LED Display (Black) $7",
       "source": "Slickdeals Frontpage",
       "url": "https://slickdeals.net/f/20321607-2-pk-auiiah-rechargeable-hand-warmers-w-led-display-black-7?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "details": "Jiaming Direct via Amazon has *2-Pack AUIIAH Rechargeable Hand Warmers w/ LED Display* (Black) on sale for $19.99 - $13 off when you apply promo code JSL3WTS6 at checkout = *$6.99*. *Shipping is...",
+      "details": "Jiaming Direct via Amazon [amazon.com] has *2-Pack AUIIAH Rechargeable Hand Warmers w/ LED Display & 4 Heat Settings* on sale for $19.99 - $13 off when you apply promo code JSL3WTS6 at checkout =...",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -99,11 +123,59 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "02b3c1adfabb7e43",
-      "title": "New Balance Women's 471 Shoes (Rosewood/Fire Cracker, size 6-9) $36.95",
-      "source": "Slickdeals Frontpage",
-      "url": "https://slickdeals.net/f/20319132-new-balance-women-s-471-shoes-rosewood-fire-cracker-36-97-free-shipping-on-49?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "details": "Dick's Sporting Goods [dickssportinggoods.com] has *New Balance 471 Sneakers (Rosewood/Fire Cracker) *on sale for *$36.97*. Shipping is free for Score Card Members on orders over $49 (free to join...",
+      "id": "98035027db20f803",
+      "title": "Hanes Men's Pullover EcoSmart Hooded Sweatshirt, white only. Sizes S to 5X $9.95",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20323572-hanes-men-s-pullover-ecosmart-hooded-sweatshirt-white-only-sizes-s-to-5x-9-95?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Hanes Men's Pullover EcoSmart Hooded Sweatshirt is on sale for $9.95. Price is for white only and all sizes from S to 5XL are available at this price.. About this item COZY FLEECE COMFORT - This...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "0470af66f38232d9",
+      "title": "Batman: Knightfall Part 1 (DVD) $7.99 + Free Shipping w/ Prime or on $35+",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20323521-batman-knightfall-part-1-dvd-7-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Amazon [amazon.com] has *Batman: Knightfall Part 1 (DVD)* on sale for *$7.99*. Shipping is free w/ Prime or on orders $35+. *Synopsis:*(From Amazon) After Arkham Asylum is destroyed and its...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "246fa878f048d7cf",
+      "title": "Birthstone Gold Bracelets for Women Girls Non Tarnish $3.99",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20320641-birthstone-gold-bracelets-for-women-girls-non-tarnish-3-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Use code IZ3TJ2SB for 50% off. About this item 12-MONTH BIRTHDAY GIFT: This beautiful birthstone bracelet is the perfect choice for mothers, daughters, wives, friends or yourself. For instance, a...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "6e15b41d5807af6f",
+      "title": "Kid Nation Girls/Teen Toddler Crewneck PulloverLong Sleeve Knit Pullover $14.49",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20320101-kid-nation-girls-teen-toddler-crewneck-pulloverlong-sleeve-knit-pullover-14-49?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Kid Nation_Sweater via Amazon has Girls/Teen Toddler Crewneck PulloverLong Sleeve Knit Pullover for $14.49 when you use code *E4697029 *at checkout *Fabric type* 60% Cotton, 40% Acrylic ...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "f68d4b12bbc845af",
+      "title": "Dreame Dazzle 110000RPM Hair Styler and Dryer with 5 Attachments $44.69 + Free Shipping",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20289903-dreame-dazzle-110000rpm-hair-styler-and-dryer-with-5-attachments-44-69-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Dreame Dazzle *110000RPM Hair Styler and Dryer with 5 Attachments* $44.69 + Free Shipping *Dreame Tech* Store via AliExpress has Dreame Dazzle 110000RPM Hair Styler and Dryer with 5 Attachments on...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "c55018a8d073cf0c",
+      "title": "Elgato Stream Deck Neo 8-Key Customizable LCD Stream Controller (Refurbished) $55.56 + Free Shipping",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20323209-elgato-stream-deck-neo-8-key-customizable-lcd-stream-controller-refurbished-55-56-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Corsair Restored via Walmart [walmart.com] has *Elgato Stream Deck Neo 8-Key Customizable LCD Stream Controller *(Refurbished) on sale for *$55.56*. *Shipping is free*. Compiled From Merchant's...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "8a9034183e4215b3",
+      "title": "DeWalt Titanium Nitride Coated Pilot Point Drill Bit Set (29-Piece) $54.47",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20317707-dewalt-titanium-nitride-coated-pilot-point-drill-bit-set-29-piece-54-47?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "This is a Home Depot Daily Day. Price good for today only. Free delivery. https://www.homedepot.com/p/DEWAL.../202279644",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -151,7 +223,7 @@
       "title": "$199 | Bowers & Wilkins Limited Edition Px7 S2e Over-Ear Headphones, Ruby Red at Amazon",
       "source": "Slickdeals Popular",
       "url": "https://slickdeals.net/f/20323278-199-bowers-wilkins-limited-edition-px7-s2e-over-ear-headphones-ruby-red-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Amazon [amazon.com] has *Bowers & Wilkins Limited Edition Px7 S2e Over-Ear Headphones, Ruby Red* for *$199*. *Shipping is free*. * Forest Green [amazon.com] * Ruby Red [amazon.com] Please...",
+      "details": "Amazon [amazon.com] has *Bowers & Wilkins Limited Edition Px7 S2e Over-Ear Headphones, Ruby Red* for *$199*. *Shipping is free*. * Forest Green [amazon.com] * Ruby Red [amazon.com] * -OOS* ...",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -251,51 +323,43 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "941932cb749b7c48",
-      "title": "Costco Members: ecobee Smart Thermostat Premium Bundle with 2 SmartSensors - Black",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20316618-costco-members-ecobee-smart-thermostat-premium-bundle-with-2-smartsensors-black?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "From November 16 to November 30. Save up to 26% on Heating and Cooling 2x Ecobee SmartSensor Included Air Quality Monitor Easy Installation Comes with a Smart Speaker and Your Choice of Siri...",
+      "id": "b5336e3a3da212d8",
+      "title": "Citizen Classic Eco-Drive Leather Strap Watch for $210 + free shipping",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/products/Citizen/Citizen-Classic-Eco-Drive-Leather-Strap-Watch/553542.html?iref=rss",
+      "details": "This JCPenney Black Friday deal puts the Citizen Classic Eco-Drive watch at 60% off. Eco-Drive models run on light, so there's no battery to replace. It is water resistant to 100 meters and has a stainless steel case. Shipping is free. Buy Now at JCPenney Feat",
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "28c5c0e59c1442c1",
-      "title": "Compustar - RS1B2AS-KIT 1-Way Remote Start & Security System, 1500ft Range, 2 Remotes, 1-Button, Basic Install Included - Black $399.99 Bestbuy.com",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20312397-compustar-rs1b2as-kit-1-way-remote-start-security-system-1500ft-range-2-remotes-1-button-basic-install-included-black-399-99-bestbuy-com?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "https://www.bestbuy.com/product/c...J39HXJFSWR",
+      "id": "b2566ac1a8a14812",
+      "title": "Edifier R1280Ts 42W Powered Bookshelf Speakers for $120 + free shipping",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/products/Edifier/Edifier-R1280-Ts-42-W-Powered-Bookshelf-Speakers/529744.html?iref=rss",
+      "details": "The Edifier R1280Ts bookshelf speakers are $120 at Amazon. That's $50 less than our September mention. The built-in subwoofer output lets buyers add an external powered sub later. Shipping is free. Buy Now at Amazon Features Panoramic sound stage",
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "c25fd2b41d4ba48a",
-      "title": "Monster Wireless Car In-Dash Unit Adapter for Apple CarPlay and Android Auto $15 + Free Shipping w/ Walmart+ or orders $35+",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20320800-monster-wireless-car-in-dash-unit-adapter-for-apple-carplay-and-android-auto-15-free-shipping-w-walmart-or-orders-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "JEM ACCESSORIES INC via Walmart [walmart.com] has Monster Wireless Car In-Dash Unit Adapter for Apple CarPlay and Android Auto on sale for $15. Shipping is free w/ Walmart+ or orders $35+ ...",
+      "id": "7cc35f84027eda69",
+      "title": "Friday the 13th Men's Jason Mask Cosplay Hoodie for $8 + free shipping w/ $35",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/Friday-the-13-th-Mens-Jason-Mask-Cosplay-Hoodie-for-8-free-shipping-w-35/22404053.html?iref=rss",
+      "details": "Walmart offers the Friday the 13th Men's Jason Mask Cosplay Hoodie for $7.69. That's a $14 savings. Choose pickup or spend $35 to avoid the $6.99 shipping charge. Buy Now at Walmart",
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "9ffe660761108925",
-      "title": "Birkenstock Papillio Women's Arizona Platform Sandals (Blue) $42.97 + Free Shipping on $49+",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20319153-birkenstock-papillio-women-s-arizona-platform-sandals-blue-42-97-free-shipping-on-49?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Dick's Sporting Goods [dickssportinggoods.com] has *Birkenstock Papillio Women's Arizona Chunky Birko-Flor Platform Sandal (Baby Blue) *on sale for *$42.97*. *Shipping is free* for Score Card Members...",
+      "id": "8b3c8da365f3c9ef",
+      "title": "Antarctic Star Countertop Ice Maker Machine for $56 + free shipping",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/Antarctic-Star-Countertop-Ice-Maker-Machine-for-56-free-shipping/22404052.html?iref=rss",
+      "details": "Antarctic Star's countertop ice maker is $56 at Amazon, below its 90-day Amazon average of $65. It makes up to 26 lbs of ice per day and has two ice size settings. Shipping is free. Buy Now at Amazon Features Makes up to 26 lbs of ice per day First batch of bu",
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "6014aef4e940a9b9",
-      "title": "$19.64: Leviton Lever Edge 15 Amp Single Pole Rocker Switch, 10-Pack, White (E5601-MW)",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20319702-19-64-leviton-lever-edge-15-amp-single-pole-rocker-switch-10-pack-white-e5601-mw?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Amazon.com [amazon.com] has *Leviton Lever Edge 15 Amp Single Pole Rocker Switch, 10-Pack, E5601-MW, White* on sale for *$19.64*. Home Depot [homedepot.com] has it listed for $25.98.",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "1f351ba6f8fb8d39",
-      "title": "GOOLOO DS100 OBD2 Scanner Bluetooth, OBDII Car Code Reader for iOS& Android $24.79 AC",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20322414-gooloo-ds100-obd2-scanner-bluetooth-obdii-car-code-reader-for-ios-android-24-79-ac?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "GOOLOO *DS100 OBD2 Scanner Bluetooth, OBDII Car Code Reader for iOS& Android* $24.79 AC Wireless All System Diagnostic Tool, Live Data, 6 Reset Service, Read and Clear Error Codes for All OBDII...",
+      "id": "90d3c9a690a637d7",
+      "title": "Campbell's Condensed 98% Fat Free Cream of Mushroom Soup 12-Pack for $8.98 via Sub & Save + free shipping w/ Prime",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/Campbells-Condensed-98-Fat-Free-Cream-of-Mushroom-Soup-12-Pack-for-8-98-via-Sub-Save-free-shipping-w-Prime/22404045.html?iref=rss",
+      "details": "Amazon offers the Campbell's Condensed 98% Fat Free Cream of Mushroom Soup 12-Pack for $8.98 when you clip the coupon and subscribe. That's $11 under what most local stores charge. Shipping is free for Prime members. Buy Now at Amazon",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -304,6 +368,14 @@
       "source": "DealNews Latest",
       "url": "https://www.dealnews.com/Chefman-1-L-Electric-Glass-Kettle-for-17-free-shipping-w-35/22404032.html?iref=rss",
       "details": "This Chefman 1L glass electric kettle is $2 off at Walmart. Shipping adds $5.99 or is free over $35. Buy Now at Walmart Features 1L glass kettle that boils water in as little as 3 minutes Blue LED lights glow while boiling and turn off when water is ready Auto",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "33062c5379b42480",
+      "title": "Instant Outdoor Bubble Tent for $48 + free shipping",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/Instant-Outdoor-Bubble-Tent-for-48-free-shipping/22403155.html?iref=rss",
+      "details": "With promo code \"DBDEAL8\", this instant bubble tent at AliExpress drops to $48, down from $135. Shipping is free from a U.S. warehouse. The coupon ends November 18. Buy Now at AliExpress Features Measures 48.4\" x 47.2\" x 64.2\" with a ceiling high enough to sta",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -347,19 +419,19 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "17b6ddb45c046424",
-      "title": "Sleep Number Black Friday Mattress Deals: Up to 25% off + free shipping",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Sleep-Number-Black-Friday-Mattress-Deals-Up-to-25-off-free-shipping/22389876.html?iref=rss",
-      "details": "Sleep Number’s Black Friday Sale includes discounts of up to 25% on select adjustable mattresses. Save 25% on ClimateCool and Climate360 models, 20% on ComfortNext, ComfortNext Lux, and ComfortNext Ultra mattresses, and 10% on ComfortMode and ComfortMode Lux s",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
       "id": "73aec30f89b77009",
       "title": "Athletic Works Men's Banded Jogger Slip-On Sneakers for $10 + free shipping w/ $35",
       "source": "DealNews Latest",
       "url": "https://www.dealnews.com/Athletic-Works-Mens-Banded-Jogger-Slip-On-Sneakers-for-10-free-shipping-w-35/22403978.html?iref=rss",
       "details": "Walmart offers the Athletic Works Men's Banded Jogger Slip-On Sneakers in several colors for $9.99. That's a $9 savings. Choose pickup or spend $35 to avoid the $6.99 shipping charge. Buy Now at Walmart",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "344b3f426bea967e",
+      "title": "WECCT Red Light Therapy Panel Series Black Friday Deals: Up to 20% off + free shipping",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/WECCT-Red-Light-Therapy-Panel-Series-Black-Friday-Deals-Up-to-20-off-free-shipping/22402794.html?iref=rss",
+      "details": "WECCT is running a Black Friday promotion with up to 20% off via coupon code \"WECCTBF20\". Every product comes with a one-year warranty and ships within 48 hours, and their team responds quickly to any questions or after-sales issues. The pictured item drops fr",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -403,19 +475,19 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "bcfbd85cd765a739",
-      "title": "30 Prescription Sleeping Tablets for From $63 + free shipping",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/30-Prescription-Sleeping-Tablets-for-From-63-free-shipping/22403113.html?iref=rss",
-      "details": "Get SleepE, a prescription chewable tablet combining Ramelteon and Magnesium L-Threonate, through Doctor Adam. With code \"SLEEP20\", get a one month's supply for just $63 (regularly $79). The offer includes an online consultation and medication, with no subscri",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
       "id": "4eaade37b348025d",
       "title": "JHS Angry Charlie V3 Channel Drive Pedal for $149 + free shipping",
       "source": "DealNews Latest",
       "url": "https://www.dealnews.com/JHS-Angry-Charlie-V3-Channel-Drive-Pedal-for-149-free-shipping/22403945.html?iref=rss",
       "details": "Sweetwater has the JHS Angry Charlie V3 pedal at $50 off. It is also eligible for a bundle with EBS patch cables that drops the combined price by $5. Shipping is free and the pedal is in stock. This deal ends December 6. Buy Now at Sweetwater Features Overdriv",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "a75dd1bb7a9158d6",
+      "title": "Dyson Outlet Deals at eBay: Up to 70% off + extra 20% off + free shipping on many items",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/Dyson-Outlet-Deals-at-eBay-Up-to-70-off-extra-20-off-free-shipping-on-many-items/22403161.html?iref=rss",
+      "details": "eBay is running a Dyson gift sale with an extra 20% off for air treatment, vacuums, and hair care, direct from the brand, on top of the existing savings of up to 70% off. The pictured Dyson V15 Vacuum is $299.99, down from $749.99 after code. Most listings are",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -459,19 +531,19 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "148055b383e40d19",
-      "title": "Mint Mobile Black Friday Premium Wireless Deal for $15/mo. for up to 1 year",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Mint-Mobile-Black-Friday-Premium-Wireless-Deal-for-15-mo-for-up-to-1-year/22403181.html?iref=rss",
-      "details": "During the Mint Mobile Black Friday sale, Mint Mobile is offering every phone plan, including unlimited data, for $15 a month for new customers. The unlimited plan normally costs $30 a month, so locking in a 3, 6, or 12-month term brings notable savings over t",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
       "id": "e92779fcf8c45a0b",
       "title": "Shure Sound Isolating Earphones for $99 + free shipping",
       "source": "DealNews Latest",
       "url": "https://www.dealnews.com/products/Shure/Shure-Sound-Isolating-Earphones/559388.html?iref=rss",
       "details": "At Guitar Center, the Shure SE215 earphones are $20 off. The cable detaches, so it can be replaced if it wears out, and the box includes sleeve sizes and a carrying case. Shipping is free. They're not returnable. Buy Now at Guitar Center Features Single dynami",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "148055b383e40d19",
+      "title": "Mint Mobile Black Friday Premium Wireless Deal for $15/mo. for up to 1 year",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/Mint-Mobile-Black-Friday-Premium-Wireless-Deal-for-15-mo-for-up-to-1-year/22403181.html?iref=rss",
+      "details": "During the Mint Mobile Black Friday sale, Mint Mobile is offering every phone plan, including unlimited data, for $15 a month for new customers. The unlimited plan normally costs $30 a month, so locking in a 3, 6, or 12-month term brings notable savings over t",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -515,19 +587,19 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "33062c5379b42480",
-      "title": "Instant Outdoor Bubble Tent for $48 + free shipping",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Instant-Outdoor-Bubble-Tent-for-48-free-shipping/22403155.html?iref=rss",
-      "details": "With promo code \"DBDEAL8\", this instant bubble tent at AliExpress drops to $48, down from $135. Shipping is free from a U.S. warehouse. The coupon ends November 18. Buy Now at AliExpress Features Measures 48.4\" x 47.2\" x 64.2\" with a ceiling high enough to sta",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
       "id": "c9ffa502aabe210e",
       "title": "LEGO The Legend of Zelda Ocarina of Time The Final Battle for $119 + free shipping",
       "source": "DealNews Latest",
       "url": "https://www.dealnews.com/products/LEGO/LEGO-The-Legend-of-Zelda-Ocarina-of-Time-The-Final-Battle/559375.html?iref=rss",
       "details": "Use promo code \"VIPNOVTAKE8\" to drop the LEGO The Legend of Zelda Ocarina of Time The Final Battle to $118.68. You'd pay $130 elsewhere. Shipping is free. Deal ends December 2nd. Buy Now at eBay Features 1,003 pieces",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "0b5745303744ce69",
+      "title": "Costco 1-Year Executive Membership for $130 w/ $45 Costco Shop Card + free shipping",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/Costco-1-Year-Executive-Membership-for-130-w-45-Costco-Shop-Card-free-shipping/22403132.html?iref=rss",
+      "details": "Join Costco as an Executive member for $130 and be sure to enroll in auto renewal of your annual membership - then you'll receive a $45 Digital Costco Shop Card for free with the coupon code \"NEWMBR26\". Note that this offer is only valid for new members or tho",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -571,19 +643,19 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "0b5745303744ce69",
-      "title": "Costco 1-Year Executive Membership for $130 w/ $45 Costco Shop Card + free shipping",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Costco-1-Year-Executive-Membership-for-130-w-45-Costco-Shop-Card-free-shipping/22403132.html?iref=rss",
-      "details": "Join Costco as an Executive member for $130 and be sure to enroll in auto renewal of your annual membership - then you'll receive a $45 Digital Costco Shop Card for free with the coupon code \"NEWMBR26\". Note that this offer is only valid for new members or tho",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
       "id": "97adca17ae737509",
       "title": "Greenworks 24V Brushless Drill & Impact Driver Combo Kit w/ 2 USB-C Batteries for $120 + free shipping",
       "source": "DealNews Latest",
       "url": "https://www.dealnews.com/Greenworks-24-V-Brushless-Drill-Impact-Driver-Combo-Kit-w-2-USB-C-Batteries-for-120-free-shipping/22403817.html?iref=rss",
       "details": "This Greenworks 24V drill and impact driver combo is $120 at Amazon, which matches its Amazon all-time low and is well under its 90-day average of $137. The two batteries double as USB-C power banks for charging phones and other devices. The kit also includes ",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "bcfbd85cd765a739",
+      "title": "30 Prescription Sleeping Tablets for From $63 + free shipping",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/30-Prescription-Sleeping-Tablets-for-From-63-free-shipping/22403113.html?iref=rss",
+      "details": "Get SleepE, a prescription chewable tablet combining Ramelteon and Magnesium L-Threonate, through Doctor Adam. With code \"SLEEP20\", get a one month's supply for just $63 (regularly $79). The offer includes an online consultation and medication, with no subscri",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -627,11 +699,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "c55d139504ac9112",
-      "title": "High Test Gummies Sitewide Sale: Extra 20% off + free shipping w/ $50",
+      "id": "9f0ae8589ca6b42c",
+      "title": "Capital One Spark Cash Plus for Earn $2,000 cash back",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/High-Test-Gummies-Sitewide-Sale-Extra-20-off-free-shipping-w-50/22389815.html?iref=rss",
-      "details": "Use coupon code \"DEALNEWS20\" to get this sitewide discount. It also stacks with High Test Gummies' in-cart discounts — if you buy five bottles, you get the fifth one free; or, if you buy six bottles or more, you get 20% off. Shipping adds $5, but orders of $50",
+      "url": "https://www.dealnews.com/Capital-One-Spark-Cash-Plus-for-Earn-2-000-cash-back/22154909.html?iref=rss",
+      "details": "Earn $2,000 cash back after you spend $30,000 in the first 3 months from account opening. Plus, earn an additional $2,000 cash bonus for every $500K spent during the first year. With a $150 annual fee, earn unlimited 5% cash back on hotels and rental cars book",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -643,59 +715,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "736bc3091fc901f8",
-      "title": "Gerber Armbar Trade 8-in-1 EDC Pocket Knife Multitool for $37 + free shipping",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Gerber-Armbar-Trade-8-in-1-EDC-Pocket-Knife-Multitool-for-37-free-shipping/22403797.html?iref=rss",
-      "details": "At Amazon, this Gerber Armbar Trade multitool is 36% off. The $37 price is also below its Amazon 90-day average of $55. It packs eight tools, including a blade, pry bar, hammer, and bottle opener, into a 3.1-oz. body. Shipping is free. Buy Now at Amazon Featur",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "95e0876634b808fd",
-      "title": "Alonefire SV142 Dual White & 365nm UV USB-C Rechargeable Flashlight for $12 + free shipping w/ Prime",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Alonefire-SV142-Dual-White-365-nm-UV-USB-C-Rechargeable-Flashlight-for-12-free-shipping-w-Prime/22403796.html?iref=rss",
-      "details": "This Alonefire SV142 flashlight is 50% off, and $12 matches its Amazon all-time low. The UV light is aimed at spotting pet stains, checking currency, and finding scorpions, while the white LED handles everyday use. Shipping is free. Buy Now at Amazon Features ",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "4a778615536ed11c",
-      "title": "Topps 2026 Chrome Update Series Baseball Factory Sealed Value Box for $40 + shipping varies",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Topps-2026-Chrome-Update-Series-Baseball-Factory-Sealed-Value-Box-for-40-shipping-varies/22403795.html?iref=rss",
-      "details": "This Topps Chrome Update Series Baseball value box is $40 at Fanatics, available to reserve ahead of shipping on or before December 16. Topps lists the Baseball Seams and Red, White & Blue Refractors as exclusive to this retail-style box, while the 20-pack hob",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "a5921208b8ca96b0",
-      "title": "Voyage Aeronautics HD Video Drone w/ Optical Flow for $15 + free shipping",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Voyage-Aeronautics-HD-Video-Drone-w-Optical-Flow-for-15-free-shipping/22403794.html?iref=rss",
-      "details": "Use promo code \"VIPNOVTAKE8\" to drop this Voyage Aeronautics drone to $14.72 for a $16 low. Shipping is free. Deal ends December 2nd. Buy Now at eBay",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "344b3f426bea967e",
-      "title": "WECCT Red Light Therapy Panel Series Black Friday Deals: Up to 20% off + free shipping",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/WECCT-Red-Light-Therapy-Panel-Series-Black-Friday-Deals-Up-to-20-off-free-shipping/22402794.html?iref=rss",
-      "details": "WECCT is running a Black Friday promotion with up to 20% off via coupon code \"WECCTBF20\". Every product comes with a one-year warranty and ships within 48 hours, and their team responds quickly to any questions or after-sales issues. The pictured item drops fr",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "bfa001ed23fb9c5b",
-      "title": "Bestier 35\" Power Lift Recliner Chair w/ 8-Point Massage & Heating for $274 + free shipping",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/products/Bestier/Bestier-35-Power-Lift-Recliner-Chair-w-8-Point-Massage-Heating/536130.html?iref=rss",
-      "details": "At Home Depot, this Bestier power lift recliner is $225 off its regular price of $499 as a Daily Deal. The chair combines a lift assist with an 8-point massage and heat. Delivery is free. Offer ends November 16. Buy Now at Home Depot Features 35\" wide power li",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "32bb95561890e619",
-      "title": "Chase Secure Banking℠ (College) for Enjoy a $175 account bonus",
+      "id": "17b6ddb45c046424",
+      "title": "Sleep Number Black Friday Mattress Deals: Up to 25% off + free shipping",
       "source": "DealNews Editors",
-      "url": "https://www.dealnews.com/Chase-Secure-Banking-College-for-Enjoy-a-175-account-bonus/22257061.html?iref=rss",
-      "details": "Enjoy a $175 checking account bonus as a new Chase banking customer when you open a Chase Secure Banking℠ account with qualifying transactions. Open online or at any Chase branch. $0 Monthly Service Fee for customers ages 17-24. A great checking account for st",
+      "url": "https://www.dealnews.com/Sleep-Number-Black-Friday-Mattress-Deals-Up-to-25-off-free-shipping/22389876.html?iref=rss",
+      "details": "Sleep Number’s Black Friday Sale includes discounts of up to 25% on select adjustable mattresses. Save 25% on ClimateCool and Climate360 models, 20% on ComfortNext, ComfortNext Lux, and ComfortNext Ultra mattresses, and 10% on ComfortMode and ComfortMode Lux s",
       "status": "needs_official_retailer_price_pair"
     },
     {

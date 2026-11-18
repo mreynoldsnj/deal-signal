@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-11-18T16:14:52.708938Z",
-  "count": 284,
+  "generated_at": "2026-11-18T16:40:40.076509Z",
+  "count": 279,
   "candidates": [
+    {
+      "id": "7d6dced5c96e595a",
+      "title": "AAA Members: Select Amusement Parks, Movie/Event Tickets, Restaurant GCs $80 Off $200+ & More",
+      "source": "Slickdeals Frontpage",
+      "url": "https://slickdeals.net/f/20331267-aaa-member-deals-80-off-200?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "details": "AAA offers its *Members*: *$80 Off $200+ Purchase* of *Select Amusement Park Tickets/Passes, Movie Tickets, Event Tickets Restaurant Gift Cards & More* when you apply promo code SAVE80ACE on the...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "71bf03c0fdce817e",
+      "title": "SpongeBob SquarePants: Titans of the Tide (Nintendo Switch 2) $27.80",
+      "source": "Slickdeals Frontpage",
+      "url": "https://slickdeals.net/f/20332434-spongebob-squarepants-titans-of-the-tide-nintendo-switch-2-27-82-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "details": "Amazon [amazon.com] has *SpongeBob SquarePants: Titans of the Tide *(Nintendo Switch 2) for *$27.82*. *Shipping is free* with Prime or on $35+",
+      "status": "needs_official_retailer_price_pair"
+    },
     {
       "id": "cbd72fb6effa99ab",
       "title": "G Gradual Men's UPF 50+ Golf Pants (Various) $15",
@@ -51,35 +67,131 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "e831fe29565f229d",
-      "title": "5-Pair SIMIYA Merino Wool Blend Cushioned Hiking Crew Socks (Multicolor) $12",
-      "source": "Slickdeals Frontpage",
-      "url": "https://slickdeals.net/f/20293428-5-pair-simiya-merino-wool-blend-cushioned-hiking-crew-socks-7-13-multicolor-11-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "details": "ZHANXU via Amazon [amazon.com] has *5-Pair SIMIYA Merino Wool Blend Cushioned Hiking Crew Socks (7–13, Multicolor)* on sale for $14.99 - $3 off when you apply promo code EI95Y527 at checkout =...",
+      "id": "5fef552cfce4da6a",
+      "title": "$10 Tower Stack Block Stacking Game for Kids and Adults",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20313465-10-tower-stack-block-stacking-game-for-kids-and-adults?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Shipping is free with Walmart+ ($1 trial available) or on orders of $35+ https://www.walmart.com/ip/Tower-...hbdg=L1800",
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "01bae7683962f1d8",
-      "title": "G.H. Bass & Co Men's Techstop Shirt (Trench Coat) $8.75 [Limited Sizes]",
-      "source": "Slickdeals Frontpage",
-      "url": "https://slickdeals.net/f/20330253-8-75-s-l-wm-bass-co-men-s-techstop-shacket?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "details": "Walmart has Bass & Co Men's Techstop Shacket in sizes S-L for $8.75. Shipping is free for WM+ members or on orders $35+. *Avail colors:* * Trench Coat ...",
+      "id": "99bad7885b2e6215",
+      "title": "Citizen Men's Eco-Drive Classic 40mm Stainless Steel Watch $146.72 + Free Shipping",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20333946-citizen-men-s-eco-drive-classic-40mm-stainless-steel-watch-146-72-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Amazon [amazon.com] has *Citizen Men's Eco-Drive Classic 40mm Stainless Steel Watch (AW0100-86B)* on sale for *$146.72*. *Shipping is free*. *Don't have Amazon Prime?*[LIST][*]Students can get a...",
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "3492c2a8856abf1e",
-      "title": "Walker's Razor Slim Electronic Earmuffs $17 + Free S&H w/ Prime",
-      "source": "Slickdeals Frontpage",
-      "url": "https://slickdeals.net/f/20331918-16-99-walker-s-unisex-adult-razor-slim-electronic-earmuffs-at-woot?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "details": "*Woot!* [woot.com] has *Walker's Unisex Adult Razor Slim Electronic Earmuffs* for *$16.99*. *Shipping is free* for Amazon Prime Members (must login with your Amazon account and select a shipping...",
+      "id": "40a05963b6952120",
+      "title": "385-Piece LEGO City: Great Vehicles - Holiday Camper Van (60454, 2025) $23.99 + Free Shipping w/ Prime or on $35+",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20333490-385-piece-lego-city-great-vehicles-holiday-camper-van-60454-2025-23-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Amazon [amazon.com] has *385-Piece LEGO City: Great Vehicles - Holiday Camper Van (60454, 2025)* for *$23.99*. Shipping is free w/ Prime or on $35+. Product Description from...",
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "6cc1b35654eb9f24",
-      "title": "HYH 10' 310-LED Multicolor Christmas Ladder Lights w/ Santa Claus Decoration $22.20",
-      "source": "Slickdeals Frontpage",
-      "url": "https://slickdeals.net/f/20324730-hyh-10ft-310-led-multicolor-christmas-ladder-lights-w-santa-claus-decoration-22-22-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "details": "KAZOKU via Amazon [amazon.com] has *HYH 10ft 310-LED Multicolor Christmas Ladder Lights w/ Santa Claus Decoration* on sale for *$22.22*. Shipping is free w/ Prime or on orders $35+. *Don't have...",
+      "id": "f45b818ef5b100be",
+      "title": "Rachael Ray Cucina Dishwasher-Safe Hard-Anodized Pots and Pans Set Non Stick Cookware, 12-Piece, Gray with Red Handles $79.99",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20331441-rachael-ray-cucina-dishwasher-safe-hard-anodized-pots-and-pans-set-non-stick-cookware-12-piece-gray-with-red-handles-79-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Amazon has Rachael Ray Cucina Dishwasher-Safe Hard-Anodized Pots and Pans Set Non Stick Cookware, 12-Piece for $79.99 https://www.amazon.com/dp/B00J9FFP98?",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "753c1ffb7a5a5fde",
+      "title": "153-Piece LEGO Creator 3-in-1 Wild Animals (Spider, Scorpion, & Snake) Surprising Building Kit $7.19 + Free Shipping w/ Prime or on $35+",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20331726-153-piece-lego-creator-3-in-1-wild-animals-spider-scorpion-snake-surprising-building-kit-7-19-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Amazon [amazon.com] has *153-Piece LEGO Creator 3-in-1 Wild Animals (Spider, Scorpion, & Snake) Surprising Building Kit * for *$7.19*. Shipping is free w/ Prime or on $35+. Target [target.com]...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "b2e718500a3b5682",
+      "title": "3-Quart Better Homes & Gardens Artisan Stoneware 9\"x13\" Baking Dish (Purple) $9.50 + F/S w/ Walmart+ or on Orders $35+",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20333334-3-quart-better-homes-gardens-artisan-stoneware-9-x13-baking-dish-purple-9-50-f-s-w-walmart-or-on-orders-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Walmart [walmart.com] has *3-Quart **Better Homes & Gardens Artisan Stoneware 9\"x13\" Baking Dish (Purple)* on sale for *$9.50*. Shipping is free w/ Walmart+ ($1 trial available [walmart.com]) or on...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "ba1dd2eb7356b34b",
+      "title": "Select Amazon Accounts: Nature's Path Organic Old Fashioned Oats, 18 oz (Pack of 6) $7.56",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20332473-select-amazon-accounts-nature-s-path-organic-old-fashioned-oats-18-oz-pack-of-6-7-56?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "For select Amazon accounts: *Nature's Path Organic Old Fashioned Oats, 18 oz (Pack of 6)* on sale for $8.89 - $0.89 when you clip the 10% off coupon [amazon.com] found on product page - $0.44 (5%...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "413f21d8131a131f",
+      "title": "GRACE KARIN Women's Fall Maxi Chiffon Long Sleeve Maxi Dress w/ Pockets Starting at $14.25 AC",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20328510-grace-karin-women-s-fall-maxi-chiffon-long-sleeve-maxi-dress-w-pockets-starting-at-14-25-ac?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "GRACE KARIN *Women's Fall Maxi Chiffon** Long Sleeve Maxi Dress w/ Pockets* Starting at $14.25 AC 2026 Fall Maxi Chiffon Floral, Long Sleeve,V Neck, Smocked Tieded, A Line, Flowy Boho Outfit with...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "48d5f922f2755b59",
+      "title": "$5 Staples Pick Up Scotch Magic Invisible Clear Tape Refill, 0.75\" x 16.67 yds., 1\" Core, 2 Rolls/Pack or 3 pack 8.33yds",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20312208-5-staples-pick-up-scotch-magic-invisible-clear-tape-refill-0-75-x-16-67-yds-1-core-2-rolls-pack-or-3-pack-8-33yds?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "https://www.staples.com/scotch-ma...uct_485940 16.67 yrds 2 ct above OR 3 pack of Scotch Magic Invisible Clear Tape With Dispenser, 0.75\" x 8.33 yds. ...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "4169fcaa6038b6f8",
+      "title": "Lenovo Yoga 7i 2-in-1 Aura Edition: 16\" FHD+ OLED Touch, Intel Ultra 5 322, 16GB LPDDR5, 1TB SSD $751.99",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20333856-lenovo-yoga-7i-2-in-1-aura-edition-16-fhd-oled-touch-intel-ultra-5-322-16gb-lpddr5-1tb-ssd-751-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "eCoupon at checkout (if not pre-applied): EARLYBFDEALUS *SPECS:*[list][*]Processor: Intel® Core™ Ultra 5 322 Processor (LPE-cores up to 3.30 GHz P-cores up to 4.40 GHz)[*]Operating System: Windows...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "cde4b956b62bd416",
+      "title": "Cuisinart SM-50BC 5.5-Quart 12-Speed Stand Mixer (Silver Lining, White Linen, Onyx) $191.99 + Free Shipping",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20332791-cuisinart-sm-50bc-5-5-quart-12-speed-stand-mixer-silver-lining-white-linen-onyx-191-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Amazon [amazon.com] has *Cuisinart SM-50BC 5.5-Quart 12-Speed Stand Mixer (Silver Lining, White Linen, Onyx)* on sale for *$191.99*. *Shipping is free*. *Compiled From Merchant's Product...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "f8e08e79b04786d4",
+      "title": "Dreame 13-in-1 Detachable Handheld Steam Mop Cleaner $59.99 + Free Shipping",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20332545-dreame-13-in-1-detachable-handheld-steam-mop-cleaner-59-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Dreame Technology HK Limited via Amazon [amazon.com] has *Dreame 13-in-1 Detachable Handheld Steam Mop Cleaner *(SH10) on sale for *$59.99* when you apply promo code SH10DLUS at checkout. *Shipping...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "241aa0256473d605",
+      "title": "BTFBM Women's 2 Piece Matching Lounge Set Sweatsuits Fashion Clothing $19.99",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20331675-btfbm-women-s-2-piece-matching-lounge-set-sweatsuits-fashion-clothing-19-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "BTFBM-US via Amazon has Women's 2 Piece Matching Lounge Set Sweatsuits Fashion Clothing for $19.99 when you use code *503NQZ48 *at checkout https://www.amazon.com/dp/B0GWMX48JZ?",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "60fa39dc34184208",
+      "title": "Calvin Klein Jackets: Calvin Klein Men's Classic Zip-Front Ripstop Bomber Jacket (4 Colors) $39.99 & More + Free Shipping",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20334138-calvin-klein-jackets-calvin-klein-men-s-classic-zip-front-ripstop-bomber-jacket-4-colors-39-99-more-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Macy's [macys.com] has *Select Calvin Klein Jackets *on sale as listed below. *Shipping is free*. *Available deals:*[LIST][*]Calvin Klein Men's Classic Zip-Front Ripstop Bomber Jacket [macys.com]...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "581a8749280a44d7",
+      "title": "$299.99* | 27\" MSI MAG 272QP QD-OLED X24 1440p 240Hz QD-OLED Gaming Monitor at Amazon",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20333706-299-99-27-msi-mag-272qp-qd-oled-x24-1440p-240hz-qd-oled-gaming-monitor-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Amazon [amazon.com] has *27\" MSI MAG 272QP QD-OLED X24 1440p 240Hz QD-OLED Gaming Monitor* for *$299.99*. *Shipping is free*. *** Previous *Frontpage Deal* at *$385* with *30* Deal Score and 5...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "775d3badcd3a53f5",
+      "title": "[AC] $37.99* | Logitech Ergo M575S Wireless Trackball Mouse at Amazon",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20330076-ac-37-99-logitech-ergo-m575s-wireless-trackball-mouse-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Amazon [amazon.com] has *Logitech Ergo M575S Wireless Trackball Mouse* for $39.99 - $2 at checkout = *$37.99*. *Shipping is free*. *Savings* Save $2 at checkout *** Previous *Frontpage Deal*...",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -155,131 +267,171 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "8722d65889e35d16",
-      "title": "Igloo WWE Championship Belt 4-Can Insulated Fanny Pack Cooler $28.97 + Free Shipping w/ Prime or on $35+",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20331885-igloo-wwe-championship-belt-4-can-insulated-fanny-pack-cooler-28-97-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Amazon [amazon.com] has *Igloo WWE Championship Belt 4-Can Insulated Fanny Pack Cooler* on sale for *$28.97*. Shipping is free w/ Prime or on orders $35+. *Don't have Amazon...",
+      "id": "10b3cf40f1ca9145",
+      "title": "Lowe's Black Friday Sale 2026: Up to 60% off + free shipping",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/Lowes-Black-Friday-Sale-2026-Up-to-60-off-free-shipping/22360324.html?iref=rss",
+      "details": "Lowe's Black Friday Sale is now live with deep discounts on appliances, tools, home improvement, holiday decor, and more. Popular brands include Samsung, Craftsman, Delta, DeWalt, Werner, Char-Broil, and Carhartt. MyLowe's Rewards members get free shipping on ",
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "bcbb3783ccbcd3ca",
-      "title": "Baseus Picogo Qi2 15W 10000mAh Magsafe Portable Charger (Various Colors) $26 + Free Shipping",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20333481-baseus-picogo-qi2-15w-10000mah-magsafe-portable-charger-various-colors-26-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Baseus Brand Store via Amazon [amazon.com] has *Baseus Picogo Qi2 15W 10000mAh Magsafe Portable Charger* (Various Colors) on sale for $69.99 - $44 (63% off) when you apply promo code J2GK7P0R at...",
+      "id": "902d032a878c3a5c",
+      "title": "Banana Republic Factory Black Friday Preview Sale: 60% off + extra 20% off",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/Banana-Republic-Factory-Black-Friday-Preview-Sale-60-off-extra-20-off/22408851.html?iref=rss",
+      "details": "Banana Republic Factory is running its Black Friday Preview sale with 60% off everything online, plus an extra 20% off with no code needed. The sale covers women's and men's clothing along with suiting, party wear, accessories, and gifts. Elsewhere, sale style",
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "99ce0415557fcf9e",
-      "title": "24-Pack (4 x 6-Pack ) 8-Oz V8 +Energy Peach Mango Energy Drinks $14.36 ($3.59 per 6-Pack) w/ S&S + Free Shipping w/ Prime or on $35+",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20332680-24-pack-4-x-6-pack-8-oz-v8-energy-peach-mango-energy-drinks-14-36-3-59-per-6-pack-w-s-s-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Amazon [amazon.com] has *24-Pack (4 x 6 Pack) **8-Oz **V8 +Energy Peach Mango Energy Drinks* on sale for $17.95 - 15% off when you 'clip' the coupon on product page [amazon.com] - an additional 5% ...",
+      "id": "1360e65823949cee",
+      "title": "iSpring CKC1C Chlorine Removal Countertop Water Filter System for $35 + free shipping",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/iSpring-CKC1-C-Chlorine-Removal-Countertop-Water-Filter-System-for-35-free-shipping/22408850.html?iref=rss",
+      "details": "At Amazon, get this iSpring CKC1C Chlorine Removal Countertop Water Filter System for $33. It's the best price we could find by $7. It connects to a standard kitchen faucet without drilling or a plumber, and the included cartridge lasts 6 to 12 months dependin",
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "0bec2cedef2ba13b",
-      "title": "$10.61* | LeapFrog 100 Animals Book, Green at Amazon",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20332923-10-61-leapfrog-100-animals-book-green-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Amazon [amazon.com] has *LeapFrog 100 Animals Book, Green* for *$10.61*. *Shipping is free* with Prime or on $35+ orders.[LIST][*]*Standard Packaging*[LIST][*]Animals, Green [amazon.com] -...",
+      "id": "d45edc0f7a3952f4",
+      "title": "Baseus VD1 Pro 4K Dual Solar Dash Cam for $120 + free shipping",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/products/Baseus/Baseus-VD1-Pro-4-K-Dual-Solar-Dash-Cam/560111.html?iref=rss",
+      "details": "Solar charging keeps this dash cam topped off without wiring it into your car's electrical system, which suits anyone who wants front and rear 4K recording without the installation hassle, and it's currently $30 off the $150 list price. Apply coupon code \"VD1D",
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "a805091bc8d69ef8",
-      "title": "14\" Plano 4-By Rack System w/ Four 3650 Utility Tackle Boxes (1364) $33.58 + Free Shipping w/ Prime or on $35+",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20299473-14-plano-4-by-rack-system-w-four-3650-utility-tackle-boxes-1364-33-58-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Amazon [amazon.com] has *14\"* *Plano 4-By Rack System w/ Four 3650 Utility Tackle Boxes (1364)* on sale for *$33.58*. Shipping is free w/ Prime or on orders $35+. *Compiled From Merchant's Product...",
+      "id": "99f5ffc7a2566ef5",
+      "title": "Nike Men's Jordan Session Shoes for $45 + free shipping w/ $50",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/Nike-Mens-Jordan-Session-Shoes-for-45-free-shipping-w-50/22408848.html?iref=rss",
+      "details": "At Nike, use promo code \"EARLYBF\" to get these Nike Men's Jordan Session Shoes for $45. It's the best price we could find by $15. Shipping is free on orders of $50 or more for Nike members. Deal ends November 21. Buy Now at Nike",
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "9bc84e4c9f6b406c",
-      "title": "23-Piece GearWrench 1/2\" Drive 6-Point SAE Standard & Deep Mechanics Tool Set (80707) $46.43 + Free Shipping",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20328225-23-piece-gearwrench-1-2-drive-6-point-sae-standard-deep-mechanics-tool-set-80707-46-43-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Amazon [amazon.com] has *23-Piece **GearWrench 1/2\" Drive 6-Point SAE Standard & Deep Mechanics Tool Set (80707)* on sale for *$46.43*. *Shipping is free*. *Don't have Amazon...",
+      "id": "38b7ada7f9756f26",
+      "title": "Lenovo Legion 5i Core Ultra 7 251HX 15.3\" Gaming Laptop w/ RTX 5070 for $1,700 + free shipping",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/products/Lenovo/Lenovo-Legion-5-i-Core-Ultra-7-251-HX-15-3-Gaming-Laptop-w-RTX-5070/560114.html?iref=rss",
+      "details": "This Lenovo Legion 5i at Amazon matches its Amazon all-time low of $1,700 and sits below its 90-day average of $2,118 — it's also $700 off its regular price. The OLED screen runs at 2560x1600 resolution and a 165Hz refresh rate, paired with an RTX 5070 12GB gr",
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "e9e1157bcb97b1a1",
-      "title": "$44.98 ASTRO A10 Gen 2 Wired Gaming Headset with flip-to-mute microphone, 32 mm drivers",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20332827-44-98-astro-a10-gen-2-wired-gaming-headset-with-flip-to-mute-microphone-32-mm-drivers?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Available in two colors https://www.walmart.com/ip/ASTRO-...hbdg=L1300 https://www.walmart.com/ip/ASTRO-.../391304075",
+      "id": "754e592e43a52d4d",
+      "title": "Home Depot Black Friday Appliance Deals: Up to 45% off + bundle discounts + free delivery w/ $398",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/Home-Depot-Black-Friday-Appliance-Deals-Up-to-45-off-bundle-discounts-free-delivery-w-398/22408187.html?iref=rss",
+      "details": "Home Depot’s Black Friday Sale features savings of up to 40% on refrigerators, washers, dryers, vacuums, and other appliances. Select washer and dryer sets and kitchen appliance bundles qualify for up to an extra $500 off in cart. Delivery fees vary, although ",
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "815fafd68593778b",
-      "title": "Breville BOV450XL Mini Smart Oven, Brushed Stainless Steel $127.95",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20314365-breville-bov450xl-mini-smart-oven-brushed-stainless-steel-127-95?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Breville BOV450XL Mini Smart Oven, Brushed Stainless Steel [amazon.com] $127.95 Evenly bake, toast, broil and more with this versatile, space-saving countertop oven and toaster with 8 cooking...",
+      "id": "1d1c1866c55465e2",
+      "title": "Banana Republic Sale: Up to 40% off + extra 20% off + free shipping w/ $50",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/Banana-Republic-Sale-Up-to-40-off-extra-20-off-free-shipping-w-50/22408846.html?iref=rss",
+      "details": "Banana Republic is taking up to 40% off women's and men's styles, with an extra 20% off for a limited time. The men's Signature Italian Hopsack Suit Jacket is $150, down from $450, and the Textured Stripe Sweater Polo drops to $37 from $120. On the women's sid",
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "c349f37b4afd3a41",
-      "title": "10-Pack Skechers Men's Half Terry Quarter Crew Socks (Black) $8.92 + Free Shipping w/ Prime or on $35+",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20307312-10-pack-skechers-men-s-half-terry-quarter-crew-socks-black-8-92-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Amazon [amazon.com] has *10-Pack Skechers Men's Half Terry Quarter Crew Socks (Black)* on sale for *$8.92*. Shipping is free w/ Prime or on orders $35+. *Don't have Amazon Prime?*[LIST][*]Students...",
+      "id": "8c49c8a17095ee4d",
+      "title": "Baseus Bowie MC2 Open Ear Clip-On Earbuds for $46 + free shipping",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/products/Baseus/Baseus-Bowie-MC2-Open-Ear-Clip-On-Earbuds/560112.html?iref=rss",
+      "details": "Clip-on, open-ear design keeps your ear canal free, which suits anyone who wants to stay aware of surroundings during workouts or commutes rather than block out noise entirely. At $46, that's $34 off the $80 list price. Apply coupon code \"IMRQGU5F\" for a savin",
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "74bd6b226fecaa8d",
-      "title": "Scarlet Darkness Women's Renaissance Corset Dress / Medieval Costume $19.12 (Reg. $44.99) w/ Code + Free Shipping w/ Prime or on $35+",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20333586-scarlet-darkness-women-s-renaissance-corset-dress-medieval-costume-19-12-reg-44-99-w-code-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "PJ Menswear via Amazon has the Scarlet Darkness Women's Renaissance Corset Dress / Medieval Pirate Costume for $19.12 (was $44.99) = 58% off. The listing shows $38.24; apply promo code QUIE1TW8 at...",
+      "id": "8628527f6b73eeb3",
+      "title": "Igloo Party Bar Series 125-Qt. Hard Cooler for $187 + free shipping",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/Igloo-Party-Bar-Series-125-Qt-Hard-Cooler-for-187-free-shipping/22408841.html?iref=rss",
+      "details": "At Amazon, get this Igloo Party Bar Series 125-Qt. Hard Cooler for $187. It's the best price we could find by $43. The removable lid turns it into an open beverage tub, and the cooler body detaches from the wheeled base to work as a standard ice chest. Shippin",
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "0ae41654bb99e609",
-      "title": "Milwaukee M18 FUEL 18-Volt Lithium-Ion Brushless Cordless Hammer Drill and Impact Driver Combo Kit (2-Tool) with HACKZALL $369",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20329098-milwaukee-m18-fuel-18-volt-lithium-ion-brushless-cordless-hammer-drill-and-impact-driver-combo-kit-2-tool-with-hackzall-369?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "This is a Deal of the Day. Price is good for today only. Free delivery from Home Depot. Includes an M18 FUEL 1/2\" Hammer Drill, M18 FUEL 1/4\" Hex Impact Driver, (2) M.18 REDLITHIUM XC 5.0Ah...",
+      "id": "1b95f4e144053347",
+      "title": "Gazelle Tents G6 6-Sided Portable Gazebo Pop-Up Screen Tent for $196 + free shipping",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/Gazelle-Tents-G6-6-Sided-Portable-Gazebo-Pop-Up-Screen-Tent-for-196-free-shipping/22408827.html?iref=rss",
+      "details": "At Amazon, get this Gazelle Tents G6 6-Sided Portable Gazebo Pop-Up Screen Tent for $196. It's the best price Amazon has charged for this tent. The waterproof roof carries a UV50+ rating, and the mesh walls are built to keep out even small bugs. It weighs 34 l",
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "a8c9deb0be798a20",
-      "title": "$8.49 FS WMT+ by VIP LIVE Wireless Mouse, G12 Slim LED Rechargeable Silent Wireless Mouse for Laptop, 2.4G Portable USB Optical",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20308953-8-49-fs-wmt-by-vip-live-wireless-mouse-g12-slim-led-rechargeable-silent-wireless-mouse-for-laptop-2-4g-portable-usb-optical?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "https://www.walmart.com/ip/Wirele...8860796?cl",
+      "id": "29e84f570d06dd59",
+      "title": "Mooka B-D02L True HEPA Air Purifier for $36 + free shipping",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/products/Mooka/Mooka-B-D02-L-True-HEPA-Air-Purifier/529982.html?iref=rss",
+      "details": "The Mooka B-D02L True HEPA Air Purifier covers small to medium rooms and suits anyone dealing with pet dander, dust, or smoke odors thanks to the true HEPA filter, and it's $45 off the usual $81 price on Amazon. Apply coupon code \"NKXKMS0Y\" for a savings of $4",
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "41dd8bb365929a0f",
-      "title": "(Refurb/Excellent) Dell Latitude 5420: 14\" FHD IPS, i5-1145G7, 16GB RAM, 256GB SSD, Win 11 Pro + Free NEWEGG EXCLUSIVE Norton 360 Standard 2026, Antivirus software $264.99",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20332239-refurb-excellent-dell-latitude-5420-14-fhd-ips-i5-1145g7-16gb-ram-256gb-ssd-win-11-pro-free-newegg-exclusive-norton-360-standard-2026-antivirus-software-264-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Free item: NEWEGG EXCLUSIVE Norton 360 Standard 2026, Antivirus software for 1 Device with Auto-Renewal – 15 Months [Download] Refurbished: DELL Latitude 5420 Laptop Intel Core i5-1145G7 16GB...",
+      "id": "4be422bec2a05445",
+      "title": "18\" Nonstick Turkey Roasting Pan Set for $90 + free shipping",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/18-Nonstick-Turkey-Roasting-Pan-Set-for-90-free-shipping/22408826.html?iref=rss",
+      "details": "At Amazon, get this 18\" Nonstick Turkey Roasting Pan Set for $90 when you clip the on-page coupon. The set includes a rack, a fitted lid, two oven mitts, and two turkey lifters, so the accessories are covered in one purchase. The pan holds a turkey up to 25 lb",
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "9df3116346560cb4",
-      "title": "10000mAh MIISSO Mini Power Bank w/ Built-In USB-C & Lightning Cables (Various Colors) from $14.99 + Free Shipping w/ Prime or on $35+",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20331123-10000mah-miisso-mini-power-bank-w-built-in-usb-c-lightning-cables-various-colors-from-14-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "TG90 via Amazon [amazon.com] has **10000mAh MIISSO Mini Power Bank w/ Built-In USB-C & Lightning Cables (Various Colors)** on sale from $29.99 - 50% off when you apply promo code 5ISX8OA9 at checkout...",
+      "id": "80aaa42ec4f02ffa",
+      "title": "eBay Holiday Tech Promo Code: Up to 53% off + extra 10% off + free shipping",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/eBay-Holiday-Tech-Promo-Code-Up-to-53-off-extra-10-off-free-shipping/22408378.html?iref=rss",
+      "details": "Quickship Electronics via eBay is taking 10% off eligible new and open-box electronics with promo code \"NICEFIND10\", capped at $150 per use and good for up to 10 uses through December 31. The open-box listings include LG, Samsung, and ASUS monitors, Apple Watc",
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "149bf48adb579a71",
-      "title": "[SnS, AC] $11.50 | 3 × 12-Pack 12-Oz Pepsi Zero Sugar Cola Soda ($3.83 each) at Amazon (31.9￠ each)",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20334003-sns-ac-11-50-3-12-pack-12-oz-pepsi-zero-sugar-cola-soda-3-83-each-at-amazon-31-9-each?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Amazon [amazon.com] has *12-Pack 12-Oz Pepsi Zero Sugar Cola Soda* 3 for $20.91 - 40% (multibuy discount) - 5% when you check out via Subscribe & Save = *$11.50*. *Shipping is free* with Prime or on...",
+      "id": "309a5f2bf745fc84",
+      "title": "Samsung Bespoke 29-cu. ft. 4-Door French Door Refrigerator w/ Sphere Ice for $1,655 + free delivery",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/products/Samsung/Samsung-Bespoke-29-cu-ft-4-Door-French-Door-Refrigerator-w-Sphere-Ice/560106.html?iref=rss",
+      "details": "At Home Depot, this Samsung Bespoke refrigerator drops to $1,655 in cart, down from $3,199. It is one of Home Depot's daily deals. Delivery is free. Buy Now at Home Depot Features 29 cu. ft. total capacity in a 4-door French door layout 36\" wide standard-depth",
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "cb945319084166c5",
-      "title": "Fanflix: Black Friday WB TV digital bundles - 2 for $36",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20332920-fanflix-black-friday-wb-tv-digital-bundles-2-for-36?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "GOBBLE10 expires 11/30/2026 11:59pm PT The Last of Us: Seasons 1-2 UHD Seasons 1-4 True Detective: Seasons 1-4 HD The Sandman: The Complete Series UHD Ballers: The Complete Series HD",
+      "id": "87a7326f95a0bb90",
+      "title": "15.6\" 1080p Portable Dual Laptop Screen Extender for $80 + free shipping",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/15-6-1080-p-Portable-Dual-Laptop-Screen-Extender-for-80-free-shipping/22403457.html?iref=rss",
+      "details": "Anyone who splits time between a laptop and a desk setup can add a second (or third) screen without hauling around a separate monitor, which helps if you're frequently working from different locations. At $80, that's $110 off the $190 list price. Apply coupon ",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "bce82cfa5b6f56ec",
+      "title": "New Balance Select Styles Sale for 25% off $125 + free shipping",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/New-Balance-Select-Styles-Sale-for-25-off-125-free-shipping/22408824.html?iref=rss",
+      "details": "Ending today, New Balance is taking 25% off select styles when you spend $125 or more, with more than 500 items in the sale. Shipping is free. Buy Now at New Balance",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "84d652ef66e35002",
+      "title": "4K Night Vision Binoculars for $85 + free shipping",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/4-K-Night-Vision-Binoculars-for-85-free-shipping/22408823.html?iref=rss",
+      "details": "At Amazon, these 4K Night Vision Binoculars are $15 off, dropping to $85. It's the best deal Amazon has offered for these binoculars. The built-in rechargeable battery means no AA batteries are needed, and the 32GB TF card is included so they can record right ",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "32f683ae0ac38f9c",
+      "title": "Keenstone 20V Brushless 13\" Cordless Electric Snow Shovel for $128 + free shipping",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/Keenstone-20-V-Brushless-13-Cordless-Electric-Snow-Shovel-for-128-free-shipping/22408809.html?iref=rss",
+      "details": "At Amazon, get this Keenstone 20V Brushless 13\" Cordless Electric Snow Shovel for $128 automatically at checkout. It's the best deal we've seen for this model. It includes a 4.0Ah battery and fast charger, and it carries a 2-year machine warranty plus 1-year b",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "a547d3c43d3fbf58",
+      "title": "HP OMEN G2 27\" 1080p IPS Gaming Monitor w/ HyperX Pulsefire Saga Wired Gaming Mouse for $190 + free shipping",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/HP-OMEN-G2-27-1080-p-IPS-Gaming-Monitor-w-Hyper-X-Pulsefire-Saga-Wired-Gaming-Mouse-for-190-free-shipping/22408808.html?iref=rss",
+      "details": "As a Black Friday doorbuster deal, ANTOnline offers the HP OMEN G2 27\" gaming monitor bundled with a HyperX Pulsefire Saga wired gaming mouse for $189.99. That's $30 less than you'd pay for these items sold separately at Amazon. The 1080p monitor features a 18",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "d86fad9bba6a53bc",
+      "title": "eBay Live Rare Finds Holiday Actions for Deals from $1",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/eBay-Live-Rare-Finds-Holiday-Actions-for-Deals-from-1/22408351.html?iref=rss",
+      "details": "eBay Live has a full schedule of livestream auctions on rare finds running through the week, as part of its Best of Holiday event. Many shows list starting bids as low as a buck. The event will include auctions on luxury watches (featuring Rolex and Cartier), ",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -331,11 +483,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "bb6e5ca2c9e50594",
-      "title": "Staples Black Friday Sale: Up to 50% off + free delivery on lots of items",
+      "id": "05afd0598294de7b",
+      "title": "Costco 1-Year Gold Star Membership for $65 w/ $45 Costco Shop Card + free shipping",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Staples-Black-Friday-Sale-Up-to-50-off-free-delivery-on-lots-of-items/22408401.html?iref=rss",
-      "details": "The Staples Black Friday Sale is now live for EasyRewards members (if you're not a member, it's free to sign up). Once signed in, you can get up to 50% off across the store and free shipping on lots of items. The sale includes laptops, tech accessories, office",
+      "url": "https://www.dealnews.com/Costco-1-Year-Gold-Star-Membership-for-65-w-45-Costco-Shop-Card-free-shipping/22370289.html?iref=rss",
+      "details": "Join Costco as a new Gold Star member for $65, then be sure to enroll in auto renewal of your annual membership, and you'll receive a $45 Digital Costco Shop Card for free via the promo code \"NEWMBR26\". Note that this offer is only valid for new members or tho",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -387,11 +539,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "ff330b39302c0941",
-      "title": "Folding Camping Cot Bed w/ Padded Mattress for $24 + free shipping",
+      "id": "bb6e5ca2c9e50594",
+      "title": "Staples Black Friday Sale: Up to 50% off + free delivery on lots of items",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Folding-Camping-Cot-Bed-w-Padded-Mattress-for-24-free-shipping/22408377.html?iref=rss",
-      "details": "For one last day, AliExpress has this folding camping cot for $27. You can apply the promo code \"DBDEAL3\" to cut the price down another few bucks in cart. That brings the final price to just $24. Shipping is free from a U.S. warehouse, too. It includes a padde",
+      "url": "https://www.dealnews.com/Staples-Black-Friday-Sale-Up-to-50-off-free-delivery-on-lots-of-items/22408401.html?iref=rss",
+      "details": "The Staples Black Friday Sale is now live for EasyRewards members (if you're not a member, it's free to sign up). Once signed in, you can get up to 50% off across the store and free shipping on lots of items. The sale includes laptops, tech accessories, office",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -435,19 +587,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "e25cbe48b21fb693",
-      "title": "Yozma IN10 2,600W Electric Dirt Bike for $999 + free shipping",
+      "id": "ff330b39302c0941",
+      "title": "Folding Camping Cot Bed w/ Padded Mattress for $24 + free shipping",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Yozma-IN10-2-600-W-Electric-Dirt-Bike-for-999-free-shipping/22375929.html?iref=rss",
-      "details": "Built for riders who want an electric dirt bike without jumping straight into high-end off-road pricing, the 2,600W motor gives you enough power for trail riding and moderate hills. It's $50 off the $1,049 list price at Amazon. Deal ends November 22. Buy Now a",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "754e592e43a52d4d",
-      "title": "Home Depot Black Friday Appliance Deals: Up to 45% off + bundle discounts + free delivery w/ $398",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Home-Depot-Black-Friday-Appliance-Deals-Up-to-45-off-bundle-discounts-free-delivery-w-398/22408187.html?iref=rss",
-      "details": "Home Depot’s Black Friday Sale features savings of up to 40% on refrigerators, washers, dryers, vacuums, and other appliances. Select washer and dryer sets and kitchen appliance bundles qualify for up to an extra $500 off in cart. Delivery fees vary, although ",
+      "url": "https://www.dealnews.com/Folding-Camping-Cot-Bed-w-Padded-Mattress-for-24-free-shipping/22408377.html?iref=rss",
+      "details": "For one last day, AliExpress has this folding camping cot for $27. You can apply the promo code \"DBDEAL3\" to cut the price down another few bucks in cart. That brings the final price to just $24. Shipping is free from a U.S. warehouse, too. It includes a padde",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -467,91 +611,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "d1f220e98c5a68ff",
-      "title": "Open-Box Vizio Quantum M65Q6-L4 65\" 4K QLED UHD Smart TV for $243 + free shipping",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/products/Vizio/VIZIO-Quantum-M65-Q6-L4-65-4-K-QLED-UHD-Smart-TV/281228.html?iref=rss",
-      "details": "eBay offers the open-box Vizio 65\" smart TV for $242.88 via promo code \"VIPTAKE8OCTOBER\". That's $85 under the cost of a factory-sealed unit and its best-ever price. Shipping is free. Deal ends December 1st. Buy Now at eBay Features 3840x2160 (4K) resolution D",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "be25c2f3bd2222c3",
-      "title": "Certified Refurb Apple AirPods Pro 3 (2025) for $123 + free shipping",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/products/Apple/Apple-Air-Pods-Pro-3-2025/493669.html?iref=rss",
-      "details": "At eBay, these certified refurbished AirPods Pro earbuds drop to $123.29 with promo code \"NICEFIND10\". That's the best price we've seen. Shipping is free. A 1-year Allstate warranty applies. Deal ends December 31st. Buy Now at eBay Features Live translation Tw",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "38e035461521f7b3",
-      "title": "eBay Auto Parts & Accessories Sale: Extra 10% off + free shipping",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/eBay-Auto-Parts-Accessories-Sale-Extra-10-off-free-shipping/22337052.html?iref=rss",
-      "details": "With promo code \"PARTSAVE10\", eBay takes 10% off eligible car, truck, motorcycle, ATV, and UTV parts, tires, and tools, up to $75 per order. The code can be used four times per user and expires November 19. Shop Now at eBay Features 10% off eligible items with",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
       "id": "e2cb617652227605",
       "title": "JBL Go 4 Bluetooth Speaker for $32 + free shipping",
       "source": "DealNews Latest",
       "url": "https://www.dealnews.com/products/JBL/JBL-Go-4-Bluetooth-Speaker/488199.html?iref=rss",
       "details": "This JBL Go 4 Bluetooth speaker matches its Amazon all-time low of $32 and sits well below its 90-day average of $49. It's available in several colors. Buy Now at Amazon Features Up to 7 hours of playtime plus 2 hours with Playtime Boost IP67 waterproof and du",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "9fb6a264047d1aa5",
-      "title": "Black Friday Sale at The Jacket Maker: Up to 25% off + extra 12% off + free shipping",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Black-Friday-Sale-at-The-Jacket-Maker-Up-to-25-off-extra-12-off-free-shipping/22402879.html?iref=rss",
-      "details": "Get 20% off all outerwear and 25% off leather bags and shoes, plus an extra 12% off with coupon code \"DN12TJM\" during The Jacket Maker's Black Friday Sale. Shop Now at The Jacket Maker Features Widest range with 450+ designs of men's and women's leather jacket",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "61040d431a1ce10b",
-      "title": "Refurb Unlocked Samsung Galaxy Phone Deals at eBay: Up to 80% off + free shipping",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Refurb-Unlocked-Samsung-Galaxy-Phone-Deals-at-eBay-Up-to-80-off-free-shipping/22408761.html?iref=rss",
-      "details": "If you can't afford to buy a new Samsung phone, you can get some great deals on refurbished devices at eBay instead. eBay says its Certified Refurbished items come with a 2-year warranty serviced by Allstate and 30-day free returns, though items in lower condi",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "34d8b87f79b2eedf",
-      "title": "JBL Charge 6 Portable Bluetooth Speaker for $140 + free shipping",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/JBL-Charge-6-Portable-Bluetooth-Speaker-for-140-free-shipping/22408760.html?iref=rss",
-      "details": "This JBL Charge 6 speaker is $60 off at Amazon, and the $140 price sits below its 90-day average of $157. Shipping is free. Buy Now at Amazon Features Up to 28 hours of playtime with Playtime Boost, 24 hours standard Built-in powerbank charges phones (does not",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "e60d2290f1e2e8f1",
-      "title": "Tineco Floor One i6 Stretch Wet Dry Vacuum Cleaner for $217 + free shipping",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/products/Tineco/Tineco-Floor-ONE-i6-Stretch-Wet-Dry-Vacuum-Cleaner/557428.html?iref=rss",
-      "details": "Handles wet spills and dry debris in one pass, which suits anyone wanting to skip separate mopping and vacuuming steps, and at $217 that's $182 off the $399 list price. Apply coupon code \"DNBFEBI6S\" for a savings of $182. It ships for free. Buy Now at Amazon F",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "7d7155db419942be",
-      "title": "Home Depot Appliance Daily Deals: Up to 47% off + free delivery w/ $398",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Home-Depot-Appliance-Daily-Deals-Up-to-47-off-free-delivery-w-398/22408759.html?iref=rss",
-      "details": "Home Depot is discounting select appliances for one day only, with brands such as Maytag, Whirlpool, GE, LG, and Samsung in the mix. Select items drop in price further in cart, or qualify for additional savings with other ongoing promotions. One of the best de",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "75364e5a2683f2a9",
-      "title": "JBL Flip 7 Portable Waterproof Speaker for $100 + free shipping",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/products/JBL/JBL-Flip-7-Portable-Waterproof-Speaker/525989.html?iref=rss",
-      "details": "The JBL Flip 7 Bluetooth speaker is $50 off at Amazon, which is also below its 90-day average of $125. It is rated for up to 16 hours of playtime and is waterproof, dustproof, and drop-proof from about 3 feet. Buy Now at Amazon Features JBL signature sound wit",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "f98e029704852b3f",
-      "title": "Skechers S Sport Sneakers Deals at eBay for From $13 + free shipping",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Skechers-S-Sport-Sneakers-Deals-at-eBay-for-From-13-free-shipping/22336571.html?iref=rss",
-      "details": "Bullseye Deals on eBay is selling S Sport by Skechers shoes for men, women, kids, and toddlers, with prices starting around $13 for kids' styles like the Spencer and Vana. Men's sneakers such as the Brennen run $17 to $19, down from a $40 list price. The mix a",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -563,115 +627,35 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "aad0c96c01861ab1",
-      "title": "VIPOutlet Clearance Sale at eBay: Up to 80% off + extra 8% off + shipping varies",
+      "id": "61040d431a1ce10b",
+      "title": "Refurb Unlocked Samsung Galaxy Phone Deals at eBay: Up to 80% off + free shipping",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/VIPOutlet-Clearance-Sale-at-eBay-Up-to-80-off-extra-8-off-shipping-varies/22327553.html?iref=rss",
-      "details": "vipoutlet's eBay store has some of eBay's best deals on electronics, gaming gear, and home goods, especially since the promo code \"VIPTAKE8OCTOBER\" now takes an extra 8% off everything. Refurbs include a 1- or 2-year Allstate warranty. Shipping is free. Coupon",
+      "url": "https://www.dealnews.com/Refurb-Unlocked-Samsung-Galaxy-Phone-Deals-at-eBay-Up-to-80-off-free-shipping/22408761.html?iref=rss",
+      "details": "If you can't afford to buy a new Samsung phone, you can get some great deals on refurbished devices at eBay instead. eBay says its Certified Refurbished items come with a 2-year warranty serviced by Allstate and 30-day free returns, though items in lower condi",
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "5bf25689f4a81276",
-      "title": "NexCyber 6,000A Car Battery Jump Starter for $20 + free shipping w/ Prime",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/products/Nex-Cyber/Nex-Cyber-6-000-A-Car-Battery-Jump-Starter/560098.html?iref=rss",
-      "details": "This jump starter is a handy backup to keep in your trunk for dead batteries, especially if you're prone to leaving lights on or driving an older car, and at $20 it's $50 off the $70 list price. Apply coupon code \"AG3ZLAIY\" for a savings of $50. Prime members ",
+      "id": "f6a6c144c149555d",
+      "title": "Dyson Black Friday Sale: Up to 50% off select Vacuum Cleaners and Hair Care",
+      "source": "TechBargains",
+      "url": "https://www.walmart.com/global/seller/11746/cp/shopall",
+      "details": "Dyson Black Friday Sale: Up to 50% off select Vacuum Cleaners and Hair Care",
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "90a0d4d2dc1a976f",
-      "title": "Looyor Women's Lace-Up Walking Sneakers for $10 + free shipping w/ Prime",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Looyor-Womens-Lace-Up-Walking-Sneakers-for-10-free-shipping-w-Prime/22375361.html?iref=rss",
-      "details": "These work well if you want a lightweight, breathable sneaker for everyday walking without spending much. Apply coupon code \"OX9JD0XJ\" for a savings of $20. Deal ends November 30. Buy Now at Amazon Features Breathable mesh upper for airflow Cushioned EVA insol",
+      "id": "ff0e31306b1cc4bc",
+      "title": "Pvo YG300 Pro Native 1080p Portable Projector $39.99",
+      "source": "TechBargains",
+      "url": "https://www.amazon.com/gp/product/B0HR1497KL/ref=ox_sc_act_title_1?smid=A1A031PWYLZFD8&th=1",
+      "details": "Pvo YG300 Pro Native 1080p Portable Projector $39.99",
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "99c3900da8143c1d",
-      "title": "adidas Men's Hyperboost EPHR Shoes for $72 + Free shipping",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/adidas-Mens-Hyperboost-EPHR-Shoes-for-72-Free-shipping/22408739.html?iref=rss",
-      "details": "For one last day, adiClub members get early access to this adidas Black Friday deal, which sees the Hyperboost EPHRs down to just $85. Then you can use our promo code \"DN15\" to get another 15% off, and bring the final price to $72. (It's free to sign up for me",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "b7d101b655ec3148",
-      "title": "Kuject Heat Shrink Solder Seal Wire Connector Kit 120-Piece for $6 + free shipping w/ Prime",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/products/Kuject/Kuject-Heat-Shrink-Solder-Seal-Wire-Connectors-120-Pack/513153.html?iref=rss",
-      "details": "Handy for anyone doing car electronics, marine wiring, or home repairs where you want a connection that's both soldered and waterproofed in one step, and this 120-piece kit is $4 off the usual $10 price. Apply coupon code \"APQ929CN\" for a savings of $4. Buy No",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "84b79d004bf0556f",
-      "title": "DeWalt Atomic 20V Max 5/8\" SDS Plus Brushless Rotary Hammer Drill w/ 6.0Ah & 4.0Ah Batteries and Charger for $199 + free shipping",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/products/De-Walt/De-Walt-Atomic-20-V-Max-5-8-SDS-Plus-Brushless-Rotary-Hammer-Drill-w-6-0-Ah-4-0-Ah-Batteries-and-Charger/560099.html?iref=rss",
-      "details": "At Home Depot, this DeWalt Atomic rotary hammer drill with an included battery and charger starter kit is 65% off the regular price of $568 as one of their Black Friday deals. Plus, it ships for free. Buy Now at Home Depot Features 20V Max cordless brushless m",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "80aaa42ec4f02ffa",
-      "title": "eBay Holiday Tech Promo Code: Up to 53% off + extra 10% off + free shipping",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/eBay-Holiday-Tech-Promo-Code-Up-to-53-off-extra-10-off-free-shipping/22408378.html?iref=rss",
-      "details": "Quickship Electronics via eBay is taking 10% off eligible new and open-box electronics with promo code \"NICEFIND10\", capped at $150 per use and good for up to 10 uses through December 31. The open-box listings include LG, Samsung, and ASUS monitors, Apple Watc",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "b267422aeb976946",
-      "title": "JBL Clip 5 Portable Waterproof Bluetooth Speaker for $50 + free shipping",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/JBL-Clip-5-Portable-Waterproof-Bluetooth-Speaker-for-50-free-shipping/22408736.html?iref=rss",
-      "details": "At Walmart, this JBL Clip 5 Bluetooth speaker is $30 off. The $50 price also beats its Amazon all-time low of $60. It has a built-in carabiner for clipping to a bag and can pair with a second Clip 5 for stereo sound. Shipping is free on this order, too. Buy No",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "0b6233424b69edd8",
-      "title": "Costa Del Mar Black Friday Early Access Deals: Up to 50% off sitewide + free shipping",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Costa-Del-Mar-Black-Friday-Early-Access-Deals-Up-to-50-off-sitewide-free-shipping/22408717.html?iref=rss",
-      "details": "Costa Del Mar is running a Black Friday early access event with up to 50% off sitewide. Among the sunglasses, the Caballito drops to $94 and the Tuna Alley (pictured) to $140, both at 50% off. Popular styles like the Rincon II and Brine II are 30% off, at $200",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "5bb0722ae49d8614",
-      "title": "Home Depot Black Friday Drill Deals: Up to 65% off + free shipping",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Home-Depot-Black-Friday-Drill-Deals-Up-to-65-off-free-shipping/22408716.html?iref=rss",
-      "details": "Home Depot's Black Friday drill deals include the pictured DeWalt 20V Max Atomic drill/driver kit at $99, down from $179, with a battery and charger in the box. Milwaukee's M18 compact drill/driver kit is $99, down from $199. Milwaukee's M12 Fuel hammer drill ",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "4f8195798a866abc",
-      "title": "Pizza Hut Triple Treat Holiday Box for From $22",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Pizza-Hut-Triple-Treat-Holiday-Box-for-From-22/22408697.html?iref=rss",
-      "details": "Pizza Hut's Triple Treat Box (Holiday edition) features two medium 1-topping pizzas with five breadsticks and 10 cinnamon sticks. Prices may vary by location. Buy Now at Pizza Hut",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "0dd4df0e1579e7c2",
-      "title": "10-Night Tokyo, Kyoto, and Osaka Flight and Hotel Vacation for From $3,798 for 2",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/10-Night-Tokyo-Kyoto-and-Osaka-Flight-and-Hotel-Vacation-for-From-3-798-for-2/22406011.html?iref=rss",
-      "details": "Experience Japan next summer with this 12-day vacation from TripToGo. Explore Tokyo's bustling neighborhoods, discover Kyoto's historic temples and traditional streets, and enjoy Osaka's lively shopping and dining scene. The trip combines independent sightseei",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "825bc12dfa70fefb",
-      "title": "HSBC Premier: Earn up to $3,000",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/HSBC-Premier-Earn-up-to-3-000/22169877.html?iref=rss",
-      "details": "Earn a cash bonus1 when you open an HSBC Premier2 checking account and complete qualifying activities. • Get $1,000: Deposit or invest $50,000 to $99,999 • Get $1,500: Deposit or invest $100,000 to $249,999 • Get $2,000: Deposit or invest $250,000 to $499,999 ",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "bf64215a092d6efb",
-      "title": "Upcoming: Target Black Friday Store Giveaways: Free $25 to $1,000 gift cards + free w/ $35",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Upcoming-Target-Black-Friday-Store-Giveaways-Free-25-to-1-000-gift-cards-free-w-35/22408695.html?iref=rss",
-      "details": "Target is holding a Black Friday Giveaway on November 27 at all stores. The first 100 eligible guests at each store gets a ticket about an hour before opening, which can be redeemed at the event in the first hour for a Target Gift Card worth $25, $50, or $100.",
+      "id": "b5fc24bd1e004bec",
+      "title": "Ewaiira 9.8\" Stainless Steel Sink Caddy $11.39",
+      "source": "TechBargains",
+      "url": "https://www.amazon.com/gp/product/B0DSZ9P85N/ref=ox_sc_act_title_1?smid=A2XQ7VMFV4HYAW&th=1",
+      "details": "Ewaiira 9.8\" Stainless Steel Sink Caddy $11.39",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -1848,30 +1832,6 @@
       "source": "TechBargains",
       "url": "https://www.walmart.com/ip/seort/8046752632",
       "details": "JBL Cinema SB580 3.1 Channel Soundbar with Wireless Subwoofer $199",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "2b18c449940958ee",
-      "title": "De'Longhi Magnifica Evo Espresso Machine (15-Bar) with 13-Settings $549.95",
-      "source": "TechBargains",
-      "url": "https://www.walmart.com/ip/seort/2877738057",
-      "details": "De'Longhi Magnifica Evo Espresso Machine (15-Bar) with 13-Settings $549.95",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "e41ac2987e5c08c2",
-      "title": "Govee x Pac-Man Smart Gaming Pixel Light $79.99",
-      "source": "TechBargains",
-      "url": "https://www.amazon.com/gp/product/B0DZ6QJ5ZC/ref=ox_sc_act_title_1?smid=A2KZ7X05DCDJDL&th=1",
-      "details": "Govee x Pac-Man Smart Gaming Pixel Light $79.99",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "79a85c8546985be2",
-      "title": "HW 3500mAh 1.5V AA Lithium Batteries (24-Pack) $14.89",
-      "source": "TechBargains",
-      "url": "https://www.amazon.com/gp/product/B0DJ7CLQ1J/ref=ox_sc_act_title_1?smid=AI0WONWMNF2H6&th=1",
-      "details": "HW 3500mAh 1.5V AA Lithium Batteries (24-Pack) $14.89",
       "status": "needs_official_retailer_price_pair"
     },
     {

@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-11-18T06:44:25.088429Z",
-  "count": 288,
+  "generated_at": "2026-11-18T07:16:48.276419Z",
+  "count": 290,
   "candidates": [
+    {
+      "id": "bf731f01d23e15ea",
+      "title": "5-Year AARP Membership $45",
+      "source": "Slickdeals Frontpage",
+      "url": "https://slickdeals.net/f/20327823-aarp-5-year-membership-45-9-year?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "details": "AARP has *5-Year AARP Membership* on sale for *$45*. Thanks to Deal Hunter *TattyBear* for sharing this deal. *Benefits of an AARP membership:* [LIST] [*]*Free* second household membership",
+      "status": "needs_official_retailer_price_pair"
+    },
     {
       "id": "8ce7fef1f60a0f1a",
       "title": "32 Degrees Women's Ultra-Comfy Everyday Pant (3 Colors) $9 + Free S&H on $23.75",
       "source": "Slickdeals Frontpage",
       "url": "https://slickdeals.net/f/20328894-32-degrees-women-s-ultra-comfy-everyday-pants-3-colors-8-99-free-shipping-on-24?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "details": "32 Degrees has *32 Degrees Women's Ultra-Comfy Everyday Pant* (various) on sale for *$8.99*. *Shipping is free* on orders $23.75+ w/ code SLICK24. * *Note*: Sizing and availability may vary. ...",
+      "details": "32 Degrees [32degrees.com] has *Women's Ultra-Comfy Everyday Pant* (3 Colors) on sale for $8.99. Shipping is free on $24+ with code SLICK24.",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -104,6 +112,54 @@
       "source": "Slickdeals Frontpage",
       "url": "https://slickdeals.net/f/20314722-2-7-94-get-4-walmart-cash-crest-toothpaste-premium-plus-scope-toothpaste-minty-fresh-flavor-5-2-oz-more?utm_source=rss&utm_content=fp&utm_medium=RSS2",
       "details": "https://www.walmart.com/ip/Crest-.../952439722 add two to cart and clip the $4/2 wmt cash offer. or 4.3 oz Pro Health Variety Scope TP https://www.walmart.com/ip/Crest-...5212126955",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "795253d0c722be38",
+      "title": "WYZE 1080p WiFi Indoor Window Security Camera w/ Color Night Vision $21.98 + Free Shipping w/ Prime or on $35+",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20331651-wyze-1080p-wifi-indoor-window-security-camera-w-color-night-vision-21-98-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Amazon [amazon.com] has *WYZE 1080p WiFi Indoor Window Security Camera w/ Color Night Vision* on sale for *$21.98*. Shipping is free w/ Prime or on orders $35+. *Compiled From Merchant's Product...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "56a7938eecdddeb1",
+      "title": "[AC] $12.99* | LINTYLE LED Gooseneck Desk Lamp w/ USB & Wireless Charging Port at Amazon",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20295630-ac-12-99-lintyle-led-gooseneck-desk-lamp-w-usb-wireless-charging-port-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "NEATEST & LINTYLE via Amazon [amazon.com] has *LINTYLE LED Gooseneck Desk Lamp w/ USB & Wireless Charging Port* for $25.99 - 50% at checkout = *$12.99*. *Shipping is free* with Prime or on $35+...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "6f5b51ff4c6f4674",
+      "title": "3-Mode Tecknet USB Mouse Jiggler w/ LED Indicator $4.99 + Free Shipping w/ Prime or on $35+",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20331624-3-mode-tecknet-usb-mouse-jiggler-w-led-indicator-4-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "electralink via Amazon [amazon.com] has *3-Mode Tecknet USB Mouse Jiggler w/ LED Indicator* on sale for $7.99 - $3 off when you apply promo code Y85BBSS7 at checkout = *$4.99*. Shipping is free w/...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "4ab8ee3cf7c63006",
+      "title": "Free $10 Best Buy e-Gift Card when you spend $100 or more on Select Gift Cards",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20331903-free-10-best-buy-e-gift-card-when-you-spend-100-or-more-on-select-gift-cards?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "https://www.bestbuy.com/site/prom...-gift-card",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "ecc20d2e2950dd89",
+      "title": "DeWalt 20-Volt MAX XR Lithium-Ion Cordless 10 in. Dual Bevel Fixed Miter Saw with 20-Volt MAX XR 8.0Ah Battery and Charger $429",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20317908-dewalt-20-volt-max-xr-lithium-ion-cordless-10-in-dual-bevel-fixed-miter-saw-with-20-volt-max-xr-8-0ah-battery-and-charger-429?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Free delivery from Home Depot. DCS714B As a next-generation XR tool, this saw makes up to 434 cuts in 3-1/4 in. MDF base molding and up to 311 cuts in 2 in. x 4 in. SPF. Designed to help maximize...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "a6fec0efb9214083",
+      "title": "Addtam Travel Essentials - Cruise Approved Power Strip with 5ft Retractable Cord Ultra Thin Flat Plug with 3 Outlets 4 USB $9.97 AC",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20305971-addtam-travel-essentials-cruise-approved-power-strip-with-5ft-retractable-cord-ultra-thin-flat-plug-with-3-outlets-4-usb-9-97-ac?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Addtam* Travel Essentials - Cruise Approved Power Strip with 5ft Retractable Cord Ultra Thin Flat Plug with 3 Outlets 4 USB* $9.97 AC Addtam 3 Outlets 4 USB (2 USB C), Non-Surge Protector for...",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -259,54 +315,6 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "f31bb3991c301a69",
-      "title": "365 by Whole Foods Market, Cashews, Seaweed Seasoned, 10 Ounce $4.23",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20309892-365-by-whole-foods-market-cashews-seaweed-seasoned-10-ounce-4-23?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "365 by Whole Foods Market, Cashews, Seaweed Seasoned, 10 Ounce $4.45 >... with subscribe and save >... $4.23 $0.42/oz https://www.amazon.com/gp/product/B09V91RFQX",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "51a90ebe2b39d08f",
-      "title": "Nintendo eShop: CONSCRIPT $5.49; SWORN $6.24; Blasphemous 2 $7.49 & More (Switch 1 / 2 Digital Games)",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20327757-nintendo-eshop-conscript-5-49-sworn-6-24-blasphemous-2-7-49-more-switch-1-2-digital-games?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Nintendo eShop [nintendo.com] has select *Switch & Switch 2 Digital Games* on sale for the prices below. Example Deals:[LIST][*]*Switch 2*[LIST][*]Clive Barker's Hellraiser: Revival Deluxe...",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "b0c1dbb59d62079b",
-      "title": "Allegiant Air & Sun Country 16 New Routes Mostly Starting From $49 One-Way (See Post For Destinations) - Book by November 18, 2026",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20327640-allegiant-air-sun-country-16-new-routes-mostly-starting-from-49-one-way-see-post-for-destinations-book-by-november-18-2026?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Launching in late spring 2027, Allegiant Air and recently acquired Sun Country Airlines, have 16 new nonstop routes starting from $49 one-way. See below for routes. *Allegiant Air*...",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "e967de6ab20d30d0",
-      "title": "Bosch Two-In-One 2-Amp 18-volt Brushless 1/2-in square Drive Cordless Impact Wrench (Battery Included and Charger Included) in Blue $99",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20325213-bosch-two-in-one-2-amp-18-volt-brushless-1-2-in-square-drive-cordless-impact-wrench-battery-included-and-charger-included-in-blue-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Available for pickup and fast delivery. Comes with a 2ah battery and charger https://www.lowes.com/pd/Bosch-Im...5015749243",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "f65ba61a715a8f80",
-      "title": "Prime Members: SUAWY 106\" 7-Seat Sectional Sleeper Sofa w/ Pull-Out Bed (Dark Gray or Black) $799.99",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20331072-prime-members-suawy-106-7-seat-sectional-sleeper-sofa-w-pull-out-bed-dark-gray-or-black-799-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Amazon [amazon.com] has *SUAWY 106\" U-Shaped 7-Seat Modular Sectional Sleeper Sofa with Pull-Out Bed (Dark Gray)* for *$799.99* for Prime members. The Yellow version is even cheaper but could go out...",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "50ab24a0e1c4c56a",
-      "title": "Disco Elysium - The Final Cut (PC) $4.19",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20329116-disco-elysium-the-final-cut-pc-4-19?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Steam required. https://www.loaded.com/disco-elys...t-pc-steam",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
       "id": "6196c9a92cc86b80",
       "title": "Fanttik C8 Nano Cordless Electric Scissors for $37 + free shipping",
       "source": "DealNews Latest",
@@ -355,11 +363,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "7cdc501fd0782dc4",
-      "title": "The North Face Fleece & Jacket Deals at eBay: Up to 63% off + buy 3, get 1 at 50% off + free shipping",
+      "id": "f7689624ebc26f3e",
+      "title": "Home Depot Black Friday Beverage Coolers Sale: Up to 20% off + free shipping",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/The-North-Face-Fleece-Jacket-Deals-at-eBay-Up-to-63-off-buy-3-get-1-at-50-off-free-shipping/22406110.html?iref=rss",
-      "details": "eBay has a selection of men’s and women’s The North Face fleece jackets and coats marked up to 63% off, with prices starting around $39. For extra savings, add three eligible items to your cart and use promo code “FASHUPNOV26” to take 50% off the lowest-priced",
+      "url": "https://www.dealnews.com/Home-Depot-Black-Friday-Beverage-Coolers-Sale-Up-to-20-off-free-shipping/22405719.html?iref=rss",
+      "details": "Home Depot is taking up to 20% off select beverage coolers, wine refrigerators, and combination wine and beverage coolers during its Black Friday Sale. Shop brands like SIMZLIFE, GE, Yeego, and Ca'Lefort. Plus, all items receive free shipping. Deal ends Decemb",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -411,11 +419,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "a1a62af5ab5777ae",
-      "title": "Argendon Dehumidifier Black Friday Deals: Up to 30% off + extra 8% off + free shipping",
+      "id": "210cd90fb833860e",
+      "title": "Tools! & More Tools! Sale at Woot: Up to 70% off + extra 20% off 3+ items + free shipping w/ Prime",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Argendon-Dehumidifier-Black-Friday-Deals-Up-to-30-off-extra-8-off-free-shipping/22405726.html?iref=rss",
-      "details": "At Argendon, promo code \"AWBF\" takes an extra 8% off sitewide on top of Black Friday markdowns of up to 30%. Save on crawl space, basement, commercial, and industrial dehumidifiers, including portable and heavy-duty models, plus dehumidifier filters, hanging k",
+      "url": "https://www.dealnews.com/Tools-More-Tools-Sale-at-Woot-Up-to-70-off-extra-20-off-3-items-free-shipping-w-Prime/22406029.html?iref=rss",
+      "details": "Woot’s Tools! & More Tools! sale features savings of up to 70% on outdoor power tools, hand tools, workshop accessories, and more. For additional savings, add any three items from the sale to your cart to take an extra 20% off at checkout. Amazon Prime members",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -467,11 +475,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "f7689624ebc26f3e",
-      "title": "Home Depot Black Friday Beverage Coolers Sale: Up to 20% off + free shipping",
+      "id": "a1a62af5ab5777ae",
+      "title": "Argendon Dehumidifier Black Friday Deals: Up to 30% off + extra 8% off + free shipping",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Home-Depot-Black-Friday-Beverage-Coolers-Sale-Up-to-20-off-free-shipping/22405719.html?iref=rss",
-      "details": "Home Depot is taking up to 20% off select beverage coolers, wine refrigerators, and combination wine and beverage coolers during its Black Friday Sale. Shop brands like SIMZLIFE, GE, Yeego, and Ca'Lefort. Plus, all items receive free shipping. Deal ends Decemb",
+      "url": "https://www.dealnews.com/Argendon-Dehumidifier-Black-Friday-Deals-Up-to-30-off-extra-8-off-free-shipping/22405726.html?iref=rss",
+      "details": "At Argendon, promo code \"AWBF\" takes an extra 8% off sitewide on top of Black Friday markdowns of up to 30%. Save on crawl space, basement, commercial, and industrial dehumidifiers, including portable and heavy-duty models, plus dehumidifier filters, hanging k",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -523,11 +531,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "7eeeed51aa946f92",
-      "title": "Paramount+ Student Discount: 50% off All Plans + free shipping",
+      "id": "583b4e8116369704",
+      "title": "Sleep Number Black Friday Mattress Deals: Up to 25% off + free shipping",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Paramount-Student-Discount-50-off-All-Plans-free-shipping/21867153.html?iref=rss",
-      "details": "New and returning students can sign up for Paramount+ and get 50% off any plan with this student discount. That means snagging the Paramount+ Essential plan for just $4.49 per month or $45 per year. If you want Paramount+ Premium, you'll pay $7 per month or $7",
+      "url": "https://www.dealnews.com/Sleep-Number-Black-Friday-Mattress-Deals-Up-to-25-off-free-shipping/22402895.html?iref=rss",
+      "details": "Sleep Number’s Black Friday Sale includes discounts of up to 25% on select adjustable mattresses. Save 25% on ClimateCool and Climate360 models, 20% on ComfortNext, ComfortNext Lux, and ComfortNext Ultra mattresses, and 10% on ComfortMode and ComfortMode Lux s",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -579,11 +587,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "210cd90fb833860e",
-      "title": "Tools! & More Tools! Sale at Woot: Up to 70% off + extra 20% off 3+ items + free shipping w/ Prime",
+      "id": "7cdc501fd0782dc4",
+      "title": "The North Face Fleece & Jacket Deals at eBay: Up to 63% off + buy 3, get 1 at 50% off + free shipping",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Tools-More-Tools-Sale-at-Woot-Up-to-70-off-extra-20-off-3-items-free-shipping-w-Prime/22406029.html?iref=rss",
-      "details": "Woot’s Tools! & More Tools! sale features savings of up to 70% on outdoor power tools, hand tools, workshop accessories, and more. For additional savings, add any three items from the sale to your cart to take an extra 20% off at checkout. Amazon Prime members",
+      "url": "https://www.dealnews.com/The-North-Face-Fleece-Jacket-Deals-at-eBay-Up-to-63-off-buy-3-get-1-at-50-off-free-shipping/22406110.html?iref=rss",
+      "details": "eBay has a selection of men’s and women’s The North Face fleece jackets and coats marked up to 63% off, with prices starting around $39. For extra savings, add three eligible items to your cart and use promo code “FASHUPNOV26” to take 50% off the lowest-priced",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -635,11 +643,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "34827f3164a21f48",
-      "title": "High Test Gummies Sitewide Sale: Extra 20% off + free shipping w/ $50",
+      "id": "9d0ced0f64b90c53",
+      "title": "AOVOPRO BK520 750W 26\" Electric Bike for $226 + free shipping",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/High-Test-Gummies-Sitewide-Sale-Extra-20-off-free-shipping-w-50/22402896.html?iref=rss",
-      "details": "Use coupon code \"DEALNEWS20\" to get this sitewide discount. It also stacks with High Test Gummies' in-cart discounts — if you buy five bottles, you get the fifth one free; or, if you buy six bottles or more, you get 20% off. Shipping adds $5, but orders of $50",
+      "url": "https://www.dealnews.com/AOVOPRO-BK520-750-W-26-Electric-Bike-for-226-free-shipping/22406070.html?iref=rss",
+      "details": "With promo code \"USAFF50\", this AOVOPRO BK520 electric bike drops to $226 at AliExpress, which is $20 less than our mention from a few days ago. The bike has front and rear suspension plus mechanical disc brakes, and it is built for paved streets and bike path",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -704,6 +712,14 @@
       "source": "DealNews Latest",
       "url": "https://www.dealnews.com/products/LG/LG-27-U421-A-B-27-1080-p-HDR10-Free-Sync-LED-Curved-Monitor/554482.html?iref=rss",
       "details": "With promo code \"NICEFIND10\", this open-box LG 27U421A-B curved monitor drops to $72 at eBay, down from a $175 list price. The seller, quickshipelectronics, includes a 1-year Allstate Protection Plans warranty and free 30-day returns. The monitor ships free, w",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "7eeeed51aa946f92",
+      "title": "Paramount+ Student Discount: 50% off All Plans + free shipping",
+      "source": "DealNews Editors",
+      "url": "https://www.dealnews.com/Paramount-Student-Discount-50-off-All-Plans-free-shipping/21867153.html?iref=rss",
+      "details": "New and returning students can sign up for Paramount+ and get 50% off any plan with this student discount. That means snagging the Paramount+ Essential plan for just $4.49 per month or $45 per year. If you want Paramount+ Premium, you'll pay $7 per month or $7",
       "status": "needs_official_retailer_price_pair"
     },
     {

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-18T07:16:48.276419Z",
-  "count": 290,
+  "generated_at": "2026-11-18T07:39:52.133622Z",
+  "count": 291,
   "candidates": [
     {
       "id": "bf731f01d23e15ea",
       "title": "5-Year AARP Membership $45",
       "source": "Slickdeals Frontpage",
       "url": "https://slickdeals.net/f/20327823-aarp-5-year-membership-45-9-year?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "details": "AARP has *5-Year AARP Membership* on sale for *$45*. Thanks to Deal Hunter *TattyBear* for sharing this deal. *Benefits of an AARP membership:* [LIST] [*]*Free* second household membership",
+      "details": "AARP is offering a *5-Year Membership for $45* (equivalent to just $9/year with a one-time payment of $45) *Benefits of an AARP membership:*[LIST][*]*FREE* second household membership...",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -63,7 +63,7 @@
       "title": "6.6' LISEN 140W 1-to-2 USB-C Splitter Charging Cable w/ Dual USB-C Outputs $13",
       "source": "Slickdeals Frontpage",
       "url": "https://slickdeals.net/f/20328111-6-6-lisen-140w-1-to-2-usb-c-splitter-charging-cable-w-dual-usb-c-outputs-12-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "details": "B King via Amazon [amazon.com] has *6.6' LISEN 140W 1-to-2 USB-C Splitter Charging Cable w/ Dual USB-C Outputs* on sale for $17.99 - $5 with promo code 75ZVGAHM = *$12.99*. Shipping is free w/ Prime...",
+      "details": "B King via Amazon has *6.6' LISEN 140W 1-to-2 USB-C Splitter Charging Cable w/ Dual USB-C Outputs* (Gray) on sale for *$12.99* when you apply promo code 75ZVGAHM on the checkout page. *Shipping is...",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -95,7 +95,7 @@
       "title": "Banana Republic Factory Sale: Men's Luxe Touch Bomber Jacket (2 Colors) $23.75 & More + Free S&H on $50+",
       "source": "Slickdeals Frontpage",
       "url": "https://slickdeals.net/f/20327238-banana-republic-factory-sale-men-s-luxe-bomber-jacket-23-76-more-free-shipping-on-50?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "details": "Banana Republic Factory [gapfactory.com] has *Up to 60% Off ** + an Extra 20% Off **Men's & Women's Apparel & an* *Extra 10% Off *w/ promo code EXTRA10 at checkout. Shipping is free on orders $50+...",
+      "details": "Banana Republic Factory has *Up to 60% Off* *+ an Extra 20% Off* *Men's & Women's Apparel & an* *Extra 10% Off* w/ promo code EXTRA10 at checkout. Shipping is free on orders $50+ for Rewards Members...",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -112,6 +112,38 @@
       "source": "Slickdeals Frontpage",
       "url": "https://slickdeals.net/f/20314722-2-7-94-get-4-walmart-cash-crest-toothpaste-premium-plus-scope-toothpaste-minty-fresh-flavor-5-2-oz-more?utm_source=rss&utm_content=fp&utm_medium=RSS2",
       "details": "https://www.walmart.com/ip/Crest-.../952439722 add two to cart and clip the $4/2 wmt cash offer. or 4.3 oz Pro Health Variety Scope TP https://www.walmart.com/ip/Crest-...5212126955",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "d4bf8dfeed6c0301",
+      "title": "Hisense 40\" QD4SR Series Hi-QLED FHD AI Smart Roku TV (40QD4SR, 2026) $139.99",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20318988-hisense-40-qd4sr-series-hi-qled-fhd-ai-smart-roku-tv-40qd4sr-2026-139-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Available at: * Amazon [amazon.com] * Best Buy [bestbuy.com] Amazon.com: Hisense 40\" Inch QD4SR Series Hi-QLED FHD AI Smart Roku TV (40QD4SR, 2026 New) – Dolby Audio, Compatible with Alexa,...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "0898fb3a9688293a",
+      "title": "JBL Live 780NC(2026): Wireless Over-Ear Noise Cancelling Headphones (Various Colors) $129.95 + Free S&H at Amazon",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20312901-jbl-live-780nc-2026-wireless-over-ear-noise-cancelling-headphones-various-colors-129-95-free-s-h-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Amazon.com has JBL Live 780NC(2026): Wireless Over-Ear Noise Cancelling Headphones (Various Colors) | JBL Signature Sound with Hi-Res Audio, True Adaptive Noise Cancelling 2.0, & up to 80 hours (or...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "c980add5bf26d8f5",
+      "title": "$8.99 | Pressure (DVD) at Amazon",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20302440-8-99-pressure-dvd-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Amazon [amazon.com] has *Pressure *(DVD) for *$8.99*. *Shipping is free* with Prime or on $35+ orders. amazon.com/dp/B0GZD5F3QK [amazon.com] Please report the deal if expired (click report ->...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "5bcf031c4d1813d9",
+      "title": "Monster S310 Upgraded Bluetooth Speaker, 30W Portable Speaker, 360° Stereo Sound with Punchy bass, TWS Pairing, IPX6 Waterproof, Bluetooth 5.2, 24H Playtime $18.89",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20331591-monster-s310-upgraded-bluetooth-speaker-30w-portable-speaker-360-stereo-sound-with-punchy-bass-tws-pairing-ipx6-waterproof-bluetooth-5-2-24h-playtime-18-89?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "MCT Store US via Amazon has Monster S310 Upgraded Bluetooth Speaker, 30W Portable Speaker for $18.89 when you clip coupon on product page and use code *Y2Z93AT2* at checkout ...",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -219,14 +251,6 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "323f3015e893d3c8",
-      "title": "788-Piece Lego Harry Potter Knockturn Alley Wizarding Shops (76471) $95.99 at Macy's",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20324445-788-piece-lego-harry-potter-knockturn-alley-wizarding-shops-76471-95-99-at-macy-s?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Macy's has 788-Piece Lego Harry Potter Knockturn Alley Wizarding Shops (76471) for $95.99. Shipping is free. https://www.macys.com/shop/produc..._kws=76471",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
       "id": "efb3917693e02a11",
       "title": "75 Gallon Large Outdoor Storage Deck Box with Lockable Lid & Heavy-Duty Hinged Door $31.59",
       "source": "Slickdeals Popular",
@@ -288,30 +312,6 @@
       "source": "Slickdeals Popular",
       "url": "https://slickdeals.net/f/20328051-best-western-hotels-resorts-bfcmtt-30-off-3-night-stays-through-2027-book-by-december-3-2026?utm_source=rss&utm_content=ht&utm_medium=RSS2",
       "details": "Best Western Hotels & Resorts is now part of WorldHotels, with more than 4,000 hotels worldwide. During this Cyber season, take 30% off 3+ nights. Also, don't forget to register (on the same home...",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "a8ff878ebf195d2f",
-      "title": "$159 JBL Cinema SB550 3.1 Channel Soundbar with Wireless Subwoofer, Corded Electric, Bluetooth",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20325990-159-jbl-cinema-sb550-3-1-channel-soundbar-with-wireless-subwoofer-corded-electric-bluetooth?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "https://www.walmart.com/ip/JBL-CI...hbdg=L1300",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "c31decf6b2f9a1ce",
-      "title": "$149.99 | Amazon Alexa Tablet 8 (all-new), 4GB RAM, 64GB, 8.7″ + 10% Back w/ Prime Visa Card at Amazon",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20325357-149-99-amazon-alexa-tablet-8-all-new-4gb-ram-64gb-8-7-10-back-w-prime-visa-card-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Amazon [amazon.com] has *Amazon Alexa Tablet 8 *(all-new), 4GB RAM, 64GB, 8.7″ for *$149.99*. *Shipping is free*.[list][*]*64GB (4GB RAM)*[list][*]Graphite [amazon.com] - *$149.99*[*]Rosette...",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "ef03a76e6d1ffe4d",
-      "title": "(starts 11/19) 65\" TCL S4CF 4K 60Hz Fire TV (2026) $230 + Free S/H",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20328603-starts-11-19-65-tcl-s4cf-4k-60hz-fire-tv-2026-230-free-s-h?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "(starts 11/19) deal [bestbuy.com] $230 + Free S/H source [bestbuy.com]",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -419,11 +419,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "210cd90fb833860e",
-      "title": "Tools! & More Tools! Sale at Woot: Up to 70% off + extra 20% off 3+ items + free shipping w/ Prime",
+      "id": "7eeeed51aa946f92",
+      "title": "Paramount+ Student Discount: 50% off All Plans + free shipping",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Tools-More-Tools-Sale-at-Woot-Up-to-70-off-extra-20-off-3-items-free-shipping-w-Prime/22406029.html?iref=rss",
-      "details": "Woot’s Tools! & More Tools! sale features savings of up to 70% on outdoor power tools, hand tools, workshop accessories, and more. For additional savings, add any three items from the sale to your cart to take an extra 20% off at checkout. Amazon Prime members",
+      "url": "https://www.dealnews.com/Paramount-Student-Discount-50-off-All-Plans-free-shipping/21867153.html?iref=rss",
+      "details": "New and returning students can sign up for Paramount+ and get 50% off any plan with this student discount. That means snagging the Paramount+ Essential plan for just $4.49 per month or $45 per year. If you want Paramount+ Premium, you'll pay $7 per month or $7",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -475,11 +475,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "a1a62af5ab5777ae",
-      "title": "Argendon Dehumidifier Black Friday Deals: Up to 30% off + extra 8% off + free shipping",
+      "id": "583b4e8116369704",
+      "title": "Sleep Number Black Friday Mattress Deals: Up to 25% off + free shipping",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Argendon-Dehumidifier-Black-Friday-Deals-Up-to-30-off-extra-8-off-free-shipping/22405726.html?iref=rss",
-      "details": "At Argendon, promo code \"AWBF\" takes an extra 8% off sitewide on top of Black Friday markdowns of up to 30%. Save on crawl space, basement, commercial, and industrial dehumidifiers, including portable and heavy-duty models, plus dehumidifier filters, hanging k",
+      "url": "https://www.dealnews.com/Sleep-Number-Black-Friday-Mattress-Deals-Up-to-25-off-free-shipping/22402895.html?iref=rss",
+      "details": "Sleep Number’s Black Friday Sale includes discounts of up to 25% on select adjustable mattresses. Save 25% on ClimateCool and Climate360 models, 20% on ComfortNext, ComfortNext Lux, and ComfortNext Ultra mattresses, and 10% on ComfortMode and ComfortMode Lux s",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -531,11 +531,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "583b4e8116369704",
-      "title": "Sleep Number Black Friday Mattress Deals: Up to 25% off + free shipping",
+      "id": "a1a62af5ab5777ae",
+      "title": "Argendon Dehumidifier Black Friday Deals: Up to 30% off + extra 8% off + free shipping",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Sleep-Number-Black-Friday-Mattress-Deals-Up-to-25-off-free-shipping/22402895.html?iref=rss",
-      "details": "Sleep Number’s Black Friday Sale includes discounts of up to 25% on select adjustable mattresses. Save 25% on ClimateCool and Climate360 models, 20% on ComfortNext, ComfortNext Lux, and ComfortNext Ultra mattresses, and 10% on ComfortMode and ComfortMode Lux s",
+      "url": "https://www.dealnews.com/Argendon-Dehumidifier-Black-Friday-Deals-Up-to-30-off-extra-8-off-free-shipping/22405726.html?iref=rss",
+      "details": "At Argendon, promo code \"AWBF\" takes an extra 8% off sitewide on top of Black Friday markdowns of up to 30%. Save on crawl space, basement, commercial, and industrial dehumidifiers, including portable and heavy-duty models, plus dehumidifier filters, hanging k",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -587,11 +587,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "7cdc501fd0782dc4",
-      "title": "The North Face Fleece & Jacket Deals at eBay: Up to 63% off + buy 3, get 1 at 50% off + free shipping",
+      "id": "34827f3164a21f48",
+      "title": "High Test Gummies Sitewide Sale: Extra 20% off + free shipping w/ $50",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/The-North-Face-Fleece-Jacket-Deals-at-eBay-Up-to-63-off-buy-3-get-1-at-50-off-free-shipping/22406110.html?iref=rss",
-      "details": "eBay has a selection of men’s and women’s The North Face fleece jackets and coats marked up to 63% off, with prices starting around $39. For extra savings, add three eligible items to your cart and use promo code “FASHUPNOV26” to take 50% off the lowest-priced",
+      "url": "https://www.dealnews.com/High-Test-Gummies-Sitewide-Sale-Extra-20-off-free-shipping-w-50/22402896.html?iref=rss",
+      "details": "Use coupon code \"DEALNEWS20\" to get this sitewide discount. It also stacks with High Test Gummies' in-cart discounts — if you buy five bottles, you get the fifth one free; or, if you buy six bottles or more, you get 20% off. Shipping adds $5, but orders of $50",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -715,11 +715,19 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "7eeeed51aa946f92",
-      "title": "Paramount+ Student Discount: 50% off All Plans + free shipping",
+      "id": "210cd90fb833860e",
+      "title": "Tools! & More Tools! Sale at Woot: Up to 70% off + extra 20% off 3+ items + free shipping w/ Prime",
       "source": "DealNews Editors",
-      "url": "https://www.dealnews.com/Paramount-Student-Discount-50-off-All-Plans-free-shipping/21867153.html?iref=rss",
-      "details": "New and returning students can sign up for Paramount+ and get 50% off any plan with this student discount. That means snagging the Paramount+ Essential plan for just $4.49 per month or $45 per year. If you want Paramount+ Premium, you'll pay $7 per month or $7",
+      "url": "https://www.dealnews.com/Tools-More-Tools-Sale-at-Woot-Up-to-70-off-extra-20-off-3-items-free-shipping-w-Prime/22406029.html?iref=rss",
+      "details": "Woot’s Tools! & More Tools! sale features savings of up to 70% on outdoor power tools, hand tools, workshop accessories, and more. For additional savings, add any three items from the sale to your cart to take an extra 20% off at checkout. Amazon Prime members",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "7cdc501fd0782dc4",
+      "title": "The North Face Fleece & Jacket Deals at eBay: Up to 63% off + buy 3, get 1 at 50% off + free shipping",
+      "source": "DealNews Editors",
+      "url": "https://www.dealnews.com/The-North-Face-Fleece-Jacket-Deals-at-eBay-Up-to-63-off-buy-3-get-1-at-50-off-free-shipping/22406110.html?iref=rss",
+      "details": "eBay has a selection of men’s and women’s The North Face fleece jackets and coats marked up to 63% off, with prices starting around $39. For extra savings, add three eligible items to your cart and use promo code “FASHUPNOV26” to take 50% off the lowest-priced",
       "status": "needs_official_retailer_price_pair"
     },
     {

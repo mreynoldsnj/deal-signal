@@ -32,7 +32,7 @@
     },
     {
       "id": "hd-husky-torque",
-      "status": "check_failed:HTTPError",
+      "status": "price_not_confirmed",
       "published": false
     },
     {
@@ -50,7 +50,7 @@
     {
       "source": "Slickdeals Frontpage",
       "status": "ok",
-      "items": 12
+      "items": 13
     },
     {
       "source": "Slickdeals Popular",

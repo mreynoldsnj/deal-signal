@@ -37,7 +37,7 @@
     },
     {
       "id": "hd-dewalt-oscillating",
-      "status": "check_failed:HTTPError",
+      "status": "price_not_confirmed",
       "published": false
     },
     {
@@ -55,17 +55,17 @@
     {
       "source": "Slickdeals Popular",
       "status": "ok",
-      "items": 25
+      "items": 24
     },
     {
       "source": "DealNews Latest",
       "status": "ok",
-      "items": 50
+      "items": 47
     },
     {
       "source": "DealNews Editors",
       "status": "ok",
-      "items": 50
+      "items": 47
     },
     {
       "source": "TechBargains",

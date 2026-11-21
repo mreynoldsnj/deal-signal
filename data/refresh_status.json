@@ -55,17 +55,17 @@
     {
       "source": "Slickdeals Popular",
       "status": "ok",
-      "items": 24
+      "items": 25
     },
     {
       "source": "DealNews Latest",
       "status": "ok",
-      "items": 49
+      "items": 42
     },
     {
       "source": "DealNews Editors",
       "status": "ok",
-      "items": 49
+      "items": 43
     },
     {
       "source": "TechBargains",

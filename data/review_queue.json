@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-11-22T06:22:11.531275Z",
-  "count": 277,
+  "generated_at": "2026-11-22T06:41:41.095117Z",
+  "count": 276,
   "candidates": [
+    {
+      "id": "8f7e26723613c1ca",
+      "title": "Exploding Kittens I Suck At Drawing Party Game $10",
+      "source": "Slickdeals Frontpage",
+      "url": "https://slickdeals.net/f/20363562-9-99-i-suck-at-drawing-family-party-game-for-kids-teens-adults-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "details": "Amazon [amazon.com] has *I Suck At Drawing – Family Party Game for Kids, Teens & Adults* for *$9.99*. *Shipping is free* with Prime or on $35+ orders. amazon.com/dp/B0H44BN6KH [amazon.com] ...",
+      "status": "needs_official_retailer_price_pair"
+    },
     {
       "id": "2e34888adf4d3a9f",
       "title": "6.5-Oz Badia Mango Pepper Seasoning $3",
@@ -43,19 +51,43 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "ae2f18e464b2fc6a",
-      "title": "TP-Link Kasa Smart Plug KP200 In-Wall Smart Home Wi-Fi Outlet $14.75",
-      "source": "Slickdeals Frontpage",
-      "url": "https://slickdeals.net/f/20362131-kasa-smart-plug-kp200-in-wall-smart-home-wi-fi-outlet-works-with-alexa-google-home-no-hub-required-remote-control-etl-certified-white-1-pack-14-73?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "details": "Kasa Smart Plug KP200, In-Wall Smart Home Wi-Fi Outlet | Works with Alexa, Google Home, No Hub Required, Remote Control, ETL Certified , White, 1-Pack https://www.amazon.com/dp/B07N3CK3MM",
+      "id": "efa3553a763501d4",
+      "title": "27\" Acer Nitro 1440p 275Hz IPS KG271U Z2bmiipx Gaming Monitor $141.99",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20342268-27-acer-nitro-1440p-275hz-ips-kg271u-z2bmiipx-gaming-monitor-141-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Acer Nitro 27in QHD 2560x1440 IPS 275Hz Gaming Monitor KG271U Z2bmiipx 0.5ms, AMD FreeSync Premium, 2xHDMI 2.1, DisplayPort, Speaker, VESA Mountable, Bluelight Filter, Flickerless Technology ...",
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "a26a6d69c5d16fc5",
-      "title": "4K Blu-ray Movies: Apollo 13, Waterwold, The Lost Boyz & More 3 for $33",
-      "source": "Slickdeals Frontpage",
-      "url": "https://slickdeals.net/f/20364855-33-for-3-items-4k-blu-rays-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "details": "[list][*]47 Ronin [amazon.com] (4K Ultra HD + Blu-ray + Digital HD)[*]A Star Is Born [amazon.com] (4K Ultra HD + Blu-ray)[*]Apollo 13 [amazon.com] (4K Ultra HD + Blu-ray + Digital 4K)[*]Aquaman...",
+      "id": "1cb463ce6fc35f44",
+      "title": "144-Pack 12\" Amazon Basics Microfiber Cleaning Cloths (Grey) $16.99 + Free Shipping w/ Prime or $6 Fee per Order",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20366715-144-pack-12-amazon-basics-microfiber-cleaning-cloths-grey-16-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Woot! [woot.com] has *144-Pack 12\" Amazon Basics Microfiber Cleaning Cloths (Grey)* on sale for *$16.99*. Shipping is free w/ Prime (must be signed in) or is otherwise a flat $6 fee per order.",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "72f24cdd899ee00a",
+      "title": "1.18-Oz celimax Pore & Dark Spot Brightening Face Cream w/ 5% Niacinamide & 5% Tranexamic Acid $13.07 w/ S&S + Free Shipping w/ Prime or on $35+",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20365842-1-18-oz-celimax-pore-dark-spot-brightening-face-cream-w-5-niacinamide-5-tranexamic-acid-13-07-w-s-s-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "971596a852cb5360",
+      "title": "15W Belkin BoostCharge Pro Qi2 Magnetic Wireless Charging Pad w/ Pop-Up Stand (Black) $14.99 + Free Pickup or Free Shipping w/ Best Buy Membership",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20339049-15w-belkin-boostcharge-pro-qi2-magnetic-wireless-charging-pad-w-pop-up-stand-black-14-99-free-pickup-or-free-shipping-w-best-buy-membership?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "*Best Buy* [bestbuy.com] has *15W Belkin BoostCharge Pro Qi2 Magnetic Wireless Charging Pad w/ Pop-Up Stand (Black)* on sale for *$14.99*. Shipping is free for My Best Buy members (free to join...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "4c6943f5dfd83c44",
+      "title": "YETI Hopper Flip 12 Portable Cooler, Ridgeline (various) - from $162.50",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20351934-yeti-hopper-flip-12-portable-cooler-ridgeline-various-from-162-50?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "https://www.amazon.com/dp/B0G62VTKS1",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -131,14 +163,6 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "c3557d6278e3b931",
-      "title": "LEATHERMAN Charge Plus TTI 19-in-1 Multi-Tool, EDC and Auto, Stainless",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20367294-leatherman-charge-plus-tti-19-in-1-multi-tool-edc-and-auto-stainless?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Deal is back in folks. https://www.amazon.com/dp/B079MJHYKC",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
       "id": "deea734a35abe697",
       "title": "CITIZEN Tsuyosa Automatic 40mm Blue Dial Men's Watch / Jomashop App required $254",
       "source": "Slickdeals Popular",
@@ -179,14 +203,6 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "be8f6adb58f68605",
-      "title": "Nintendo Switch 2 + Mario Kart World Bundle $499 + Free S&H at Walmart",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20367195-nintendo-switch-2-mario-kart-world-bundle-499-free-s-h-at-walmart?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Walmart.com has Nintendo Switch 2 + Mario Kart World Bundle for $499. Shipping is free. https://www.walmart.com/ip/Ninten...0865751029",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
       "id": "ea78c68fcecb0d37",
       "title": "Target: Up to 50% Off Stanley Drinkware + Free Store Pickup or Free Shipping on $35+",
       "source": "Slickdeals Popular",
@@ -224,30 +240,6 @@
       "source": "Slickdeals Popular",
       "url": "https://slickdeals.net/f/20334435-costco-online-only-made-better-bacon-style-dog-treats-with-collagen-prebiotics-48-oz-free-shipping-11-97?utm_source=rss&utm_content=ht&utm_medium=RSS2",
       "details": "Shipping is included. Online only. These have much better ingredients than the popular Beggin’ Strips or Amazon’s Basic Bac’n Brand. And at this price, they’re cheaper than either. It’s an...",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "ca8b6bfd6f6f8f3d",
-      "title": "$28.49: CATAN Board Game (6th Edition) | Trade, build and settle in a classic family strategy game. Ages 10+, 3-4 Players, 60-90 Min at Amazon",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20354478-28-49-catan-board-game-6th-edition-trade-build-and-settle-in-a-classic-family-strategy-game-ages-10-3-4-players-60-90-min-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "CATAN Board Game (6th Edition) | Trade, build and settle in a classic family strategy game. Ages 10+, 3-4 Players, 60-90 Min https://www.amazon.com/CATAN-Clas...B0DYK1ZH2D",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "2e74b8bdb571f97c",
-      "title": "Hankook Dynapro HT RH12 205/75R16C 113/111R Load E All-Season Van/Truck Tire - $114.72",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20332965-hankook-dynapro-ht-rh12-205-75r16c-113-111r-load-e-all-season-van-truck-tire-114-72?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Amazon [amazon.com] has *Hankook Dynapro HT RH12 205/75R16C 113/111R Load E All-Season Tire* for *$114.72*. Shipping is free w/ Prime or on orders $35+. All-season highway tire for vans, pickups,...",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "aeb3679af7bd42fd",
-      "title": "Giorgio Armani Acqua di Gio Elixir, 1.6 oz.",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20361468-giorgio-armani-acqua-di-gio-elixir-1-6-oz?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Macy's has the Giorgio Armani Aqua Di Gio Elixir 1.6 Oz for $102. This price is lower than many discounters like Jomashop. https://www.macys.com/shop/produc...6%2520more",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -299,11 +291,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "6551d98925744f65",
-      "title": "Sleep Number Essential Bedroom Furniture Black Friday Sale: 40% off + free shipping",
+      "id": "23891300dabaaaa7",
+      "title": "VideoProc Converter AI Lifetime License Black Friday Deal: Up to 65% off + digital delivery",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Sleep-Number-Essential-Bedroom-Furniture-Black-Friday-Sale-40-off-free-shipping/22405840.html?iref=rss",
-      "details": "Sleep Number's Black Friday Sale takes 40% off essential furniture including Lifestyle and Signature upholstered beds and headboards. Lifestyle side tables and support bars are also reduced. Shop Now at Sleep Number Features Upholstered beds and headboards in ",
+      "url": "https://www.dealnews.com/Video-Proc-Converter-AI-Lifetime-License-Black-Friday-Deal-Up-to-65-off-digital-delivery/22411446.html?iref=rss",
+      "details": "Digiarty is offering its lowest price of the year on VideoProc Converter AI for Windows and Mac for two weeks only, with up to 65% off a lifetime license, free lifetime updates, and gifts—including AI background removal tool and iPhone file manager. Whether yo",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -355,11 +347,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "3a5ea75c4a7db0f6",
-      "title": "Black Friday Sale at The Jacket Maker: Up to 25% off + extra 12% off + free shipping",
+      "id": "6551d98925744f65",
+      "title": "Sleep Number Essential Bedroom Furniture Black Friday Sale: 40% off + free shipping",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Black-Friday-Sale-at-The-Jacket-Maker-Up-to-25-off-extra-12-off-free-shipping/22402939.html?iref=rss",
-      "details": "Get 20% off all outerwear and 25% off leather bags and shoes, plus an extra 12% off with coupon code \"DN12TJM\" during The Jacket Maker's Black Friday Sale. Shop Now at The Jacket Maker Features Widest range with 450+ designs of men's and women's leather jacket",
+      "url": "https://www.dealnews.com/Sleep-Number-Essential-Bedroom-Furniture-Black-Friday-Sale-40-off-free-shipping/22405840.html?iref=rss",
+      "details": "Sleep Number's Black Friday Sale takes 40% off essential furniture including Lifestyle and Signature upholstered beds and headboards. Lifestyle side tables and support bars are also reduced. Shop Now at Sleep Number Features Upholstered beds and headboards in ",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -411,11 +403,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "23891300dabaaaa7",
-      "title": "VideoProc Converter AI Lifetime License Black Friday Deal: Up to 65% off + digital delivery",
+      "id": "d2f3ee6cf79dd58b",
+      "title": "SeekBox S3 Pro 4K Streaming Device for $159 + free shipping",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Video-Proc-Converter-AI-Lifetime-License-Black-Friday-Deal-Up-to-65-off-digital-delivery/22411446.html?iref=rss",
-      "details": "Digiarty is offering its lowest price of the year on VideoProc Converter AI for Windows and Mac for two weeks only, with up to 65% off a lifetime license, free lifetime updates, and gifts—including AI background removal tool and iPhone file manager. Whether yo",
+      "url": "https://www.dealnews.com/Seek-Box-S3-Pro-4-K-Streaming-Device-for-159-free-shipping/22417731.html?iref=rss",
+      "details": "The SeekBox S3 Pro streaming device is $159 at SeekBox, down from its regular price of $299, when using coupon code \"DEALNEWS\". It runs Android 11.0 with 4K playback up to 60 fps, 4GB of RAM, 64GB of storage, and Wifi 6 support for a stable connection while st",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -467,11 +459,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "d2f3ee6cf79dd58b",
-      "title": "SeekBox S3 Pro 4K Streaming Device for $159 + free shipping",
+      "id": "3a5ea75c4a7db0f6",
+      "title": "Black Friday Sale at The Jacket Maker: Up to 25% off + extra 12% off + free shipping",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Seek-Box-S3-Pro-4-K-Streaming-Device-for-159-free-shipping/22417731.html?iref=rss",
-      "details": "The SeekBox S3 Pro streaming device is $159 at SeekBox, down from its regular price of $299, when using coupon code \"DEALNEWS\". It runs Android 11.0 with 4K playback up to 60 fps, 4GB of RAM, 64GB of storage, and Wifi 6 support for a stable connection while st",
+      "url": "https://www.dealnews.com/Black-Friday-Sale-at-The-Jacket-Maker-Up-to-25-off-extra-12-off-free-shipping/22402939.html?iref=rss",
+      "details": "Get 20% off all outerwear and 25% off leather bags and shoes, plus an extra 12% off with coupon code \"DN12TJM\" during The Jacket Maker's Black Friday Sale. Shop Now at The Jacket Maker Features Widest range with 450+ designs of men's and women's leather jacket",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -523,11 +515,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "45116673411d7823",
-      "title": "Woot Black Friday Week Deals: Up to 78% off + free shipping w/ Prime",
+      "id": "754e592e43a52d4d",
+      "title": "Home Depot Black Friday Appliance Deals: Up to 45% off + bundle discounts + free delivery w/ $398",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Woot-Black-Friday-Week-Deals-Up-to-78-off-free-shipping-w-Prime/22411039.html?iref=rss",
-      "details": "Woot is taking up to 78% off select fragrances, luggage, cookware, home goods, apparel, accessories, toys, and more during its Black Friday Week Deals sale. Shop brands like DeWalt, Michael Kors, Calvin Klein, Tory Burch, Lenox, and ANTLER. Sale ends November ",
+      "url": "https://www.dealnews.com/Home-Depot-Black-Friday-Appliance-Deals-Up-to-45-off-bundle-discounts-free-delivery-w-398/22408187.html?iref=rss",
+      "details": "Home Depot’s Black Friday Sale features savings of up to 40% on refrigerators, washers, dryers, vacuums, and other appliances. Select washer and dryer sets and kitchen appliance bundles qualify for up to an extra $500 off in cart. Delivery fees vary, although ",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -571,11 +563,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "97866e55dca0dc24",
-      "title": "lululemon Black Friday Specials: Up to 84% off + free shipping",
+      "id": "b88bf44e2b2849f0",
+      "title": "lululemon Men's Black Friday Pants Specials for From $49 + free shipping",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/lululemon-Black-Friday-Specials-Up-to-84-off-free-shipping/22410988.html?iref=rss",
-      "details": "lululemon's Black Friday Specials are now live, with markdowns as high as 84%. Women's clothing and accessories see the highest of these discounts, but there's also around 50% off on lots of men's items and bags, as well as big drops on running shoes. Plus, it",
+      "url": "https://www.dealnews.com/lululemon-Mens-Black-Friday-Pants-Specials-for-From-49-free-shipping/22414611.html?iref=rss",
+      "details": "lululemon's Black Friday Savings on men's pants start at $49 for joggers and trousers alike. We've pictured the Soft Jersey Jogger, down from $98, and tied for the best price we've seen. The ABC Warpstreme Jogger is $54, down from $128, and the ABC Slim-Fit Tr",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -611,11 +603,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "d86fad9bba6a53bc",
-      "title": "eBay Live Rare Finds Holiday Actions for Deals from $1",
+      "id": "05afd0598294de7b",
+      "title": "Costco 1-Year Gold Star Membership for $65 w/ $45 Costco Shop Card + free shipping",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/eBay-Live-Rare-Finds-Holiday-Actions-for-Deals-from-1/22408351.html?iref=rss",
-      "details": "eBay Live has a full schedule of livestream auctions on rare finds running through the week, as part of its Best of Holiday event. Many shows list starting bids as low as a buck. The event will include auctions on luxury watches (featuring Rolex and Cartier), ",
+      "url": "https://www.dealnews.com/Costco-1-Year-Gold-Star-Membership-for-65-w-45-Costco-Shop-Card-free-shipping/22370289.html?iref=rss",
+      "details": "Join Costco as a new Gold Star member for $65, then be sure to enroll in auto renewal of your annual membership, and you'll receive a $45 Digital Costco Shop Card for free via the promo code \"NEWMBR26\". Note that this offer is only valid for new members or tho",
       "status": "needs_official_retailer_price_pair"
     },
     {

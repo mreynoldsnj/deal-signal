@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-11-22T09:15:09.277213Z",
-  "count": 286,
+  "generated_at": "2026-11-22T09:39:52.690708Z",
+  "count": 282,
   "candidates": [
+    {
+      "id": "7ab6368db452830b",
+      "title": "Costco Members: ASUS Vivobook Laptop: 16\" FHD+ OLED, Core 9 270H, 24GB, 1TB $900 + $15 S/H",
+      "source": "Slickdeals Frontpage",
+      "url": "https://slickdeals.net/f/20365539-asus-vivobook-16-16-fhd-oled-intel-core-9-270h-24gb-ddr5-1tb-ssd-899-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "details": "ASUS Vivobook 16\" OLED Laptop - Intel Core 9 Series 2 Processor - 2K (1920 x 1200) - 24GB RAM - 1TB SSD - Windows 11 Home | Costco https://www.costco.com/p/-/asus-v...4201001432",
+      "status": "needs_official_retailer_price_pair"
+    },
     {
       "id": "67750c22b2b622c3",
       "title": "DashPass Members: Grand Theft Auto VI (Xbox Series X/S Digital) from $68",
@@ -15,7 +23,7 @@
       "title": "16-Ct Energizer Max Alkaline Batteries (AA or AAA) + Earn $5 Back on $20+ Offer $11 or Less + Free Pickup",
       "source": "Slickdeals Frontpage",
       "url": "https://slickdeals.net/f/20329701-live-11-22-target-10-89-energizer-max-16ct-aa-or-aaa-batteries-target-buy-2-get-5-rebate-from-energizer?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "details": "AA 16 ct $10.89 https://www.target.com/p/energize...t=14772890 AAA 16 ct $10.89 https://www.target.com/p/energize...t=90592657 $5 Rebate link on $20+",
+      "details": "Target has select *Energizer Max Alkaline Batteries* (AA or AAA) on sale listed below. Select free store pickup where stock permits, otherwise *Shipping is free* w/ Target Circle Card, Target Circle...",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -23,7 +31,7 @@
       "title": "$50 Google Play Gift Card + $5 Bonus Target eGift Card $50",
       "source": "Slickdeals Frontpage",
       "url": "https://slickdeals.net/f/20329680-target-11-22-29-buy-50-google-play-egc-get-5-target-gc?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "details": "Target offers *$5 Bonus eGift Card* when you *spend $50+ on Google Play Gift Card*. * Note: Offer valid in stores and online. Gift card retrieval method varies between email delivery, shipping, and...",
+      "details": "https://www.target.com/p/google-p...t=52943130 * DEAL BEGINS SUNDAY 11/22!! * $5 Target GC with $50 GOOGLE PLAY GC",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -83,19 +91,91 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "0a1b93ef3b9a9727",
-      "title": "6-Pc NULAS Nonstick Kitchen Knife Set w/ Covers (Black) $7",
-      "source": "Slickdeals Frontpage",
-      "url": "https://slickdeals.net/f/20364066-nulas-13-piece-kitchen-knife-set-with-covers-and-built-in-sharpener-6-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "details": "50% Black Friday Deal plus use code ZK748KMC for discount. If code doesn't work, try again in a few hours. 6 Cooking & Cutting Knives with Sheaths, Kitchen Shears, 15° V-Shaped Edges, Nonstick...",
+      "id": "d39625c62efc0cb3",
+      "title": "$29.99: Just Dance Decades of Hits - Limited Edition - Nintendo Switch Code In Box at Amazon",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20368407-29-99-just-dance-decades-of-hits-limited-edition-nintendo-switch-code-in-box-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "$29.99: Just Dance Decades of Hits - Limited Edition - Nintendo Switch Code In Box at Amazon Shipping is free with Prime or on $35+ orders. https://www.amazon.com/dp/B0H7FF64NK?psc=1",
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "afc9d2fbb645ec4a",
-      "title": "Dockers Men's Athletic Fit Khaki Stretch Pants (30W x 32L Only, Navy) $18.40 or less",
-      "source": "Slickdeals Frontpage",
-      "url": "https://slickdeals.net/f/20365173-dockers-men-s-signature-khaki-pants-premium-lux-cotton-stretch-athletic-fit-navy-30-32-18-40-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "details": "Amazon has *Dockers Men's Athletic Fit Signature Khaki Lux Cotton Stretch Pants* (30W x 32L Only, Navy) on sale for *$18.40* (or less). *Shipping is free* with Prime or on $35+ orders. Thanks to...",
+      "id": "f1bb47edfd04a7d3",
+      "title": "Lenovo Yoga 7 2-in-1: 14\" FHD+ OLED Touch, Ryzen AI 5 340, 16GB LPDDR5, 1TB SSD $704.99",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20367117-lenovo-yoga-7-2-in-1-14-fhd-oled-touch-ryzen-ai-5-340-16gb-lpddr5-1tb-ssd-704-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "eCoupon at checkout (if not pre-applied): FLASHSALE8 *SPECS:*[list][*]Processor: AMD Ryzen™ AI 5 340 Processor (2.00 GHz up to 4.80 GHz)[*]Operating System: Windows 11 Home 64[*]Graphic Card:...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "a31178447c63959c",
+      "title": "2001: A Space Odyssey / Clockwork Orange, A / The Shining Blu Ray $10.99 Amazon.com",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20366634-2001-a-space-odyssey-clockwork-orange-a-the-shining-blu-ray-10-99-amazon-com?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "9ec75e420110fa92",
+      "title": "$19.99* | Final Fantasy VII Remake Integrade Nintendo Switch 2 (Standard) at Amazon",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20367951-19-99-final-fantasy-vii-remake-integrade-nintendo-switch-2-standard-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Amazon [amazon.com] has *Final Fantasy VII Remake Integrade Nintendo Switch 2 *(Standard) for *$19.99*. *Shipping is free* with Prime or on $35+ orders. *** Previous *Frontpage Deal* at *$25*...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "6ff49b8c7fed84d1",
+      "title": "UA ST Court Men's Shoes (2 options) - $36.16 + FS",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20367285-ua-st-court-men-s-shoes-2-options-36-16-fs?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "On sale for $66.97 extra 40% off with promo code: *BLACKFRIDAY* + extra 10% off + free shipping (no minimum) with promo code: *EXTRA10*. https://www.underarmour.com/en-us..._color=001",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "81af06f4e4892fd1",
+      "title": "Refurbished Insta360 X4 8K Panoramic Action Camera $284.26",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20346321-refurbished-insta360-x4-8k-panoramic-action-camera-284-26?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Aliexpress has Refurbished Insta360 X4 8K Panoramic Action Camera for $284.26 with code *SAVING50G* https://www.aliexpress.us/item/32...76922.html",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "36c54f1149cda55b",
+      "title": "$29.99: DRAGON QUEST XI S: Echoes of an Elusive Age - Definitive Edition - Nintendo Switch 2 at Amazon",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20368347-29-99-dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "$29.99: DRAGON QUEST XI S: Echoes of an Elusive Age - Definitive Edition - Nintendo Switch 2 at Amazon Shipping is free with Prime or on $35+ orders. https://www.amazon.com/dp/B0H34894QP?psc=1",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "8e20a08ecdb3bb1d",
+      "title": "$48.97* | Super Mario Galaxy + Super Mario Galaxy 2 (Switch) at Amazon",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20367816-48-97-super-mario-galaxy-super-mario-galaxy-2-switch-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Amazon [amazon.com] has *Super Mario Galaxy + Super Mario Galaxy 2 *(Switch) for *$48.97*. *Shipping is free*. *** Previous *🔥Frontpage Deal* at *$49* with *134* Deal Score and 16 comments ...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "93f8695845fb45cd",
+      "title": "$199.99, FS, 2 yr warranty, REFURB Dyson V9 Motorbar™ Vacuum | Dark Nickel/Gloss Nickel, ebay",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20365311-199-99-fs-2-yr-warranty-refurb-dyson-v9-motorbar-vacuum-dark-nickel-gloss-nickel-ebay?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "dysonofficial via ebay has REFURBISHED Dyson V9 Motorbar™ Vacuum | Dark Nickel/Gloss Nickel for $199.99 with promo code *SHOPDYSON*. Shipping is free. Two year warranty provided by Allstate. ...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "cfa4d233b8f6ce68",
+      "title": "Bose QuietComfort Wireless Bluetooth Headphones, Petal Pink $124.88 + Free S&H at Amazon",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20367786-bose-quietcomfort-wireless-bluetooth-headphones-petal-pink-124-88-free-s-h-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Amazon.com has Bose QuietComfort Headphones - Wireless Bluetooth Headphones, Active Over Ear Noise Cancelling and Mic, USB-C Charging, Deep Bass, Up to 24 Hours of Playtime, Petal Pink - Limited...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "7396f8b6e9a92250",
+      "title": "Inspirational 4-Movie Collection (Field of Dreams / Seabiscuit / Friday Night Lights / Cinderella Man) [Blu-ray] $10.99 Amazon.com",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20366613-inspirational-4-movie-collection-field-of-dreams-seabiscuit-friday-night-lights-cinderella-man-blu-ray-10-99-amazon-com?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -211,91 +291,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "0a3c60ab20d83fc8",
-      "title": "Tissot Bellissima, Swiss Automatic, 29mm, White Dial, Women’s Watch $556.5",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20366100-tissot-bellissima-swiss-automatic-29mm-white-dial-women-s-watch-556-5?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Tissot Bellissima, Swiss Automatic, 29mm, White Dial, Women’s Watch [amazon.com] $556.50",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "9f4a66ab3ee6ea15",
-      "title": "Sonos Arc Ultra Soundbar $799 + Free S/H",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20366094-sonos-arc-ultra-soundbar-799-free-s-h?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "available in black [adorama.com] or white [adorama.com] *$799 + Free S/H* w/ code *JHCE9926*",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "e07eeeb9d5d399c9",
-      "title": "Powermatic 5-HP Spindle Shaper, 30\" x 40\" Table, 230V 1Ph (Model PM2700) $4575",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20366061-powermatic-5-hp-spindle-shaper-30-x-40-table-230v-1ph-model-pm2700-4575?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Powermatic 5-HP Spindle Shaper, 30\" x 40\" Table, 230V 1Ph (Model PM2700) [amazon.com] $4,575.00",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "dd108ebacd6859e1",
-      "title": "12-Oz Jet-Puffed Marshmallows $1.38 w/ S&S + Free Shipping w/ Prime or on $35+",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20365998-12-oz-jet-puffed-marshmallows-1-38-w-s-s-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Amazon [amazon.com] has *12-Oz Jet-Puffed Marshmallows* for $1.98 - 25% off when you 'clip' the coupon on product page [amazon.com] - 5% off when you checkout via Subscribe & Save = *$1.38*. Shipping...",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "94d8143fe4dcf2cf",
-      "title": "GAP Men's 7\" Essential Short (Balsam, 28) $13.47 - Amazon",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20365719-gap-men-s-7-essential-short-balsam-28-13-47-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Amazon [amazon.com] has *7\" GAP Men's Essential Short (Balsam, 28)* on sale for *$13.47*. Shipping is free w/ Prime or on orders of $35+. This item is shipped and sold by Amazon. Casual men's...",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "636f29d51dcb2646",
-      "title": "Coleman Cascade 18 1-Burner 8000 BTU Portable Camping Stove $76.99 + Free Shipping",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20319930-coleman-cascade-18-1-burner-8000-btu-portable-camping-stove-76-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Amazon [amazon.com] has *Coleman Cascade 18 1-Burner 8000 BTU Portable Camping Stove* on sale for *$76.99*. *Shipping is free*. *Don't have Amazon Prime?*[LIST][*]Students can get a free 6-Month...",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "f2d81f863c713171",
-      "title": "RYOBI ONE+ 18V Cordless Performance Handheld Vacuum (Tool only) $34.97",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20366226-ryobi-one-18v-cordless-performance-handheld-vacuum-tool-only-34-97?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Available for ship to store and delivery https://www.homedepot.com/p/RYOBI...-n/a-_-n/a",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "7473767b2331506e",
-      "title": "Tissot Chemin des Tourelles, Swiss Powermatic 80, 39 mm, Silver Dial, Unisex Watch $512.5",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20366220-tissot-chemin-des-tourelles-swiss-powermatic-80-39-mm-silver-dial-unisex-watch-512-5?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Tissot Chemin des Tourelles, Swiss Powermatic 80, 39 mm, Silver Dial, Unisex Watch [amazon.com] $512.50",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "1ca9db0d69b133b5",
-      "title": "3.52-Oz COSRX Advanced Snail 92 All-in-One Face Cream $12.59 w/ S&S + Free Shipping w/ Prime or on $35+",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20366535-3-52-oz-cosrx-advanced-snail-92-all-in-one-face-cream-12-59-w-s-s-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "COSRX via Amazon [amazon.com] has *3.52-Oz COSRX Advanced Snail 92 All-in-One Face Cream* on sale for $13.99 - 10% off when you checkout via Subscribe & Save = *$12.59*. *Shipping is free *w/ Prime...",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "78aa2fb4944b0157",
-      "title": "14-Pack Hanes Women's No-Show Socks (Size 8-12, White) $9.99 + Free Shipping w/ Prime or on $35+",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20366403-14-pack-hanes-women-s-no-show-socks-size-8-12-white-9-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Amazon [amazon.com] has *14-Pack Hanes Women's No-Show Socks (Size 8-12, White)* on sale for *$9.99*. Shipping is free w/ Prime or on orders $35+. *Don't have Amazon Prime?*[LIST][*]Students can...",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "0836eee1fc9ac7e5",
-      "title": "Aimilove Wireless Rechargeable Red Light LED Therapy Face Mask w/ 4 Modes $42.74 AC",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20366358-aimilove-wireless-rechargeable-red-light-led-therapy-face-mask-w-4-modes-42-74-ac?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Aimilove *Wireless Rechargeable Red Light LED Therapy Face Mask w/ 4 Modes* $42.74 AC Skin-Friendly Silicone for Full-Face Comfort​, 336 LEDs, 850nm NIR & 660nm Red Light, 4 Modes, Full Coverage,...",
+      "id": "be4fdc2e1a66fa66",
+      "title": "Target Black Friday Sale 2026: Up to 50% off + free shipping w/ $35",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/Target-Black-Friday-Sale-2026-Up-to-50-off-free-shipping-w-35/22420539.html?iref=rss",
+      "details": "Target's Black Friday Sale is now live with huge discounts across the store on electronics, toys, kitchen, floor care, clothing, and Christmas decor. Some standouts include the Beats Studio Pro Bluetooth headphones, which are $140, down from $350, and the Appl",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -339,19 +339,19 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
+      "id": "3a5ea75c4a7db0f6",
+      "title": "Black Friday Sale at The Jacket Maker: Up to 25% off + extra 12% off + free shipping",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/Black-Friday-Sale-at-The-Jacket-Maker-Up-to-25-off-extra-12-off-free-shipping/22402939.html?iref=rss",
+      "details": "Get 20% off all outerwear and 25% off leather bags and shoes, plus an extra 12% off with coupon code \"DN12TJM\" during The Jacket Maker's Black Friday Sale. Shop Now at The Jacket Maker Features Widest range with 450+ designs of men's and women's leather jacket",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
       "id": "b5245617137d1985",
       "title": "Milwaukee Black Friday Deals at Home Depot: Up to 65% off + free tools w/ purchase + free shipping on most items",
       "source": "DealNews Latest",
       "url": "https://www.dealnews.com/Milwaukee-Black-Friday-Deals-at-Home-Depot-Up-to-65-off-free-tools-w-purchase-free-shipping-on-most-items/22351173.html?iref=rss",
       "details": "As part of the Home Depot Black Friday Sale, there are lots of good deals on Milwaukee power tools, combo kits, and batteries and chargers. Discounts are as high as 65%, and many of the power tools and batteries come with extra free tools (some worth as much a",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "d2f3ee6cf79dd58b",
-      "title": "SeekBox S3 Pro 4K Streaming Device for $159 + free shipping",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Seek-Box-S3-Pro-4-K-Streaming-Device-for-159-free-shipping/22417731.html?iref=rss",
-      "details": "The SeekBox S3 Pro streaming device is $159 at SeekBox, down from its regular price of $299, when using coupon code \"DEALNEWS\". It runs Android 11.0 with 4K playback up to 60 fps, 4GB of RAM, 64GB of storage, and Wifi 6 support for a stable connection while st",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -395,19 +395,19 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "f01d937fdb3b3084",
-      "title": "Open-Box Apple Watch Series 11 42mm Smartwatch for $255 + free shipping",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Open-Box-Apple-Watch-Series-11-42-mm-Smartwatch-for-255-free-shipping/22417975.html?iref=rss",
-      "details": "With promo code \"VIPNOVTAKE8\", this open-box Apple Watch Series 11 drops to $255 at eBay, down from a $399 list price. The seller lists the condition as excellent with no wear and offers 30-day returns with the seller paying return shipping. The code expires D",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
       "id": "6551d98925744f65",
       "title": "Sleep Number Essential Bedroom Furniture Black Friday Sale: 40% off + free shipping",
       "source": "DealNews Latest",
       "url": "https://www.dealnews.com/Sleep-Number-Essential-Bedroom-Furniture-Black-Friday-Sale-40-off-free-shipping/22405840.html?iref=rss",
       "details": "Sleep Number's Black Friday Sale takes 40% off essential furniture including Lifestyle and Signature upholstered beds and headboards. Lifestyle side tables and support bars are also reduced. Shop Now at Sleep Number Features Upholstered beds and headboards in ",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "f01d937fdb3b3084",
+      "title": "Open-Box Apple Watch Series 11 42mm Smartwatch for $255 + free shipping",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/Open-Box-Apple-Watch-Series-11-42-mm-Smartwatch-for-255-free-shipping/22417975.html?iref=rss",
+      "details": "With promo code \"VIPNOVTAKE8\", this open-box Apple Watch Series 11 drops to $255 at eBay, down from a $399 list price. The seller lists the condition as excellent with no wear and offers 30-day returns with the seller paying return shipping. The code expires D",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -451,19 +451,19 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
+      "id": "23891300dabaaaa7",
+      "title": "VideoProc Converter AI Lifetime License Black Friday Deal: Up to 65% off + digital delivery",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/Video-Proc-Converter-AI-Lifetime-License-Black-Friday-Deal-Up-to-65-off-digital-delivery/22411446.html?iref=rss",
+      "details": "Digiarty is offering its lowest price of the year on VideoProc Converter AI for Windows and Mac for two weeks only, with up to 65% off a lifetime license, free lifetime updates, and gifts—including AI background removal tool and iPhone file manager. Whether yo",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
       "id": "dfaf69d8bce7af98",
       "title": "adidas Men's Black Friday Hats & Accessories Deals: Up to 60% off + extra 15% off + free shipping",
       "source": "DealNews Latest",
       "url": "https://www.dealnews.com/adidas-Mens-Black-Friday-Hats-Accessories-Deals-Up-to-60-off-extra-15-off-free-shipping/22417934.html?iref=rss",
       "details": "adidas is running a Black Friday sale on men's hats, with markdowns reaching 60% on select caps. Even better, use promo code \"DN15\" to get an extra 15% off your order. The Manchester United Baseball Cap drops to $14, and the Hydrophobic 2.0 Tour Hat is $18. Be",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "3a5ea75c4a7db0f6",
-      "title": "Black Friday Sale at The Jacket Maker: Up to 25% off + extra 12% off + free shipping",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Black-Friday-Sale-at-The-Jacket-Maker-Up-to-25-off-extra-12-off-free-shipping/22402939.html?iref=rss",
-      "details": "Get 20% off all outerwear and 25% off leather bags and shoes, plus an extra 12% off with coupon code \"DN12TJM\" during The Jacket Maker's Black Friday Sale. Shop Now at The Jacket Maker Features Widest range with 450+ designs of men's and women's leather jacket",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -507,19 +507,19 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
+      "id": "b88bf44e2b2849f0",
+      "title": "lululemon Men's Black Friday Pants Specials for From $49 + free shipping",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/lululemon-Mens-Black-Friday-Pants-Specials-for-From-49-free-shipping/22414611.html?iref=rss",
+      "details": "lululemon's Black Friday Savings on men's pants start at $49 for joggers and trousers alike. We've pictured the Soft Jersey Jogger, down from $98, and tied for the best price we've seen. The ABC Warpstreme Jogger is $54, down from $128, and the ABC Slim-Fit Tr",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
       "id": "ff41487e3c39c10b",
       "title": "Amazon Echo Glow Smart Lamp for $19 + free shipping w/ Prime",
       "source": "DealNews Latest",
       "url": "https://www.dealnews.com/products/Amazon/Amazon-Echo-Glow-Smart-Lamp/276086.html?iref=rss",
       "details": "The Amazon Echo Glow is $10 off at Amazon and at its best price of the year. It pairs with compatible Alexa devices such as the Echo Dot, Echo Dot Kids, or Echo Pop Kids for voice control of color and brightness. Shipping is free with Prime. Buy Now at Amazon ",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "23891300dabaaaa7",
-      "title": "VideoProc Converter AI Lifetime License Black Friday Deal: Up to 65% off + digital delivery",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Video-Proc-Converter-AI-Lifetime-License-Black-Friday-Deal-Up-to-65-off-digital-delivery/22411446.html?iref=rss",
-      "details": "Digiarty is offering its lowest price of the year on VideoProc Converter AI for Windows and Mac for two weeks only, with up to 65% off a lifetime license, free lifetime updates, and gifts—including AI background removal tool and iPhone file manager. Whether yo",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -563,19 +563,19 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
+      "id": "fa336389ddcaedfd",
+      "title": "Microsoft Bundle: Windows 11 Pro + Office Professional 2024 + Visio 2024 Professional (Bonus: Visio Templates) for $15 + digital delivery",
+      "source": "DealNews Latest",
+      "url": "https://www.dealnews.com/Microsoft-Bundle-Windows-11-Pro-Office-Professional-2024-Visio-2024-Professional-Bonus-Visio-Templates-for-15-digital-delivery/22411060.html?iref=rss",
+      "details": "Get three powerful Microsoft products in one bundle for just $14.99 (regularly $39.99) with exclusive promo code \"DEALNEWS15\". Included is Windows 11 Pro, Microsoft Office Professional 2024, Microsoft Visio Professional 2024, as well as bonus Visio templates. ",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
       "id": "25473c0c1f6d6256",
       "title": "White Window Sealing Tape 90-Foot Roll for $8 + free shipping w/ Prime",
       "source": "DealNews Latest",
       "url": "https://www.dealnews.com/White-Window-Sealing-Tape-90-Foot-Roll-for-8-free-shipping-w-Prime/22417783.html?iref=rss",
       "details": "At Amazon, get this White Window Sealing Tape 90-Foot Roll for $7.99. It's the best price Amazon has charged for this roll. The roll covers 90 feet, enough to seal several windows against winter drafts. It tears by hand and is made to come off without leaving ",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "1faafb65e9e73b4d",
-      "title": "Refurb Unlocked Samsung Galaxy Phone Deals at eBay: Up to 80% off + free shipping",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Refurb-Unlocked-Samsung-Galaxy-Phone-Deals-at-eBay-Up-to-80-off-free-shipping/22411134.html?iref=rss",
-      "details": "If you can't afford to buy a new Samsung phone, you can get some great deals on refurbished devices at eBay instead. There's up to 80% off in this sale section, even though the banner says up to 50% off). Plus, eBay says its Certified Refurbished items come wi",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -611,19 +611,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "b4a0afe371537160",
-      "title": "Prime Video Black Friday Subscription Deals: Up to 79% off",
+      "id": "4007e5756bf7d4b4",
+      "title": "2,000W Vertical Axis Wind Turbine Generator for $160 + free shipping",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Prime-Video-Black-Friday-Subscription-Deals-Up-to-79-off/22411011.html?iref=rss",
-      "details": "Prime Video takes up to 79% off select streaming channel subscriptions during its Black Friday Sale. Deals include AMC+ Premium for $2.75/month, Paramount+ Premium for $2.99/month, STARZ for $2.99/month, and Apple TV for $6.99/month. Promotional rates last fro",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "03bc6a3bc4e39767",
-      "title": "adidas Black Friday Sale: Up to 60% off + free shipping",
-      "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/adidas-Black-Friday-Sale-Up-to-60-off-free-shipping/22414577.html?iref=rss",
-      "details": "The adidas Black Friday Sale has just gone live, with discounts of up to 60% off across the store. Plus, you can use our promo code \"DN15\" to take an extra 15% off most items. It puts many pairs of shoes and clothing items at best-ever prices, including winter",
+      "url": "https://www.dealnews.com/2-000-W-Vertical-Axis-Wind-Turbine-Generator-for-160-free-shipping/22414649.html?iref=rss",
+      "details": "With promo code \"BFDEAL36\", this 2,000W wind turbine generator has fallen to just $160 at AliExpress. That's another $6 drop since last week and the best deal we've seen for this model. You can get a 12V, 24V, or 48V one at this price. Output at a 22mph wind i",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -659,35 +651,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "c2e60c5c411ba491",
-      "title": "Free Country Black Friday Sale: 50% off + extra reward points + free shipping w/ $99",
+      "id": "cb8864bd9d15c369",
+      "title": "Microsoft Visual Studio 2026 Professional (Lifetime License, 1 PC) for $30 + digital delivery",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Free-Country-Black-Friday-Sale-50-off-extra-reward-points-free-shipping-w-99/22402898.html?iref=rss",
-      "details": "Get 50% off sale items via code \"BF50\" during Free Country's Black Friday Sale. Plus, earn 2x, 3x, and 5x extra reward points during the event. Shipping adds $9.99 but orders of $99 or more get free shipping. Deal ends November 22. Shop Now at Free Country Fea",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "45116673411d7823",
-      "title": "Woot Black Friday Week Deals: Up to 78% off + free shipping w/ Prime",
-      "source": "DealNews Editors",
-      "url": "https://www.dealnews.com/Woot-Black-Friday-Week-Deals-Up-to-78-off-free-shipping-w-Prime/22411039.html?iref=rss",
-      "details": "Woot is taking up to 78% off select fragrances, luggage, cookware, home goods, apparel, accessories, toys, and more during its Black Friday Week Deals sale. Shop brands like DeWalt, Michael Kors, Calvin Klein, Tory Burch, Lenox, and ANTLER. Sale ends November ",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "97866e55dca0dc24",
-      "title": "lululemon Black Friday Specials: Up to 84% off + free shipping",
-      "source": "DealNews Editors",
-      "url": "https://www.dealnews.com/lululemon-Black-Friday-Specials-Up-to-84-off-free-shipping/22410988.html?iref=rss",
-      "details": "lululemon's Black Friday Specials are now live, with markdowns as high as 84%. Women's clothing and accessories see the highest of these discounts, but there's also around 50% off on lots of men's items and bags, as well as big drops on running shoes. Plus, it",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "d86fad9bba6a53bc",
-      "title": "eBay Live Rare Finds Holiday Actions for Deals from $1",
-      "source": "DealNews Editors",
-      "url": "https://www.dealnews.com/eBay-Live-Rare-Finds-Holiday-Actions-for-Deals-from-1/22408351.html?iref=rss",
-      "details": "eBay Live has a full schedule of livestream auctions on rare finds running through the week, as part of its Best of Holiday event. Many shows list starting bids as low as a buck. The event will include auctions on luxury watches (featuring Rolex and Cartier), ",
+      "url": "https://www.dealnews.com/Microsoft-Visual-Studio-2026-Professional-Lifetime-License-1-PC-for-30-digital-delivery/22411062.html?iref=rss",
+      "details": "Get a lifetime license to Microsoft Visual Studio 2026 Professional for just $29.99 (reduced from $499.99) with exclusive promo code \"DNVSPRO26\". Visual Studio 2026 Professional is a powerful integrated development environment (IDE) designed for professional d",
       "status": "needs_official_retailer_price_pair"
     },
     {

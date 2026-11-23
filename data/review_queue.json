@@ -1,13 +1,29 @@
 {
-  "generated_at": "2026-11-23T04:18:40.983091Z",
+  "generated_at": "2026-11-23T04:41:50.543629Z",
   "count": 288,
   "candidates": [
+    {
+      "id": "bc700ebfb95f5bce",
+      "title": "Amazon Essentials Women's Relaxed-Fit Cotton Muscle Tee w/ Ribbed Crew Neckline from $2.50",
+      "source": "Slickdeals Frontpage",
+      "url": "https://slickdeals.net/f/20370363-2-48-amazon-essentials-women-s-cotton-muscle-tee-tank-top-various-colors-sizes?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "details": "Amazon [amazon.com] has *Amazon Essentials Women's Relaxed-Fit Cotton Muscle Tee* (Light Grey Heather, Medium) for *$2.48*. Shipping is free w/ Prime or on orders $35+. That's a lower price than...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "c0700ed2fe3e10bf",
+      "title": "SAROS (PS5) $30",
+      "source": "Slickdeals Frontpage",
+      "url": "https://slickdeals.net/f/20372664-saros-ps5-for-29-97-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "details": "PS5 disc/physical for Saros from Housemarque, spiritual successor to Returnal. https://www.amazon.com/dp/B0G5RRPGFF",
+      "status": "needs_official_retailer_price_pair"
+    },
     {
       "id": "c5508cd4cf1ef386",
       "title": "1KG eSUN PETG 1.75mm 3D Printer Fliament (Black) $9.35",
       "source": "Slickdeals Frontpage",
       "url": "https://slickdeals.net/f/20369988-prime-esun-1kg-petg-3d-printer-filament-1-75mm-black-9-34-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "details": "Prime: *eSUN 1kg PETG 3D Printer Filament *1.75mm Black $9.34 + Free Shipping *eSUN *via Amazon has its PETG 3D Printer Filament, 1.75mm, Black, 1kg on sale for *$9.34*. The PETG material offers...",
+      "details": "3DHoJor via Amazon has *1KG eSUN PETG 1.75mm 3D Printer Fliament* (Black) on sale for *$9.34*. *Shipping is free* with Prime or orders $35+. Thanks to Community Member *thethingx* for finding this...",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -55,14 +71,14 @@
       "title": "1000-Pc The Coveted Comet Series 5 Jigsaw Puzzle $12.50",
       "source": "Slickdeals Frontpage",
       "url": "https://slickdeals.net/f/20369094-12-49-the-coveted-comet-1000-piece-puzzle-by-magic-puzzle-company-series-5-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "details": "Amazon.com has The Coveted Comet • 1000-Piece Puzzle by Magic Puzzle Company • Series 5 | Original handmade art filled with tiny details. Mind-blowing magical ending. Dozens of hidden secrets. No AI....",
+      "details": "Amazon has *1000-Piece The Coveted Comet Series 5 Jigsaw Puzzle by Magic Puzzle Company* on sale for *$12.49*. *Shipping is free* with Prime or on $35+ orders. Target also has *1000-Piece The...",
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "d549991e158a200e",
+      "id": "402abe020894f68d",
       "title": "G Gradual Men's Golf Polo Shirt (Golf Collection) $9.50",
       "source": "Slickdeals Frontpage",
-      "url": "https://slickdeals.net/f/20353224-g-gradual-men-s-golf-polo-shirt-golf-collection-s-3xl-9-49?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/20353224-g-gradual-men-s-golf-polo-shirt-golf-collection-9-50?utm_source=rss&utm_content=fp&utm_medium=RSS2",
       "details": "Amazon [amazon.com] has *G Gradual Men's Golf Shirt Short Sleeve Print Polo Shirt, Golf_collection, Large* for *$9.49*. Shipping is free w/ Prime or on orders $35+. This item is sold by a...",
       "status": "needs_official_retailer_price_pair"
     },
@@ -71,7 +87,7 @@
       "title": "Open Box: Samsung HW-B400F 2.0-Channel Soundbar w/ Built-In Woofer from $50 + Free Pickup",
       "source": "Slickdeals Frontpage",
       "url": "https://slickdeals.net/f/20367114-open-box-samsung-hw-b400f-2-0-channel-soundbar-w-built-in-woofer-from-49-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "details": "Best Buy [bestbuy.com] has *Samsung HW-B400F 2.0-Channel Soundbar w/ Built-In Woofer* (Open-Box) on sale for *$49.99*. *Shipping is free.* Available Options:[LIST][*]Excellent [bestbuy.com]...",
+      "details": "Select Best Buy Stores have *Samsung HW-B400F 2.0-Channel Soundbar w/ Built-In Woofer* (Open-Box) on sale *from $49.99*. Select free store pickup where available. Otherwise, if shipping is available,...",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -91,19 +107,67 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "68ce39ecb20d6e31",
-      "title": "2-Ct 8.5-Oz OREO White Fudge Covered Chocolate Sandwich Cookies + $1 Walmart Cash $8.15 + Free Pickup",
-      "source": "Slickdeals Frontpage",
-      "url": "https://slickdeals.net/f/20360421-4-08-walmart-regional-stock-oreo-white-fudge-covered-chocolate-sandwich-cookies-limited-edition-holiday-cookies-8-5-oz-buy-2-get-50c-wmt-cash?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "details": "https://www.walmart.com/ip/OREO-W...10?clickid",
+      "id": "6f6ecc408697751c",
+      "title": "Cuisinart 2-Qt. Ice Cream Maker Machine (ICE-30BCP1) $59.99 + Free Shipping",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20334711-cuisinart-2-qt-ice-cream-maker-machine-ice-30bcp1-59-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Amazon [amazon.com] has *Cuisinart 2-Qt. Ice Cream Maker Machine (ICE-30BCP1)* on sale for *$59.99*. *Shipping is free*.",
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "b13a725028f03034",
-      "title": "Nintendo Switch Digital Games: Metroid Prime 4: Beyond $40 & More",
-      "source": "Slickdeals Frontpage",
-      "url": "https://slickdeals.net/f/20368227-39-99-metroid-prime-4-beyond-nintendo-switch-digital-code-more-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "details": "Amazon.com Services LLC via Amazon [amazon.com] has *Metroid Prime 4: Beyond *(Nintendo Switch Digital Code) for *$39.99*. *Shipping is free*.[list][*]Donkey Kong Bananza [amazon.com] (Nintendo...",
+      "id": "c2a5362d1d206a21",
+      "title": "$10.63: WORKPRO 8-Inch Long Nose Slip Joint Pliers, CR-V Steel Needle Nose Pliers at Amazon",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20340306-10-63-workpro-8-inch-long-nose-slip-joint-pliers-cr-v-steel-needle-nose-pliers-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "WORKPRO 8-Inch Long Nose Slip Joint Pliers, CR-V Steel Needle Nose Pliers | Comfortable Grip Handles, 3-Zone Serrated Grip, Widened Jaw, Small Pliers, for Clamping, Tightening and Loosening, Blue ...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "9b0195920783da9f",
+      "title": "3-in-1 VEVOR Memory Foam Folding Sofa Bed w/ 2 Pillows & Washable Cover (Dark Grey) $41.99 + Free Shipping w/ Prime",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20372937-3-in-1-vevor-memory-foam-folding-sofa-bed-w-2-pillows-washable-cover-dark-grey-41-99-free-shipping-w-prime?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Woot! [woot.com] has *VEVOR 3-in-1 Memory Foam Folding Sofa Bed w/ 2 Pillows & Washable Cover (Dark Grey)* on sale for *$41.99*. Shipping is free w/ Prime (must be signed in) or is otherwise a flat...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "61f81b6c030d29e1",
+      "title": "COOFANDY Men's Corduroy Quarter Zip Pullover Sweatshirt $12.49, Various Colors & Sizes",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20367585-coofandy-men-s-corduroy-quarter-zip-pullover-sweatshirt-12-49-various-colors-sizes?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Amazon [amazon.com] has *COOFANDY Men's Corduroy Quarter Zip Pullover Sweatshirt (Dark Grey, X-Large)* for *$12.49*. Shipping is free w/ Prime or on orders $35+. This item is sold by COOFANDY...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "852750d772cb83bf",
+      "title": "Heroes TV show complete bundle digital $20",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20372652-heroes-tv-show-complete-bundle-digital-20?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Lowest price. Also on Apple https://athome.fandango.com/conte...le/1160196",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "4262f598cf2b3233",
+      "title": "Select Accounts: 10.5-Oz Pace Medium Nacho Cheese Sauce $1.31 w/ S&S + Free Shipping w/ Prime or on $35+",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20373108-select-accounts-10-5-oz-pace-medium-nacho-cheese-sauce-1-31-w-s-s-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Amazon [amazon.com] has for select accounts *10.5-Oz Pace Medium Nacho Cheese Sauce* on sale for $1.87 - 25% off when you 'clip' the coupon on product page [amazon.com] - 5% off when you checkout via...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "4c359cb9ba91e40c",
+      "title": "S Pro 2026 Wireless Meat Thermometer with WiFi & Bluetooth 5.4, LED Display, 6 Sensors $14.99",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20327931-s-pro-2026-wireless-meat-thermometer-with-wifi-bluetooth-5-4-led-display-6-sensors-14-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "eCoupon at checkout: P6N5V39Q ​Note: Promo codes are typically for one-time use and don't always apply seamlessly. If you run into this issue, refresh the page, re-enter the code, or revisit the...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "d4a156ab864c5eba",
+      "title": "LEGO® Harry Potter™ Privet Drive Escape 76459 or Grogu Homestead 75443 $15.99 + more JC Penney Lego Sale",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20364546-lego-harry-potter-privet-drive-escape-76459-or-grogu-homestead-75443-15-99-more-jc-penney-lego-sale?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Landing page https://www.jcpenney.com/g/toys-a...B-_-LEGO_4 New! LEGO® Harry Potter™ Hagrid™ & Harry'S Privet Drive Escape 76459 Building Set 124-pc. BLACK FRIDAY DEAL! $15.99...",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -243,70 +307,6 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "5959e5cca8b95e20",
-      "title": "[Prime] 46\" x 15\" Bafeil Extra Large Red Sequin Christmas Tree Topper Bow w/ Long Streamers $8.49 + Free Shipping",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20372283-prime-46-x-15-bafeil-extra-large-red-sequin-christmas-tree-topper-bow-w-long-streamers-8-49-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Bylure via Amazon [amazon.com] has for *Prime Members*: *46\" x 15\" Bafeil Extra Large Red Sequin Christmas Tree Topper Bow w/ Long Streamers* on sale for $12.49 - $4 off when you apply promo code...",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "7880661ad528653a",
-      "title": "72-Count Ticonderoga Wood-Cased Pencils, Unsharpened, #2 HB Soft $6.35 w/ Prime s/h @Amazon",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20369547-72-count-ticonderoga-wood-cased-pencils-unsharpened-2-hb-soft-6-35-w-prime-s-h-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Ships and sold by Amazon. These come as 12-packs and includes 6 of them * Product Link [amazon.com]",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "ec593b7151357bc3",
-      "title": "4-Pack 156' Multicolor Solar Christmas String Lights w/ 320 LEDs & 8 Modes $15.99",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20331639-4-pack-156-multicolor-solar-christmas-string-lights-w-320-leds-8-modes-15-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Jianhuayanghai via Amazon has 4-Pack 156' Multicolor Solar Christmas String Lights w/ 320 LEDs & 8 Modes on sale for $15.99 when you use code *GZDXKKCH *at checkout ...",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "bd27e31356d7b920",
-      "title": "$279.99 FS WALMART by Great Star WORKPRO 96\"x24\" Large Workbench with Adjustable Height and Power Outlet, 4000 LBS Load Capacity Heavy-Duty Work Table",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20371626-279-99-fs-walmart-by-great-star-workpro-96-x24-large-workbench-with-adjustable-height-and-power-outlet-4000-lbs-load-capacity-heavy-duty-work-table?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "https://www.walmart.com/ip/WORKPR...9660?class",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "c1eda2a016646195",
-      "title": "Playstation DualSense Wireless Controller and Charging Station - White $69.99 free shipping Costco.com",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20372649-playstation-dualsense-wireless-controller-and-charging-station-white-69-99-free-shipping-costco-com?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "3b41f93d6003d914",
-      "title": "50-Count GYMGUM Caffeine Energy Gum (Spearmint) 2 for $11.99 ($6 each) w/ S&S + Free Shipping w/ Prime or on $35+",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20372985-50-count-gymgum-caffeine-energy-gum-spearmint-2-for-11-99-6-each-w-s-s-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "GYMGUM via Amazon [amazon.com] has *50-Count GYMGUM Caffeine Energy Gum (Spearmint)* on sale for 2 for $29.98 - 10% off when you checkout via Subscribe & Save = *2 for $11.99* ($6 each). Shipping is...",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "d29e2a9095b6ce4c",
-      "title": "Step2 Tropical Rainforest Water Table, Kids' Outdoor Water Toy w/Waterfall | 13-Piece Accessory Set, Rain Shower Effect, Rearrangeable Water Maze $62",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20372445-step2-tropical-rainforest-water-table-kids-outdoor-water-toy-w-waterfall-13-piece-accessory-set-rain-shower-effect-rearrangeable-water-maze-62?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Step2 Tropical Rainforest Water Table, Kids' Outdoor Water Toy w/Waterfall [amazon.com] $62.00 13-Piece Accessory Set, Rain Shower Effect, Rearrangeable Water Maze, Tropical Theme, Multi-Child Play,...",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "315b9687a48f2afd",
-      "title": "$2.39: Darkest Dungeon @ Loaded",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20372421-2-39-darkest-dungeon-loaded?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Loaded [loaded.com] has *Darkest Dungeon* on sale for *$2.39*. *Details:* * PC digital game key redeemable on Steam * Activates in the United States",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
       "id": "97fa9116b58813a9",
       "title": "Designer Handbag Black Friday Clearance at Belk: Up to 70% off + free shipping w/ $99",
       "source": "DealNews Latest",
@@ -355,11 +355,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "05afd0598294de7b",
-      "title": "Costco 1-Year Gold Star Membership for $65 w/ $45 Costco Shop Card + free shipping",
+      "id": "23891300dabaaaa7",
+      "title": "VideoProc Converter AI Lifetime License Black Friday Deal: Up to 65% off + digital delivery",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Costco-1-Year-Gold-Star-Membership-for-65-w-45-Costco-Shop-Card-free-shipping/22370289.html?iref=rss",
-      "details": "Join Costco as a new Gold Star member for $65, then be sure to enroll in auto renewal of your annual membership, and you'll receive a $45 Digital Costco Shop Card for free via the promo code \"NEWMBR26\". Note that this offer is only valid for new members or tho",
+      "url": "https://www.dealnews.com/Video-Proc-Converter-AI-Lifetime-License-Black-Friday-Deal-Up-to-65-off-digital-delivery/22411446.html?iref=rss",
+      "details": "Digiarty is offering its lowest price of the year on VideoProc Converter AI for Windows and Mac for two weeks only, with up to 65% off a lifetime license, free lifetime updates, and gifts—including AI background removal tool and iPhone file manager. Whether yo",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -411,11 +411,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "e3eea6a836cce8e0",
-      "title": "Fanatics Black Friday Sale: Up to an extra 50% off",
+      "id": "3a5ea75c4a7db0f6",
+      "title": "Black Friday Sale at The Jacket Maker: Up to 25% off + extra 12% off + free shipping",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Fanatics-Black-Friday-Sale-Up-to-an-extra-50-off/22420669.html?iref=rss",
-      "details": "The Fanatics Black Friday Sale is now live, with the promo code \"MERRY\" taking up to 50% off across the store. It even applies to clearance items, already discounted by up to 85%, to take an extra 5% off. Jerseys, hoodies, and hats from all leagues are eligibl",
+      "url": "https://www.dealnews.com/Black-Friday-Sale-at-The-Jacket-Maker-Up-to-25-off-extra-12-off-free-shipping/22402939.html?iref=rss",
+      "details": "Get 20% off all outerwear and 25% off leather bags and shoes, plus an extra 12% off with coupon code \"DN12TJM\" during The Jacket Maker's Black Friday Sale. Shop Now at The Jacket Maker Features Widest range with 450+ designs of men's and women's leather jacket",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -467,11 +467,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "6551d98925744f65",
-      "title": "Sleep Number Essential Bedroom Furniture Black Friday Sale: 40% off + free shipping",
+      "id": "05afd0598294de7b",
+      "title": "Costco 1-Year Gold Star Membership for $65 w/ $45 Costco Shop Card + free shipping",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Sleep-Number-Essential-Bedroom-Furniture-Black-Friday-Sale-40-off-free-shipping/22405840.html?iref=rss",
-      "details": "Sleep Number's Black Friday Sale takes 40% off essential furniture including Lifestyle and Signature upholstered beds and headboards. Lifestyle side tables and support bars are also reduced. Shop Now at Sleep Number Features Upholstered beds and headboards in ",
+      "url": "https://www.dealnews.com/Costco-1-Year-Gold-Star-Membership-for-65-w-45-Costco-Shop-Card-free-shipping/22370289.html?iref=rss",
+      "details": "Join Costco as a new Gold Star member for $65, then be sure to enroll in auto renewal of your annual membership, and you'll receive a $45 Digital Costco Shop Card for free via the promo code \"NEWMBR26\". Note that this offer is only valid for new members or tho",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -523,11 +523,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "3a5ea75c4a7db0f6",
-      "title": "Black Friday Sale at The Jacket Maker: Up to 25% off + extra 12% off + free shipping",
+      "id": "6551d98925744f65",
+      "title": "Sleep Number Essential Bedroom Furniture Black Friday Sale: 40% off + free shipping",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Black-Friday-Sale-at-The-Jacket-Maker-Up-to-25-off-extra-12-off-free-shipping/22402939.html?iref=rss",
-      "details": "Get 20% off all outerwear and 25% off leather bags and shoes, plus an extra 12% off with coupon code \"DN12TJM\" during The Jacket Maker's Black Friday Sale. Shop Now at The Jacket Maker Features Widest range with 450+ designs of men's and women's leather jacket",
+      "url": "https://www.dealnews.com/Sleep-Number-Essential-Bedroom-Furniture-Black-Friday-Sale-40-off-free-shipping/22405840.html?iref=rss",
+      "details": "Sleep Number's Black Friday Sale takes 40% off essential furniture including Lifestyle and Signature upholstered beds and headboards. Lifestyle side tables and support bars are also reduced. Shop Now at Sleep Number Features Upholstered beds and headboards in ",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -579,11 +579,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "23891300dabaaaa7",
-      "title": "VideoProc Converter AI Lifetime License Black Friday Deal: Up to 65% off + digital delivery",
+      "id": "c3c161e652b313c3",
+      "title": "CIT Bank Savings Connect Account: Safe and Secure Money Growth",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Video-Proc-Converter-AI-Lifetime-License-Black-Friday-Deal-Up-to-65-off-digital-delivery/22411446.html?iref=rss",
-      "details": "Digiarty is offering its lowest price of the year on VideoProc Converter AI for Windows and Mac for two weeks only, with up to 65% off a lifetime license, free lifetime updates, and gifts—including AI background removal tool and iPhone file manager. Whether yo",
+      "url": "https://www.dealnews.com/CIT-Bank-Savings-Connect-Account-Safe-and-Secure-Money-Growth/21926164.html?iref=rss",
+      "details": "Receive 3.65%* APY Earn 9x** the national average $100 minimum account opening Member FDIC No Monthly Service fees No account opening fees *APY — Annual Percentage Yield is accurate as of July 1, 2026. Interest Rates for the Savings Connect Account are variabl",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -635,11 +635,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "c3c161e652b313c3",
-      "title": "CIT Bank Savings Connect Account: Safe and Secure Money Growth",
+      "id": "e3eea6a836cce8e0",
+      "title": "Fanatics Black Friday Sale: Up to an extra 50% off",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/CIT-Bank-Savings-Connect-Account-Safe-and-Secure-Money-Growth/21926164.html?iref=rss",
-      "details": "Receive 3.65%* APY Earn 9x** the national average $100 minimum account opening Member FDIC No Monthly Service fees No account opening fees *APY — Annual Percentage Yield is accurate as of July 1, 2026. Interest Rates for the Savings Connect Account are variabl",
+      "url": "https://www.dealnews.com/Fanatics-Black-Friday-Sale-Up-to-an-extra-50-off/22420669.html?iref=rss",
+      "details": "The Fanatics Black Friday Sale is now live, with the promo code \"MERRY\" taking up to 50% off across the store. It even applies to clearance items, already discounted by up to 85%, to take an extra 5% off. Jerseys, hoodies, and hats from all leagues are eligibl",
       "status": "needs_official_retailer_price_pair"
     },
     {

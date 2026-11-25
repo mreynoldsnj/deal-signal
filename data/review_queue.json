@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-11-25T04:18:05.340208Z",
-  "count": 285,
+  "generated_at": "2026-11-25T04:40:32.015748Z",
+  "count": 287,
   "candidates": [
+    {
+      "id": "a4051b30c2bd7eb4",
+      "title": "New Criterion Subscribers: 1-Year The Criterion Channel Subscription $75",
+      "source": "Slickdeals Frontpage",
+      "url": "https://slickdeals.net/f/20388999-new-users-12-month-criterion-subscription-74-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "details": "Criterion has for new subscribers a *12-month subscription* for $99.99 - 25% off with coupon code BF2026 at checkout = *$74.99.* *Note*: The promotional price is only valid for the first year....",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "557add3bded51734",
+      "title": "Kranchungel Christmas Men's or Women's Onesie Pajamas (Red Reindeer) $15",
+      "source": "Slickdeals Frontpage",
+      "url": "https://slickdeals.net/f/20386908-christmas-onesie-pajamas-couples-family-xmas-hooded-pjs-14-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "details": "Use promocode VLC9R2IV for 50% off. Xmas Couples Jumpsuit Hooded, Long Sleeve Design, Matching Family Sleepwear, Holiday Pajamas for Women Men Adults https://www.amazon.com/dp/B0BJ92J7WW",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "5d934da339f95b00",
+      "title": "AMD Ryzen 7 9800X3D Granite Ridge 4.70Ghz 8-Core Desktop Processor $350 + Free Pickup",
+      "source": "Slickdeals Frontpage",
+      "url": "https://slickdeals.net/f/20386572-amd-ryzen-7-9800x3d-granite-ridge-am5-4-70ghz-8-core-boxed-processor-350?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "details": "*Microcenter* has *AMD Ryzen 7 9800X3D Granite Ridge AM5 4.70GHz 8-Core Boxed Processor [microcenter.com]* (Heatsink not included) on sale for* $349.99*. This offer is only available via free store...",
+      "status": "needs_official_retailer_price_pair"
+    },
     {
       "id": "8875e338dd59cb06",
       "title": "Select Accts: Apple AirPods 4 Wireless Earbud Headphones + Filler Item $79.20 + Store Pick Up",
@@ -51,35 +75,75 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "65ec3c0c1430cb8d",
-      "title": "40-Oz Owala FreeSip Stainless Steel Water Bottle (4 Colors) $20 + Free Pickup",
-      "source": "Slickdeals Frontpage",
-      "url": "https://slickdeals.net/f/20380047-40-oz-owala-freesip-stainless-steel-water-bottle-4-colors-20-free-shipping-on-49?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "details": "Dick's Sporting Goods [dickssportinggoods.com] has *40-Oz Owala FreeSip Stainless Steel Water Bottle (4 Colors) *on sale for *$20*. Shipping is free for Score Card Members on orders over $49 (free to...",
+      "id": "b4a8e0a5b863d9f2",
+      "title": "Michael Kors Maeve Large East West Pocket Crossbody Bag (2 Colors) $86.06 + Free Store Pickup at Macy's or Free Shipping on $39+",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20391372-michael-kors-maeve-large-east-west-pocket-crossbody-bag-2-colors-86-06-free-store-pickup-at-macy-s-or-free-shipping-on-39?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Macy's [macys.com] has *Michael Kors Maeve Large East West Pocket Crossbody Bag (2 Colors)* on sale for *$86.06*. Select free store pickup where available, otherwise shipping is free on orders $39+...",
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "62a26e4da94598e1",
-      "title": "347-Pc LEGO Star Wars SMART Play: AT-ST Attack on Endor Set $28",
-      "source": "Slickdeals Frontpage",
-      "url": "https://slickdeals.net/f/20368821-347-pc-lego-star-wars-smart-play-at-st-attack-on-endor-set-27-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "details": "Amazon [amazon.com] has *347-Pc LEGO Star Wars SMART Play: AT-ST Attack on Endor Set * for *$27.99*. Shipping is free w/ Prime or on $35+. Product Description from Amazon:[list][*]COMPATIBLE...",
+      "id": "15cd27e25c972512",
+      "title": "Refurb: eufy Security Solar Wall Light Camera S120 Wireless Outdoor 2K Camera (Refurbished) $49.99 + Free Shipping",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20380926-refurb-eufy-security-solar-wall-light-camera-s120-wireless-outdoor-2k-camera-refurbished-49-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Anker Outlet Store via eBay [ebay.com] has *Refurbished eufy Security Solar Wall Light Camera S120 Wireless Outdoor 2K Camera (Refurbished)* on sale for $62.49 - $12.50 off when you apply promo code...",
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "69e5a7b75daeec36",
-      "title": "363-Pc LEGO Creator 3-in-1 Typewriter w/ Flowers Building Set $16.80",
-      "source": "Slickdeals Frontpage",
-      "url": "https://slickdeals.net/f/20369073-lego-creator-3-in-1-set-typewriter-w-flowers-keytar-on-stand-flowerpot-w-pen-notebook-16-79-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "details": "Amazon [amazon.com] has *LEGO Creator 3-in-1 Set: Typewriter w/ Flowers, Keytar on Stand, & Flowerpot w/ Pen & Notebook* for *$16.79*. Shipping is free w/ Prime or on $35+. Product Description...",
+      "id": "ae188c31016d7885",
+      "title": "$24.79 ac PRIME WOOT Calvin Klein Obsession For Women Eau de Parfum, 3.4 oz",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20383950-24-79-ac-prime-woot-calvin-klein-obsession-for-women-eau-de-parfum-3-4-oz?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "https://www.woot.com/offers/calvi...cnt_wp_0_5 SCENTSALE is promo code",
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "f17dc11ccf3fc965",
-      "title": "1.86-Oz Snickers Candy Bar $0.05 + Free Pickup on $10+",
-      "source": "Slickdeals Frontpage",
-      "url": "https://slickdeals.net/f/20391213-1-86-oz-snickers-candy-bar-0-05-free-pickup-on-10?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "details": "Limit 5 per order. Pickup is free on $10+........................ https://www.walgreens.com/store/c...02-product",
+      "id": "79e12531f343e732",
+      "title": "SanDisk 256GB Extreme Fit USB-C Flash Drive (400MB/s) $49.99 + Free Shipping",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20378226-sandisk-256gb-extreme-fit-usb-c-flash-drive-400mb-s-49-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Amazon [amazon.com] has *SanDisk 256GB Extreme Fit USB-C Flash Drive (400MB/s)* on sale for *$49.99*. *Shipping is free*. *Compiled From Merchant's Product...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "91e3069d7fafba78",
+      "title": "Casio Vintage Digital Gold-Tone Stainless Steel Watch $59.49 + $9.82 Shipping",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20389962-casio-vintage-digital-gold-tone-stainless-steel-watch-59-49-9-82-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Watch Gang [watchgang.com] has the *Casio Vintage Digital Gold-Tone Stainless Steel Watch* on sale with code 8JPS9CFTH7TKfor *$59.49.* Shipping is $9.82[list][*]Brand: Casio[*]Model: Vintage...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "160e9a2e1c588bad",
+      "title": "Highlights 365 Days of Jokes Kids Joke-A-Day Book (Ages 6+) $3.06 + Free Shipping w/ Prime or on $35+",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20388237-highlights-365-days-of-jokes-kids-joke-a-day-book-ages-6-3-06-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Amazon [amazon.com] has *Highlights 365 Days of Jokes Kids Joke-A-Day Book (Ages 6+)* on sale for *$3.06*. Shipping is free w/ Prime or on orders $35+. *Features:*[list][*]Over 1,000 clean,...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "cf63890a3ec0205b",
+      "title": "$479.99 | 256GB 11\" Apple iPad A16 Chip Wi-Fi Tablet (11th Gen, Blue or Silver) at Amazon",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20391654-479-99-256gb-11-apple-ipad-a16-chip-wi-fi-tablet-11th-gen-blue-or-silver-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Amazon [amazon.com] has *256GB 11\" Apple iPad A16 Chip Wi-Fi Tablet *(11th Gen, Blue or Silver) for *$479.99*. *Shipping is free*. * Blue [amazon.com] * Silver [amazon.com] *Savings* Offer...",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "7d43f07b2a0505a7",
+      "title": "20-Volt Max Lithium-Ion Cordless Brushless 3-Speed Oscillating Multi Tool with 4.0 Ah Battery and Charger $99 @HomeDepot",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20391423-20-volt-max-lithium-ion-cordless-brushless-3-speed-oscillating-multi-tool-with-4-0-ah-battery-and-charger-99-homedepot?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "20-Volt Max Lithium-Ion Cordless Brushless 3-Speed Oscillating Multi https://www.homedepot.com/p/DEWAL.../341367667",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "19acee16c09735f6",
+      "title": "Ninja Nutri-Blender Pro w/ Auto-iQ 1100W Personal Blender & (2) 24-Oz Cups (BN401) $69.99 + Free Shipping",
+      "source": "Slickdeals Popular",
+      "url": "https://slickdeals.net/f/20386995-ninja-nutri-blender-pro-w-auto-iq-1100w-personal-blender-2-24-oz-cups-bn401-69-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "details": "Amazon [amazon.com] has *Ninja Nutri-Blender Pro w/ Auto-iQ 1100W Personal Blender & (2) 24-Oz Cups (BN401)* on sale for *$69.99*. *Shipping is free*. Shark Ninja Store via Walmart [walmart.com]...",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -203,78 +267,6 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "7bcc891b47205e8a",
-      "title": "Thermaltake TH420 V2 Ultra 420mm ARGB AIO Liquid CPU Cooler w/ LCD (Black) $89.99 (Reg. $209.99) + Free Shipping",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20391060-thermaltake-th420-v2-ultra-420mm-argb-aio-liquid-cpu-cooler-w-lcd-black-89-99-reg-209-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Thermaltake Official Store via Amazon has the Thermaltake TH420 V2 Ultra 420mm ARGB AIO Liquid CPU Cooler w/ LCD (Black) for *$89.99* (was $209.99) = 57% off. Black Friday deal price, no code...",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "07a63e1558073b51",
-      "title": "4\" Workpro Stubby Adjustable Wrench w/ Thin Jaws (Blue) $8.11 + Free Shipping w/ Prime or on $35+",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20390925-4-workpro-stubby-adjustable-wrench-w-thin-jaws-blue-8-11-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Kaya depot via Amazon [amazon.com] has *4\" Workpro Stubby Adjustable Wrench w/ Thin Jaws (Blue)* on sale for *$8.11*. Shipping is free w/ Prime or on orders $35+. Product Description from...",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "a4d0c56983c242f9",
-      "title": "MSI G274QPF 27\" 1440p 170Hz IPS Nvidia G-Sync Gaming Monitor $129.99",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20389029-msi-g274qpf-27-1440p-170hz-ips-nvidia-g-sync-gaming-monitor-129-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "MSI G274QPF 27\" 1440p 170Hz IPS Nvidia G-Sync Gaming Monitor https://www.costco.com/p/-/msi-27...4000203457",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "0d1343640da2ebdd",
-      "title": "Milwaukee M12 12V Li-Ion Cordless 1/4 in. Hex Screwdriver Kit & SHOCKWAVE Impact Duty Alloy Steel Screw Driver Bit Set (35-Piece) $71.49",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20375109-milwaukee-m12-12v-li-ion-cordless-1-4-in-hex-screwdriver-kit-shockwave-impact-duty-alloy-steel-screw-driver-bit-set-35-piece-71-49?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "This is a deal of the week. Price good through Sunday while supplies last. Free delivery. https://www.homedepot.com/p/Milwa.../343493727",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "817535694b612cf1",
-      "title": "$9 WMT+ Hanes Boys Boxer Briefs Underwear Pack, 10-pack, Comfort Flex Tagless Boys Underwear, S-XL",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20374086-9-wmt-hanes-boys-boxer-briefs-underwear-pack-10-pack-comfort-flex-tagless-boys-underwear-s-xl?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "https://www.walmart.com/ip/Hanes-...ntIntent=I",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "c1d1baea250a55af",
-      "title": "7.25-Oz Fisher Dry Roasted Sunflower Seed Kernels w/ Sea Salt $2.80 w/ S&S + Free Shipping w/ Prime or on $35+",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20391642-7-25-oz-fisher-dry-roasted-sunflower-seed-kernels-w-sea-salt-2-80-w-s-s-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Amazon [amazon.com] has *7.25-Oz Fisher Dry Roasted Sunflower Seed Kernels w/ Sea Salt* on sale for $2.95 - 5% off when you checkout via Subscribe & Save = *$2.80*. Shipping is free w/ Prime or on...",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "43e124650b46e6ea",
-      "title": "WM | straight talk Iphone 16e 128GB - $199 and Samsung A27 - $99 | NO PLAN PURCHASE require| Use on existing Line",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20391429-wm-straight-talk-iphone-16e-128gb-199-and-samsung-a27-99-no-plan-purchase-require-use-on-existing-line?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "*This deal is much better than buying from straight talk as you donot need to buy plan. you can activate with existing line and can get it unlock after 365 days of paid service.* Iphone SE ...",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "8b8a1bf6224f640f",
-      "title": "72-Piece BePuzzled Disney Frozen Sven Deluxe Original 3D Crystal Puzzle $9.99 + Free Shipping w/ Prime or on $35+",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20390544-72-piece-bepuzzled-disney-frozen-sven-deluxe-original-3d-crystal-puzzle-9-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Amazon [amazon.com] has *72-Piece BePuzzled Disney Frozen Sven Deluxe Original 3D Crystal Puzzle* for *$9.99*. Shipping is free w/ Prime or on $35+. Product Description from Amazon:[list][*]SVEN...",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
-      "id": "7b3e8d2eebb51252",
-      "title": "Cotton Carrier CCS G3 Camera Harness System for One Camera, Grey or Camo with Free Shipping at Amazon.com $96.75",
-      "source": "Slickdeals Popular",
-      "url": "https://slickdeals.net/f/20390490-cotton-carrier-ccs-g3-camera-harness-system-for-one-camera-grey-or-camo-with-free-shipping-at-amazon-com-96-75?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "details": "Cotton Carrier CCS G3 Camera Harness System for One Camera, Grey or Camo with Free Shipping at Amazon. This system is designed for the active photographer. The harness supports and secures one...",
-      "status": "needs_official_retailer_price_pair"
-    },
-    {
       "id": "92949880a9185517",
       "title": "Lenovo WL300 Bluetooth Silent Mouse for $11 + free shipping w/ Prime",
       "source": "DealNews Latest",
@@ -323,11 +315,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "4491ec63c60d5458",
-      "title": "Songmics LED Cabinet Jewelry Organizer for $81 + free shipping",
+      "id": "7391c50d52a47816",
+      "title": "Home Depot Black Friday Floor Care Sale: Up to 40% off + free shipping",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/products/Songmics/Songmics-LED-Cabinet-Jewelry-Organizer/563280.html?iref=rss",
-      "details": "Storing rings, necklaces, and earrings in one spot without cluttering a dresser top is the main draw here, and the built-in LED lighting makes it easier to actually see what you own. At $80.95, that's $29 off the $109.99 list price. Deal ends November 30. Buy ",
+      "url": "https://www.dealnews.com/Home-Depot-Black-Friday-Floor-Care-Sale-Up-to-40-off-free-shipping/22427446.html?iref=rss",
+      "details": "Home Depot's Black Friday Floor Care Sale takes up to 40% off select vacuums from Bissell, Dyson, Ryobi, Shark, and iRobot. The Shark PowerPro cordless stick vacuum drops to $179, down from $329, and has a self-cleaning brushroll built to resist hair wrap. Shi",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -379,11 +371,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "656ca286ef92cc3a",
-      "title": "Sleep Number Throws Black Friday Deals: Buy one, get one 50% off + free shipping",
+      "id": "16c751e74dc230cb",
+      "title": "Running Girl Women's Padded Crisscross Back Longline Sports Bra for $19 + free shipping w/ Prime",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Sleep-Number-Throws-Black-Friday-Deals-Buy-one-get-one-50-off-free-shipping/22405876.html?iref=rss",
-      "details": "Sleep Number is offering buy one, get one 50% off select bedding, including plush throws, weighted blankets, cooling blankets, and coverlet sets. Prices start at $59.99, with a variety of colors, materials, and styles available. Shop Now at Sleep Number Featur",
+      "url": "https://www.dealnews.com/Running-Girl-Womens-Padded-Crisscross-Back-Longline-Sports-Bra-for-19-free-shipping-w-Prime/22427460.html?iref=rss",
+      "details": "Stay comfortable and supported during yoga, workouts, or everyday activities with this sweat-wicking sports bra featuring removable padding, stretchy fabric, and a stylish crisscross back. It's currently $19, down from $24. Deal ends November 30. Buy Now at Am",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -435,11 +427,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "c58d00abb6af004d",
-      "title": "Bark Black Friday Dog Adoption Event at Pupstarz Rescue: Adopt with no fees + free shipping",
+      "id": "c60ce9e77b297d62",
+      "title": "VIPOutlet Deals at eBay: Up to 70% off + extra 8% off + free shipping",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Bark-Black-Friday-Dog-Adoption-Event-at-Pupstarz-Rescue-Adopt-with-no-fees-free-shipping/22424918.html?iref=rss",
-      "details": "This Bark Friday, give a dog a home. Meet adoptable dogs at Pupstarz Rescue with names inspired by Black Friday finds. Bark covers the adoption fee for eligible adoptions of participating dogs directly with Pupstarz Rescue. No purchase necessary. Offer ends No",
+      "url": "https://www.dealnews.com/VIPOutlet-Deals-at-eBay-Up-to-70-off-extra-8-off-free-shipping/22427876.html?iref=rss",
+      "details": "Here you'll find a large selection of clearance electronics, home items, watches, and more, discounted up to 70% off. Even better, use promo code \"VIPNOVTAKE8\" to get an extra 8% off. We've pictured the Refurb Apple AirPods 4 w/ Active Noise Cancellation for $",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -491,11 +483,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "de6430bc7398b04d",
-      "title": "XTEINK X4 Classic 4.3\" E-Ink Pocket eReader for $55 + free shipping",
+      "id": "ff221ba86d16f614",
+      "title": "adidas Men's Daily 4.0 Sneakers for $30 + free shipping w/ Prime",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/products/Memoket/XTEINK-X4-Classic-4-3-E-Ink-Pocket-eReader/563335.html?iref=rss",
-      "details": "Enjoy distraction-free reading wherever you go with this pocket-sized eReader featuring a glare-free E-Ink display, physical page-turn buttons, and an ultra-lightweight design. It's currently $34 off at Amazon. Deal ends November 30. Buy Now at Amazon Features",
+      "url": "https://www.dealnews.com/adidas-Mens-Daily-4-0-Sneakers-for-30-free-shipping-w-Prime/22428268.html?iref=rss",
+      "details": "These adidas Men's Daily 4.0 sneakers are 54% off at Amazon. The $30 price is below the 90-day Amazon average of $48. Shipping is free for Prime members. Buy Now at Amazon Features Low-cut skate-style sneaker for men Lace-up closure Available in men's sizes 4 ",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -547,11 +539,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "769537a1b3f6baad",
-      "title": "FastestVPN PRO Lifetime Subscription for 15 Devices for $23",
+      "id": "f92ec96152cc99cc",
+      "title": "Google Pixel 11 512GB 5G Android Smartphone for Mint Mobile for $365 + 1-year of Unlimited for $15/month + free shipping",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Fastest-VPN-PRO-Lifetime-Subscription-for-15-Devices-for-23/22424914.html?iref=rss",
-      "details": "With promo code \"FASTDEAL\", this FastestVPN PRO lifetime subscription costs $22.97 down from the $600 regular price. Protect your online privacy across up to 15 devices with encrypted VPN connections, 900+ servers in 100+ countries, and no recurring subscripti",
+      "url": "https://www.dealnews.com/Google-Pixel-11-512-GB-5-G-Android-Smartphone-for-Mint-Mobile-for-365-1-year-of-Unlimited-for-15-month-free-shipping/22427462.html?iref=rss",
+      "details": "At Mint Mobile, the Google Pixel 11 512GB Android Smartphone is $654 off at $365, down from $1,019. The price requires buying a new 12-month Mint plan, with the 6GB option available at $180 upfront (equal to $15/mo). Buy Now at Mint Mobile Features 512GB stora",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -603,11 +595,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "39cdd4e1951f6799",
-      "title": "Walmart Top 100 Black Friday Tech Deals: Up to 88% off + free shipping w/ $35",
+      "id": "de6430bc7398b04d",
+      "title": "XTEINK X4 Classic 4.3\" E-Ink Pocket eReader for $55 + free shipping",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/Walmart-Top-100-Black-Friday-Tech-Deals-Up-to-88-off-free-shipping-w-35/22427856.html?iref=rss",
-      "details": "Walmart's Black Friday Top 100 Tech Deals takes up to 88% off headphones, TVs, laptops, gaming gear, and smartwatches from brands like Apple, Beats, VIZIO, Hisense, and Sony. Of particular note, the pictured Apple AirPods Pro 3 and 2nd-generation Apple AirTag ",
+      "url": "https://www.dealnews.com/products/Memoket/XTEINK-X4-Classic-4-3-E-Ink-Pocket-eReader/563335.html?iref=rss",
+      "details": "Enjoy distraction-free reading wherever you go with this pocket-sized eReader featuring a glare-free E-Ink display, physical page-turn buttons, and an ultra-lightweight design. It's currently $34 off at Amazon. Deal ends November 30. Buy Now at Amazon Features",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -659,11 +651,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "15188d49b6e14b6b",
-      "title": "8Bitdo SN30 Pro Wireless Controller for $17 + free shipping",
+      "id": "39cdd4e1951f6799",
+      "title": "Walmart Top 100 Black Friday Tech Deals: Up to 88% off + free shipping w/ $35",
       "source": "DealNews Latest",
-      "url": "https://www.dealnews.com/8-Bitdo-SN30-Pro-Wireless-Controller-for-17-free-shipping/22427853.html?iref=rss",
-      "details": "At AliExpress, this 8Bitdo SN30 Pro controller is $17 after the promo code \"USBF3\". That's around half Amazon's price. It connects wirelessly over Bluetooth and works with Nintendo Switch 2, macOS, Android, Steam, and Raspberry Pi. The listing includes free sh",
+      "url": "https://www.dealnews.com/Walmart-Top-100-Black-Friday-Tech-Deals-Up-to-88-off-free-shipping-w-35/22427856.html?iref=rss",
+      "details": "Walmart's Black Friday Top 100 Tech Deals takes up to 88% off headphones, TVs, laptops, gaming gear, and smartwatches from brands like Apple, Beats, VIZIO, Hisense, and Sony. Of particular note, the pictured Apple AirPods Pro 3 and 2nd-generation Apple AirTag ",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -675,11 +667,11 @@
       "status": "needs_official_retailer_price_pair"
     },
     {
-      "id": "c60ce9e77b297d62",
-      "title": "VIPOutlet Deals at eBay: Up to 70% off + extra 8% off + free shipping",
+      "id": "15188d49b6e14b6b",
+      "title": "8Bitdo SN30 Pro Wireless Controller for $17 + free shipping",
       "source": "DealNews Editors",
-      "url": "https://www.dealnews.com/VIPOutlet-Deals-at-eBay-Up-to-70-off-extra-8-off-free-shipping/22427876.html?iref=rss",
-      "details": "Here you'll find a large selection of clearance electronics, home items, watches, and more, discounted up to 70% off. Even better, use promo code \"VIPNOVTAKE8\" to get an extra 8% off. We've pictured the Refurb Apple AirPods 4 w/ Active Noise Cancellation for $",
+      "url": "https://www.dealnews.com/8-Bitdo-SN30-Pro-Wireless-Controller-for-17-free-shipping/22427853.html?iref=rss",
+      "details": "At AliExpress, this 8Bitdo SN30 Pro controller is $17 after the promo code \"USBF3\". That's around half Amazon's price. It connects wirelessly over Bluetooth and works with Nintendo Switch 2, macOS, Android, Steam, and Raspberry Pi. The listing includes free sh",
       "status": "needs_official_retailer_price_pair"
     },
     {
@@ -688,6 +680,30 @@
       "source": "DealNews Editors",
       "url": "https://www.dealnews.com/Shelly-Smart-Home-Black-Friday-Deals-Up-to-60-off-free-shipping-w-50/22428160.html?iref=rss",
       "details": "Shelly is offering up to 60% off its smart home lineup for Black Friday, including smart plugs, sensors, lighting, control panels, relays and energy meters. Shelly devices work with Alexa, Google Home, SmartThings and Home Assistant, and Shelly’s Gen3 relays a",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "c58d00abb6af004d",
+      "title": "Bark Black Friday Dog Adoption Event at Pupstarz Rescue: Adopt with no fees + free shipping",
+      "source": "DealNews Editors",
+      "url": "https://www.dealnews.com/Bark-Black-Friday-Dog-Adoption-Event-at-Pupstarz-Rescue-Adopt-with-no-fees-free-shipping/22424918.html?iref=rss",
+      "details": "This Bark Friday, give a dog a home. Meet adoptable dogs at Pupstarz Rescue with names inspired by Black Friday finds. Bark covers the adoption fee for eligible adoptions of participating dogs directly with Pupstarz Rescue. No purchase necessary. Offer ends No",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "952f89abd42c1655",
+      "title": "High Test Gummies Sitewide Sale: Extra 20% off + free shipping w/ $50",
+      "source": "DealNews Editors",
+      "url": "https://www.dealnews.com/High-Test-Gummies-Sitewide-Sale-Extra-20-off-free-shipping-w-50/22427900.html?iref=rss",
+      "details": "Use coupon code \"DEALNEWS20\" to get this sitewide discount. It also stacks with High Test Gummies' in-cart discounts — if you buy five bottles, you get the fifth one free; or, if you buy six bottles or more, you get 20% off. Shipping adds $5, but orders of $50",
+      "status": "needs_official_retailer_price_pair"
+    },
+    {
+      "id": "769537a1b3f6baad",
+      "title": "FastestVPN PRO Lifetime Subscription for 15 Devices for $23",
+      "source": "DealNews Editors",
+      "url": "https://www.dealnews.com/Fastest-VPN-PRO-Lifetime-Subscription-for-15-Devices-for-23/22424914.html?iref=rss",
+      "details": "With promo code \"FASTDEAL\", this FastestVPN PRO lifetime subscription costs $22.97 down from the $600 regular price. Protect your online privacy across up to 15 devices with encrypted VPN connections, 900+ servers in 100+ countries, and no recurring subscripti",
       "status": "needs_official_retailer_price_pair"
     },
     {

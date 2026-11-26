@@ -50,7 +50,7 @@
     {
       "source": "Slickdeals Frontpage",
       "status": "ok",
-      "items": 18
+      "items": 16
     },
     {
       "source": "Slickdeals Popular",
@@ -60,17 +60,17 @@
     {
       "source": "DealNews Latest",
       "status": "ok",
-      "items": 47
+      "items": 45
     },
     {
       "source": "DealNews Editors",
       "status": "ok",
-      "items": 47
+      "items": 45
     },
     {
       "source": "TechBargains",
       "status": "ok",
-      "items": 150
+      "items": 149
     },
     {
       "source": "cDeals",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T01:15:41.908989Z",
+  "generated_at": "2026-11-27T01:41:56.265108Z",
   "minimum_discount_percent": 35,
   "evidence_policy": "official_retailer_price_pair_only",
   "deals": [],
@@ -18,12 +18,12 @@
     {
       "source": "DealNews Latest",
       "status": "ok",
-      "items": 49
+      "items": 50
     },
     {
       "source": "DealNews Editors",
       "status": "ok",
-      "items": 49
+      "items": 50
     },
     {
       "source": "TechBargains",
